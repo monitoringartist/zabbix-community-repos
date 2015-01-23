@@ -124,3 +124,6 @@
 [submodule "API-Java-(micw)/repo"]
 	path = API-Java-(micw)/repo
 	url = https://github.com/micw/java-zabbix-api
+[submodule "CLI-Zabbix-Tool-(BrianGallew)/repo"]
+	path = CLI-Zabbix-Tool-(BrianGallew)/repo
+	url = https://github.com/BrianGallew/zabbix_tool
