@@ -40,3 +40,6 @@
 [submodule "Template-App-HAProxy-(somia)/repo"]
 	path = Template-App-HAProxy-(somia)/repo
 	url = https://github.com/somia/zabbix_haproxy
+[submodule "Template-Linux-Disk-Performance-(grundic)/repo"]
+	path = Template-Linux-Disk-Performance-(grundic)/repo
+	url = https://github.com/grundic/zabbix-disk-performance
