@@ -10,3 +10,6 @@
 [submodule "Template-App-Redis-(tcpcloud)/repo"]
 	path = Template-App-Redis-(tcpcloud)/repo
 	url = https://github.com/tcpcloud/zbx_redis_template
+[submodule "Template-App-Libvirt-Stat-Over-Collectd-(czhujer)/repo"]
+	path = Template-App-Libvirt-Stat-Over-Collectd-(czhujer)/repo
+	url = https://github.com/czhujer/Zabbix-Template-Linux-Collectd_libvirt
