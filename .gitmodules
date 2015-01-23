@@ -184,3 +184,6 @@
 [submodule "Template-App-MongoDB-(nightw)/repo"]
 	path = Template-App-MongoDB-(nightw)/repo
 	url = https://github.com/nightw/mikoomi-zabbix-mongodb-monitoring
+[submodule "Template-App-XenServer-(kunitake)/repo"]
+	path = Template-App-XenServer-(kunitake)/repo
+	url = https://github.com/kunitake/zabbix-xenserver-templates
