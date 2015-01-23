@@ -205,3 +205,6 @@
 [submodule "Integration-Zabbix-Agent-Python-Support-(vulogov)/repo"]
 	path = Integration-Zabbix-Agent-Python-Support-(vulogov)/repo
 	url = https://github.com/vulogov/pyzabbix-agent
+[submodule "Integration-Zabbix-Agent-Mruby-Support-(BlueSkyDetector)/repo"]
+	path = Integration-Zabbix-Agent-Mruby-Support-(BlueSkyDetector)/repo
+	url = https://github.com/BlueSkyDetector/mruby_module_for_zabbix_agent
