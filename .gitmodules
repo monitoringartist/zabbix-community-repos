@@ -160,3 +160,6 @@
 [submodule "Integration-Zabbix-Sender-Java-(ramonli)/repo"]
 	path = Integration-Zabbix-Sender-Java-(ramonli)/repo
 	url = https://github.com/ramonli/zabbix-sender
+[submodule "Integration-Management-AWS,VMware,Vsphere-(tech-sketch)/repo"]
+	path = Integration-Management-AWS,VMware,Vsphere-(tech-sketch)/repo
+	url = https://github.com/tech-sketch/hyclops
