@@ -199,3 +199,6 @@
 [submodule "Integration-AWS-Simple-Email-Service---SES-notifications-(rsgfernandes)/repo"]
 	path = Integration-AWS-Simple-Email-Service---SES-notifications-(rsgfernandes)/repo
 	url = https://github.com/rsgfernandes/zabbix-ses
+[submodule "CLI-Zabbix-Gnomes-(q1x)/repo"]
+	path = CLI-Zabbix-Gnomes-(q1x)/repo
+	url = https://github.com/q1x/zabbix-gnomes/
