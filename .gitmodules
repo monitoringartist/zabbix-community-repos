@@ -1,3 +1,6 @@
 [submodule "Template-App-Zenoss-(jangaraj)/repo"]
 	path = Template-App-Zenoss-(jangaraj)/repo
 	url = https://github.com/jangaraj/Zabbix-Template-App-Zenoss
+[submodule "Template-App-Wowza-(Seitanas)/repo"]
+	path = Template-App-Wowza-(Seitanas)/repo
+	url = https://github.com/Seitanas/zabbix_wowza
