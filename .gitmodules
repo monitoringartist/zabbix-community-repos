@@ -55,3 +55,6 @@
 [submodule "Template-App-Ip-States-(xdnny)/repo"]
 	path = Template-App-Ip-States-(xdnny)/repo
 	url = https://github.com/xdnny/zabbix-iptstate
+[submodule "Script-AWS-Cloudwatch-Data-(randywallace)/repo"]
+	path = Script-AWS-Cloudwatch-Data-(randywallace)/repo
+	url = https://github.com/randywallace/zabbix-cloudwatch
