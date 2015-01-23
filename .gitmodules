@@ -214,3 +214,6 @@
 [submodule "Template-App-Oracle-ODBC-(denissss)/repo"]
 	path = Template-App-Oracle-ODBC-(denissss)/repo
 	url = https://github.com/denissss/zbx_oracle_odbc
+[submodule "Configuration-Puppet-Zabbix-module-(dj-wasabi)/repo"]
+	path = Configuration-Puppet-Zabbix-module-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/puppet-zabbix
