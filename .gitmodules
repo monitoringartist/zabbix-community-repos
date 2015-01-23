@@ -139,3 +139,6 @@
 [submodule "Integration-SMS-client-(tlenss)/repo"]
 	path = Integration-SMS-client-(tlenss)/repo
 	url = https://github.com/tlenss/zabbix-sms-client
+[submodule "Monitoring-Zabbix-Server-(nightw)/repo"]
+	path = Monitoring-Zabbix-Server-(nightw)/repo
+	url = https://github.com/nightw/zabbix-server-monitoring
