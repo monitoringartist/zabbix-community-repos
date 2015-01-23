@@ -121,3 +121,6 @@
 [submodule "API-Go-(AlekSi)/repo"]
 	path = API-Go-(AlekSi)/repo
 	url = https://github.com/AlekSi/zabbix
+[submodule "API-Java-(micw)/repo"]
+	path = API-Java-(micw)/repo
+	url = https://github.com/micw/java-zabbix-api
