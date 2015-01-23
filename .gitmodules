@@ -190,3 +190,6 @@
 [submodule "Template-App-Bacula-(selivan)/repo"]
 	path = Template-App-Bacula-(selivan)/repo
 	url = https://github.com/selivan/bacula_zabbix_integration
+[submodule "Template-App-IIS-7-Worker-(vavere)/repo"]
+	path = Template-App-IIS-7-Worker-(vavere)/repo
+	url = https://github.com/vavere/zabbix-w3wp
