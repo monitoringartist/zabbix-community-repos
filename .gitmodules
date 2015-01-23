@@ -187,3 +187,6 @@
 [submodule "Template-App-XenServer-(kunitake)/repo"]
 	path = Template-App-XenServer-(kunitake)/repo
 	url = https://github.com/kunitake/zabbix-xenserver-templates
+[submodule "Template-App-Bacula-(selivan)/repo"]
+	path = Template-App-Bacula-(selivan)/repo
+	url = https://github.com/selivan/bacula_zabbix_integration
