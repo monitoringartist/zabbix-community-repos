@@ -118,3 +118,6 @@
 [submodule "API-Javascript-Zabbix.js-(flexd)/repo"]
 	path = API-Javascript-Zabbix.js-(flexd)/repo
 	url = https://github.com/flexd/zabbix.js
+[submodule "API-Go-(AlekSi)/repo"]
+	path = API-Go-(AlekSi)/repo
+	url = https://github.com/AlekSi/zabbix
