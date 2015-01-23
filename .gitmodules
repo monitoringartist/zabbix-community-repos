@@ -163,3 +163,6 @@
 [submodule "Integration-Management-AWS,VMware,Vsphere-(tech-sketch)/repo"]
 	path = Integration-Management-AWS,VMware,Vsphere-(tech-sketch)/repo
 	url = https://github.com/tech-sketch/hyclops
+[submodule "Template-App-Elasticsearch-(serialsito)/repo"]
+	path = Template-App-Elasticsearch-(serialsito)/repo
+	url = https://github.com/serialsito/Elasticsearch-zabbix
