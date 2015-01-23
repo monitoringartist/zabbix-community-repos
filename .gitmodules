@@ -220,3 +220,6 @@
 [submodule "Template-App-Linux-LXC-(czhujer)/repo"]
 	path = Template-App-Linux-LXC-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-Linux-LXC
+[submodule "Template-App-Linux-ZFS-(czhujer)/repo"]
+	path = Template-App-Linux-ZFS-(czhujer)/repo
+	url = https://github.com/czhujer/Zabbix-Template-Linux-ZFS
