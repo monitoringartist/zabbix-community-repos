@@ -109,3 +109,6 @@
 [submodule "API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo"]
 	path = API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo
 	url = https://github.com/lundgrenalex/microzabbixapiconnector
+[submodule "API-PHP-PhpZabbixApi-(domibarton)/repo"]
+	path = API-PHP-PhpZabbixApi-(domibarton)/repo
+	url = https://github.com/domibarton/PhpZabbixApi
