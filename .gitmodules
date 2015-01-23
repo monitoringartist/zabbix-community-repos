@@ -100,3 +100,6 @@
 [submodule "API-Ruby-Rubix-(dhruvbansal)/repo"]
 	path = API-Ruby-Rubix-(dhruvbansal)/repo
 	url = https://github.com/dhruvbansal/rubix
+[submodule "API-Ruby-Zabby-(Pragmatic-Source)/repo"]
+	path = API-Ruby-Zabby-(Pragmatic-Source)/repo
+	url = https://github.com/Pragmatic-Source/zabby
