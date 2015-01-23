@@ -49,3 +49,6 @@
 [submodule "Template-App-Docker-(jangaraj)/repo"]
 	path = Template-App-Docker-(jangaraj)/repo
 	url = https://github.com/jangaraj/Zabbix-Docker-Monitoring
+[submodule "Template-App-Weather-Monitor-(xdnny)/repo"]
+	path = Template-App-Weather-Monitor-(xdnny)/repo
+	url = https://github.com/xdnny/weather-monitor-zabbix-postgresql
