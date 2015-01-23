@@ -46,3 +46,6 @@
 [submodule "Template-Socket-Status-(vicendomingues)/repo"]
 	path = Template-Socket-Status-(vicendomingues)/repo
 	url = https://github.com/vicendominguez/sockstat-zabbix-module
+[submodule "Template-App-Docker-(jangaraj)/repo"]
+	path = Template-App-Docker-(jangaraj)/repo
+	url = https://github.com/jangaraj/Zabbix-Docker-Monitoring
