@@ -70,3 +70,6 @@
 [submodule "Configuration-Pupper-Zabbix-module-(dj-wasabi)/repo"]
 	path = Configuration-Pupper-Zabbix-module-(dj-wasabi)/repo
 	url = https://github.com/dj-wasabi/puppet-zabbix
+[submodule "Script-Manual-Housekeeper-(gutocarvalo)/repo"]
+	path = Script-Manual-Housekeeper-(gutocarvalo)/repo
+	url = https://github.com/gutocarvalho/zabbix-manual-housekeeper
