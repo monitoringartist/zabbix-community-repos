@@ -106,3 +106,6 @@
 [submodule "API-Perl-Zabipi-(DRVTiny)/repo"]
 	path = API-Perl-Zabipi-(DRVTiny)/repo
 	url = https://github.com/DRVTiny/Zabipi
+[submodule "API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo"]
+	path = API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo
+	url = https://github.com/lundgrenalex/microzabbixapiconnector
