@@ -175,3 +175,6 @@
 [submodule "Template-App-BlackBerry-Enterprise-Server-(jamie1921)/repo"]
 	path = Template-App-BlackBerry-Enterprise-Server-(jamie1921)/repo
 	url = https://github.com/jamie1921/Zabbix-Templates
+[submodule "Template-App-NUT---Network-UPS-Tools-(delin)/repo"]
+	path = Template-App-NUT---Network-UPS-Tools-(delin)/repo
+	url = https://github.com/delin/Zabbix-NUT-Template
