@@ -142,3 +142,6 @@
 [submodule "Monitoring-Zabbix-Server-(nightw)/repo"]
 	path = Monitoring-Zabbix-Server-(nightw)/repo
 	url = https://github.com/nightw/zabbix-server-monitoring
+[submodule "Template-App-Puppet-Reports-(shamil)/repo"]
+	path = Template-App-Puppet-Reports-(shamil)/repo
+	url = https://github.com/shamil/puppet-zabbix-reports
