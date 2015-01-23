@@ -127,3 +127,6 @@
 [submodule "CLI-Zabbix-Tool-(BrianGallew)/repo"]
 	path = CLI-Zabbix-Tool-(BrianGallew)/repo
 	url = https://github.com/BrianGallew/zabbix_tool
+[submodule "Template-App-Solr-(flaviotorres)/repo"]
+	path = Template-App-Solr-(flaviotorres)/repo
+	url = https://github.com/flaviotorres/zabbix
