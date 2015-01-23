@@ -88,3 +88,6 @@
 [submodule "Integration-Dashing-Dashboard-(dav3860)/repo"]
 	path = Integration-Dashing-Dashboard-(dav3860)/repo
 	url = https://github.com/dav3860/zabbix_dashboard
+[submodule "Script-Cacti-To-Zabbix-(vintagegamingsystems)/repo"]
+	path = Script-Cacti-To-Zabbix-(vintagegamingsystems)/repo
+	url = https://github.com/vintagegamingsystems/Cacti-Zabbix-Conversion-Script
