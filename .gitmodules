@@ -13,3 +13,6 @@
 [submodule "Template-App-Libvirt-Stat-Over-Collectd-(czhujer)/repo"]
 	path = Template-App-Libvirt-Stat-Over-Collectd-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-Linux-Collectd_libvirt
+[submodule "Template-App-Nginx-(blacked)/repo"]
+	path = Template-App-Nginx-(blacked)/repo
+	url = https://github.com/blacked/zbx_nginx_template
