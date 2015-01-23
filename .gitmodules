@@ -166,3 +166,6 @@
 [submodule "Template-App-Elasticsearch-(serialsito)/repo"]
 	path = Template-App-Elasticsearch-(serialsito)/repo
 	url = https://github.com/serialsito/Elasticsearch-zabbix
+[submodule "Template-App-Hyper-V-(jdnow)/repo"]
+	path = Template-App-Hyper-V-(jdnow)/repo
+	url = https://github.com/jdnow/ZabbixFiles
