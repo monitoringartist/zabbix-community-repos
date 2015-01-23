@@ -145,3 +145,6 @@
 [submodule "Template-App-Puppet-Reports-(shamil)/repo"]
 	path = Template-App-Puppet-Reports-(shamil)/repo
 	url = https://github.com/shamil/puppet-zabbix-reports
+[submodule "Integration-Mobile-Frontend-MoZBX-(attiasgeniar)/repo"]
+	path = Integration-Mobile-Frontend-MoZBX-(attiasgeniar)/repo
+	url = https://github.com/mattiasgeniar/MoZBX
