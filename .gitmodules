@@ -178,3 +178,6 @@
 [submodule "Template-App-NUT---Network-UPS-Tools-(delin)/repo"]
 	path = Template-App-NUT---Network-UPS-Tools-(delin)/repo
 	url = https://github.com/delin/Zabbix-NUT-Template
+[submodule "Template-App-Riak-(aggress)/repo"]
+	path = Template-App-Riak-(aggress)/repo
+	url = https://github.com/aggress/riak-zabbix
