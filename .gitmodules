@@ -52,3 +52,6 @@
 [submodule "Template-App-Weather-Monitor-(xdnny)/repo"]
 	path = Template-App-Weather-Monitor-(xdnny)/repo
 	url = https://github.com/xdnny/weather-monitor-zabbix-postgresql
+[submodule "Template-App-Ip-States-(xdnny)/repo"]
+	path = Template-App-Ip-States-(xdnny)/repo
+	url = https://github.com/xdnny/zabbix-iptstate
