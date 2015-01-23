@@ -76,3 +76,6 @@
 [submodule "Integration-Google-Maps-(aristotelesaraujo)/repo"]
 	path = Integration-Google-Maps-(aristotelesaraujo)/repo
 	url = https://github.com/aristotelesaraujo/zabbix-geolocation
+[submodule "Integration-Service-Tree-Graph-(SpawW)/repo"]
+	path = Integration-Service-Tree-Graph-(SpawW)/repo
+	url = https://github.com/SpawW/zabbix-service-tree/
