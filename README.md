@@ -23,16 +23,16 @@ Please do not put any actual code in here. Please use full meaning name for the 
 
 Adding a repo:
 
-	mkdir "project_name"
-	git submodule add https://github.com/username/project_name "project_name/repo"
-	echo "[Link - project name](http://github.com/username/project_name)" > "project_name/README.md"
-	git add "project_name"
-	git commit -am 'project_name'
+    mkdir "project_name"
+    git submodule add https://github.com/username/project_name "project_name/repo"
+    echo "[Link - project name](http://github.com/username/project_name)" > "project_name/README.md"
+    git add "project_name"
+    git commit -am 'project_name'
 
 Real example:
 
-        mkdir "Template-App-Nginx-(blacked)"
-        git submodule add https://github.com/blacked/zbx_nginx_template "Template-App-Nginx-(blacked)/repo"
-        echo "[Link - Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template)" > "Template-App-Nginx-(blacked)/README.md"
-        git add "Template-App-Nginx-(blacked)"
-        git commit -am 'Template-App-Nginx-(blacked)'
+    mkdir "Template-App-Nginx-(blacked)"
+    git submodule add https://github.com/blacked/zbx_nginx_template "Template-App-Nginx-(blacked)/repo"
+    echo "[Link - Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template)" > "Template-App-Nginx-(blacked)/README.md"
+    git add "Template-App-Nginx-(blacked)"
+    git commit -am 'Template-App-Nginx-(blacked)'
