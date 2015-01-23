@@ -154,3 +154,6 @@
 [submodule "Integration-Zabbix-Sender-Android-(dnbstoks)/repo"]
 	path = Integration-Zabbix-Sender-Android-(dnbstoks)/repo
 	url = https://github.com/dnbstoks/ZabbixSender
+[submodule "Integration-Zabbix-Sender-Go-(dnbstoks)/repo"]
+	path = Integration-Zabbix-Sender-Go-(dnbstoks)/repo
+	url = https://github.com/AlekSi/zabbix-sender
