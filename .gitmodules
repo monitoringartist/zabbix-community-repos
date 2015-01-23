@@ -196,3 +196,6 @@
 [submodule "Template-App-Printer-Brother-(coreyramirezgomez)/repo"]
 	path = Template-App-Printer-Brother-(coreyramirezgomez)/repo
 	url = https://github.com/coreyramirezgomez/Brother-Printers-Zabbix-Template
+[submodule "Integration-AWS-Simple-Email-Service---SES-notifications-(rsgfernandes)/repo"]
+	path = Integration-AWS-Simple-Email-Service---SES-notifications-(rsgfernandes)/repo
+	url = https://github.com/rsgfernandes/zabbix-ses
