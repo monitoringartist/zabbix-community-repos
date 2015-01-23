@@ -133,3 +133,6 @@
 [submodule "Template-App-Zookeeper-(flaviotorres)/repo"]
 	path = Template-App-Zookeeper-(flaviotorres)/repo
 	url = https://github.com/flaviotorres/zabbix
+[submodule "Template-App-Varnish-(flaviotorres)/repo"]
+	path = Template-App-Varnish-(flaviotorres)/repo
+	url = https://github.com/flaviotorres/zabbix
