@@ -151,3 +151,6 @@
 [submodule "Integration-Mobile-Frontend-ZAX-(inovex)/repo"]
 	path = Integration-Mobile-Frontend-ZAX-(inovex)/repo
 	url = https://github.com/inovex/zax
+[submodule "Integration-Zabbix-Sender-Android-(dnbstoks)/repo"]
+	path = Integration-Zabbix-Sender-Android-(dnbstoks)/repo
+	url = https://github.com/dnbstoks/ZabbixSender
