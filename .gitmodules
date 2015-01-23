@@ -223,3 +223,6 @@
 [submodule "Template-App-Linux-ZFS-(czhujer)/repo"]
 	path = Template-App-Linux-ZFS-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-Linux-ZFS
+[submodule "Template-App-Linux-Disk-Performance-(grundic)/repo"]
+	path = Template-App-Linux-Disk-Performance-(grundic)/repo
+	url = https://github.com/grundic/zabbix-disk-performance
