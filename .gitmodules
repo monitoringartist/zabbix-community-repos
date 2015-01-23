@@ -181,3 +181,6 @@
 [submodule "Template-App-Riak-(aggress)/repo"]
 	path = Template-App-Riak-(aggress)/repo
 	url = https://github.com/aggress/riak-zabbix
+[submodule "Template-App-MongoDB-(nightw)/repo"]
+	path = Template-App-MongoDB-(nightw)/repo
+	url = https://github.com/nightw/mikoomi-zabbix-mongodb-monitoring
