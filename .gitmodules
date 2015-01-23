@@ -79,3 +79,6 @@
 [submodule "Integration-Service-Tree-Graph-(SpawW)/repo"]
 	path = Integration-Service-Tree-Graph-(SpawW)/repo
 	url = https://github.com/SpawW/zabbix-service-tree/
+[submodule "Integration-Frontend-Extras-(SpawW)/repo"]
+	path = Integration-Frontend-Extras-(SpawW)/repo
+	url = https://github.com/SpawW/zabbix-extras
