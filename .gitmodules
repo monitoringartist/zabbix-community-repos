@@ -67,3 +67,6 @@
 [submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo"]
 	path = Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo
 	url = https://github.com/ahelal/ansible-zabbix_agent
+[submodule "Configuration-Pupper-Zabbix-module-(dj-wasabi)/repo"]
+	path = Configuration-Pupper-Zabbix-module-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/puppet-zabbix
