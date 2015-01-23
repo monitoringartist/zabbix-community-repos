@@ -31,3 +31,6 @@
 [submodule "Template-Linux-ZFS-(czhujer)/repo"]
 	path = Template-Linux-ZFS-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-Linux-ZFS
+[submodule "Template-App-Apache-Stats-(gpmidi)/repo"]
+	path = Template-App-Apache-Stats-(gpmidi)/repo
+	url = https://github.com/gpmidi/zabbix-apache-stats
