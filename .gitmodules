@@ -172,3 +172,6 @@
 [submodule "Template-App-SonicWall-(jdnow)/repo"]
 	path = Template-App-SonicWall-(jdnow)/repo
 	url = https://github.com/jdnow/ZabbixFiles
+[submodule "Template-App-BlackBerry-Enterprise-Server-(jamie1921)/repo"]
+	path = Template-App-BlackBerry-Enterprise-Server-(jamie1921)/repo
+	url = https://github.com/jamie1921/Zabbix-Templates
