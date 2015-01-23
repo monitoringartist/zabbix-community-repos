@@ -64,3 +64,6 @@
 [submodule "Configuration-Ansible-Zabbix-Server-Playbook-(ahelal)/repo"]
 	path = Configuration-Ansible-Zabbix-Server-Playbook-(ahelal)/repo
 	url = https://github.com/ahelal/ansible-zabbix_server
+[submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo"]
+	path = Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo
+	url = https://github.com/ahelal/ansible-zabbix_agent
