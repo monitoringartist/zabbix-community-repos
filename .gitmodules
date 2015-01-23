@@ -34,3 +34,6 @@
 [submodule "Template-App-Apache-Stats-(gpmidi)/repo"]
 	path = Template-App-Apache-Stats-(gpmidi)/repo
 	url = https://github.com/gpmidi/zabbix-apache-stats
+[submodule "Template-App-Ceph-(thelan)/repo"]
+	path = Template-App-Ceph-(thelan)/repo
+	url = https://github.com/thelan/ceph-zabbix
