@@ -103,3 +103,6 @@
 [submodule "API-Ruby-Zabby-(Pragmatic-Source)/repo"]
 	path = API-Ruby-Zabby-(Pragmatic-Source)/repo
 	url = https://github.com/Pragmatic-Source/zabby
+[submodule "API-Perl-Zabipi-(DRVTiny)/repo"]
+	path = API-Perl-Zabipi-(DRVTiny)/repo
+	url = https://github.com/DRVTiny/Zabipi
