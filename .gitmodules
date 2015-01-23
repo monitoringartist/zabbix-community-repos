@@ -22,3 +22,6 @@
 [submodule "Template-App-Cassandra-DB-(czhujer)/repo"]
 	path = Template-App-Cassandra-DB-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-CassandraDB
+[submodule "Template-App-Pacemaker-(tcpcloud)/repo"]
+	path = Template-App-Pacemaker-(tcpcloud)/repo
+	url = https://github.com/tcpcloud/Zabbix-Template-Linux-Pacemaker
