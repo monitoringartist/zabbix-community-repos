@@ -19,3 +19,6 @@
 [submodule "Template-App-Nginx-Stats-(hpoul)/repo"]
 	path = Template-App-Nginx-Stats-(hpoul)/repo
 	url = https://github.com/hpoul/zabbix-nginx-stats
+[submodule "Template-App-Cassandra-DB-(czhujer)/repo"]
+	path = Template-App-Cassandra-DB-(czhujer)/repo
+	url = https://github.com/czhujer/Zabbix-Template-CassandraDB
