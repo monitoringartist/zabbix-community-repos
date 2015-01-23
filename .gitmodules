@@ -4,3 +4,6 @@
 [submodule "Template-App-Wowza-(Seitanas)/repo"]
 	path = Template-App-Wowza-(Seitanas)/repo
 	url = https://github.com/Seitanas/zabbix_wowza
+[submodule "Template-App-Redis-(blacked)/repo"]
+	path = Template-App-Redis-(blacked)/repo
+	url = https://github.com/blacked/zbx_redis_template
