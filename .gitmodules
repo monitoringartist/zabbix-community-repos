@@ -193,3 +193,6 @@
 [submodule "Template-App-IIS-7-Worker-(vavere)/repo"]
 	path = Template-App-IIS-7-Worker-(vavere)/repo
 	url = https://github.com/vavere/zabbix-w3wp
+[submodule "Template-App-Printer-Brother-(coreyramirezgomez)/repo"]
+	path = Template-App-Printer-Brother-(coreyramirezgomez)/repo
+	url = https://github.com/coreyramirezgomez/Brother-Printers-Zabbix-Template
