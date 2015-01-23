@@ -1,0 +1,3 @@
+[submodule "Template-App-Zenoss-(jangaraj)/repo"]
+	path = Template-App-Zenoss-(jangaraj)/repo
+	url = https://github.com/jangaraj/Zabbix-Template-App-Zenoss
