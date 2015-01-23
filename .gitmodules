@@ -37,3 +37,6 @@
 [submodule "Template-App-Ceph-(thelan)/repo"]
 	path = Template-App-Ceph-(thelan)/repo
 	url = https://github.com/thelan/ceph-zabbix
+[submodule "Template-App-HAProxy-(somia)/repo"]
+	path = Template-App-HAProxy-(somia)/repo
+	url = https://github.com/somia/zabbix_haproxy
