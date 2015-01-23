@@ -157,3 +157,6 @@
 [submodule "Integration-Zabbix-Sender-Go-(dnbstoks)/repo"]
 	path = Integration-Zabbix-Sender-Go-(dnbstoks)/repo
 	url = https://github.com/AlekSi/zabbix-sender
+[submodule "Integration-Zabbix-Sender-Java-(ramonli)/repo"]
+	path = Integration-Zabbix-Sender-Java-(ramonli)/repo
+	url = https://github.com/ramonli/zabbix-sender
