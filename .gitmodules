@@ -82,3 +82,6 @@
 [submodule "Integration-Frontend-Extras-(SpawW)/repo"]
 	path = Integration-Frontend-Extras-(SpawW)/repo
 	url = https://github.com/SpawW/zabbix-extras
+[submodule "Integration-Frontend-SnmpBuilder-(SpawW)/repo"]
+	path = Integration-Frontend-SnmpBuilder-(SpawW)/repo
+	url = https://github.com/SpawW/snmpbuilder
