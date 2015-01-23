@@ -16,3 +16,6 @@
 [submodule "Template-App-Nginx-(blacked)/repo"]
 	path = Template-App-Nginx-(blacked)/repo
 	url = https://github.com/blacked/zbx_nginx_template
+[submodule "Template-App-Nginx-Stats-(hpoul)/repo"]
+	path = Template-App-Nginx-Stats-(hpoul)/repo
+	url = https://github.com/hpoul/zabbix-nginx-stats
