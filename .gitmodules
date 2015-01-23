@@ -112,3 +112,6 @@
 [submodule "API-PHP-PhpZabbixApi-(domibarton)/repo"]
 	path = API-PHP-PhpZabbixApi-(domibarton)/repo
 	url = https://github.com/domibarton/PhpZabbixApi
+[submodule "API-Javascript-JQuery-Jqzabbix-(kodai)/repo"]
+	path = API-Javascript-JQuery-Jqzabbix-(kodai)/repo
+	url = https://github.com/kodai/jqzabbix
