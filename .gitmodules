@@ -7,3 +7,6 @@
 [submodule "Template-App-Redis-(blacked)/repo"]
 	path = Template-App-Redis-(blacked)/repo
 	url = https://github.com/blacked/zbx_redis_template
+[submodule "Template-App-Redis-(tcpcloud)/repo"]
+	path = Template-App-Redis-(tcpcloud)/repo
+	url = https://github.com/tcpcloud/zbx_redis_template
