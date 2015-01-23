@@ -208,3 +208,6 @@
 [submodule "Integration-Zabbix-Agent-Mruby-Support-(BlueSkyDetector)/repo"]
 	path = Integration-Zabbix-Agent-Mruby-Support-(BlueSkyDetector)/repo
 	url = https://github.com/BlueSkyDetector/mruby_module_for_zabbix_agent
+[submodule "Template-App-Gluster-(htaira)/repo"]
+	path = Template-App-Gluster-(htaira)/repo
+	url = https://github.com/htaira/glubix/
