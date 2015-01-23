@@ -91,3 +91,6 @@
 [submodule "Script-Cacti-To-Zabbix-(vintagegamingsystems)/repo"]
 	path = Script-Cacti-To-Zabbix-(vintagegamingsystems)/repo
 	url = https://github.com/vintagegamingsystems/Cacti-Zabbix-Conversion-Script
+[submodule "API-Python-(baniuyao)/repo"]
+	path = API-Python-(baniuyao)/repo
+	url = https://github.com/baniuyao/ZabbixPythonApi
