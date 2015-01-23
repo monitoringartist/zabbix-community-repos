@@ -148,3 +148,6 @@
 [submodule "Integration-Mobile-Frontend-MoZBX-(attiasgeniar)/repo"]
 	path = Integration-Mobile-Frontend-MoZBX-(attiasgeniar)/repo
 	url = https://github.com/mattiasgeniar/MoZBX
+[submodule "Integration-Mobile-Frontend-ZAX-(inovex)/repo"]
+	path = Integration-Mobile-Frontend-ZAX-(inovex)/repo
+	url = https://github.com/inovex/zax
