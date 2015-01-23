@@ -226,3 +226,6 @@
 [submodule "Template-App-Linux-Disk-Performance-(grundic)/repo"]
 	path = Template-App-Linux-Disk-Performance-(grundic)/repo
 	url = https://github.com/grundic/zabbix-disk-performance
+[submodule "Template-App-Socket-Status-(vicendomingues)/repo"]
+	path = Template-App-Socket-Status-(vicendomingues)/repo
+	url = https://github.com/vicendominguez/sockstat-zabbix-module
