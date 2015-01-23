@@ -73,3 +73,6 @@
 [submodule "Script-Manual-Housekeeper-(gutocarvalo)/repo"]
 	path = Script-Manual-Housekeeper-(gutocarvalo)/repo
 	url = https://github.com/gutocarvalho/zabbix-manual-housekeeper
+[submodule "Integration-Google-Maps-(aristotelesaraujo)/repo"]
+	path = Integration-Google-Maps-(aristotelesaraujo)/repo
+	url = https://github.com/aristotelesaraujo/zabbix-geolocation
