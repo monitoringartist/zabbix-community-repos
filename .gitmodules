@@ -97,3 +97,6 @@
 [submodule "API-Python-Pyzabbix-(lukecyca)/repo"]
 	path = API-Python-Pyzabbix-(lukecyca)/repo
 	url = https://github.com/lukecyca/pyzabbix
+[submodule "API-Ruby-Rubix-(dhruvbansal)/repo"]
+	path = API-Ruby-Rubix-(dhruvbansal)/repo
+	url = https://github.com/dhruvbansal/rubix
