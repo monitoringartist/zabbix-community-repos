@@ -292,3 +292,6 @@
 [submodule "Integration-Dashboard-Django-(banzayats)/repo"]
 	path = Integration-Dashboard-Django-(banzayats)/repo
 	url = https://github.com/banzayats/zbx-dashboard
+[submodule "Intergration-Dashboard-PHP-(incama)-/repo"]
+	path = Intergration-Dashboard-PHP-(incama)-/repo
+	url = https://github.com/incama/Zabbix-Dashboard
