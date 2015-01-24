@@ -364,3 +364,6 @@
 [submodule "CLI-Zabbix-Bash-(hansode)/repo"]
 	path = CLI-Zabbix-Bash-(hansode)/repo
 	url = https://github.com/hansode/zabbix-bash
+[submodule "Integration-Sentry-(m0n5t3r)/repo"]
+	path = Integration-Sentry-(m0n5t3r)/repo
+	url = https://github.com/m0n5t3r/sentry-zabbix
