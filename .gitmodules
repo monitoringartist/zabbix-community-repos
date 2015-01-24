@@ -415,3 +415,6 @@
 [submodule "Template-Printer-Ricoh-(coreyramirezgomez)/repo"]
 	path = Template-Printer-Ricoh-(coreyramirezgomez)/repo
 	url = https://github.com/coreyramirezgomez/Ricoh-Printers-Zabbix-Template
+[submodule "Script-Alert-Redmine-Twilio-Email-(GoSunCloud)/repo"]
+	path = Script-Alert-Redmine-Twilio-Email-(GoSunCloud)/repo
+	url = https://github.com/GoSunCloud/zabbix-alert
