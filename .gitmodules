@@ -355,3 +355,6 @@
 [submodule "Integration-OpenStreetMap-(mikevmk)/repo"]
 	path = Integration-OpenStreetMap-(mikevmk)/repo
 	url = https://github.com/mikevmk/osm-zabbix/
+[submodule "Integration-Dashboard-Zabbix-Reporter-(gittex)/repo"]
+	path = Integration-Dashboard-Zabbix-Reporter-(gittex)/repo
+	url = https://github.com/gittex/Zabbix-Reporter
