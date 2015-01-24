@@ -265,3 +265,6 @@
 [submodule "Script-Alerta-Alert-(alerta)/repo"]
 	path = Script-Alerta-Alert-(alerta)/repo
 	url = https://github.com/alerta/zabbix-alerta
+[submodule "Script-Zabbix-MySQL-Backups-(xsbr)/repo"]
+	path = Script-Zabbix-MySQL-Backups-(xsbr)/repo
+	url = https://github.com/xsbr/zabbixzone
