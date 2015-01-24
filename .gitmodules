@@ -322,3 +322,6 @@
 [submodule "Template-App-Apache-(red-tux)/repo"]
 	path = Template-App-Apache-(red-tux)/repo
 	url = https://github.com/red-tux/zbx-apache
+[submodule "Script-AWS-Add-Remove-Hosts-(brahman81)/repo"]
+	path = Script-AWS-Add-Remove-Hosts-(brahman81)/repo
+	url = https://github.com/brahman81/awsbix
