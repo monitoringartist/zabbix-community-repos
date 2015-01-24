@@ -244,3 +244,6 @@
 [submodule "Script-Apache-CloudStack-(ke4qqq)/repo"]
 	path = Script-Apache-CloudStack-(ke4qqq)/repo
 	url = https://github.com/ke4qqq/zabbix-cloudstack
+[submodule "Integration-Blackbird-Agent-(Vagrants)/repo"]
+	path = Integration-Blackbird-Agent-(Vagrants)/repo
+	url = https://github.com/Vagrants/blackbird
