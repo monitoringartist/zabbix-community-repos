@@ -232,3 +232,6 @@
 [submodule "Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo"]
 	path = Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo
 	url = https://github.com/dj-wasabi/puppet-zabbix
+[submodule "Integration-PagerDuty-(PagerDuty)/repo"]
+	path = Integration-PagerDuty-(PagerDuty)/repo
+	url = https://github.com/PagerDuty/pagerduty-zabbix-py
