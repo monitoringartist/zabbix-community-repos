@@ -238,3 +238,6 @@
 [submodule "Template-App-Oracle-(bicofino)/repo"]
 	path = Template-App-Oracle-(bicofino)/repo
 	url = https://github.com/bicofino/Pyora
+[submodule "Integration-MCollective-Support-(scalefactory)/repo"]
+	path = Integration-MCollective-Support-(scalefactory)/repo
+	url = https://github.com/scalefactory/zcollective
