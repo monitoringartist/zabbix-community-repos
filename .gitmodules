@@ -361,3 +361,6 @@
 [submodule "Integration-Zabbix-Agent-VyOS-(hiroyuki-sato)/repo"]
 	path = Integration-Zabbix-Agent-VyOS-(hiroyuki-sato)/repo
 	url = https://github.com/hiroyuki-sato/vyos-cfg-zabbix-agent
+[submodule "CLI-Zabbix-Bash-(hansode)/repo"]
+	path = CLI-Zabbix-Bash-(hansode)/repo
+	url = https://github.com/hansode/zabbix-bash
