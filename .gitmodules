@@ -391,3 +391,6 @@
 [submodule "Template-App-SNMP-UCD-Mib-(poohsen)/repo"]
 	path = Template-App-SNMP-UCD-Mib-(poohsen)/repo
 	url = https://github.com/poohsen/ucd-snmp-mib-zabbix
+[submodule "Script-DBaaS-(globocom)/repo"]
+	path = Script-DBaaS-(globocom)/repo
+	url = https://github.com/globocom/dbaas-zabbix
