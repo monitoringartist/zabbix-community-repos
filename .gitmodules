@@ -229,3 +229,6 @@
 [submodule "Template-App-Socket-Status-(vicendomingues)/repo"]
 	path = Template-App-Socket-Status-(vicendomingues)/repo
 	url = https://github.com/vicendominguez/sockstat-zabbix-module
+[submodule "Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo"]
+	path = Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/puppet-zabbix
