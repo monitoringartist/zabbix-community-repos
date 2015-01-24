@@ -376,3 +376,6 @@
 [submodule "Script-LDAP-Sync-(dnaeon)/repo"]
 	path = Script-LDAP-Sync-(dnaeon)/repo
 	url = https://github.com/dnaeon/zabbix-ldap-sync
+[submodule "Integration-StatsD-Support-(untergeek)/repo"]
+	path = Integration-StatsD-Support-(untergeek)/repo
+	url = https://github.com/untergeek/ls-zbxstatsd
