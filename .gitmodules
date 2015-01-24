@@ -271,3 +271,6 @@
 [submodule "Configuration-Saltstack-Formula-(saltstack-formulas)/repo"]
 	path = Configuration-Saltstack-Formula-(saltstack-formulas)/repo
 	url = https://github.com/saltstack-formulas/zabbix-formula
+[submodule "Template-App-Mikrotik-(welbymcroberts)/repo"]
+	path = Template-App-Mikrotik-(welbymcroberts)/repo
+	url = https://github.com/welbymcroberts/zabbix-mikrotik
