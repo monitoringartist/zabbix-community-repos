@@ -331,3 +331,6 @@
 [submodule "Integration-Zabbix-Ruby-Client-(mose)/repo"]
 	path = Integration-Zabbix-Ruby-Client-(mose)/repo
 	url = https://github.com/mose/zabbix-ruby-client
+[submodule "Template-App-OpenShift-(openshift)/repo"]
+	path = Template-App-OpenShift-(openshift)/repo
+	url = https://github.com/openshift/openshift_zabbix
