@@ -301,3 +301,6 @@
 [submodule "Integration-Dashboard-PHP-(incama)/repo"]
 	path = Integration-Dashboard-PHP-(incama)/repo
 	url = https://github.com/incama/Zabbix-Dashboard
+[submodule "Integration-Zabbix-Server-Monitoring-(nightw)/repo"]
+	path = Integration-Zabbix-Server-Monitoring-(nightw)/repo
+	url = https://github.com/nightw/zabbix-server-monitoring
