@@ -397,3 +397,6 @@
 [submodule "Script-Zabbix-MySQL-Backup-(maxhq)/repo"]
 	path = Script-Zabbix-MySQL-Backup-(maxhq)/repo
 	url = https://github.com/maxhq/zabbix-backup
+[submodule "Script-Alert-Twilio/repo"]
+	path = Script-Alert-Twilio/repo
+	url = https://github.com/ducksboard/twilio-zabbix-handler
