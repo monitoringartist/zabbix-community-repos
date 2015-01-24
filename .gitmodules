@@ -298,3 +298,6 @@
 [submodule "Script-OpenStack-Ceilometer-(OneSourceConsult)/repo"]
 	path = Script-OpenStack-Ceilometer-(OneSourceConsult)/repo
 	url = https://github.com/OneSourceConsult/ZabbixCeilometer-Proxy
+[submodule "Integration-Dashboard-PHP-(incama)/repo"]
+	path = Integration-Dashboard-PHP-(incama)/repo
+	url = https://github.com/incama/Zabbix-Dashboard
