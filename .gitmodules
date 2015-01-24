@@ -313,3 +313,6 @@
 [submodule "API-Perl-Wazapi-(dimir)/repo"]
 	path = API-Perl-Wazapi-(dimir)/repo
 	url = https://github.com/dimir/wazapi
+[submodule "Template-App-VMware-vPoller-(dnaeon)/repo"]
+	path = Template-App-VMware-vPoller-(dnaeon)/repo
+	url = https://github.com/dnaeon/py-vpoller
