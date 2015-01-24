@@ -337,3 +337,6 @@
 [submodule "Integration-Zabbix-Agent-Max-OS-X-Installer-(mipmip)/repo"]
 	path = Integration-Zabbix-Agent-Max-OS-X-Installer-(mipmip)/repo
 	url = https://github.com/mipmip/zabbix_agentd_osx_installer
+[submodule "Script-Windows-Azure-(MsOpenTech)/repo"]
+	path = Script-Windows-Azure-(MsOpenTech)/repo
+	url = https://github.com/MsOpenTech/WaMo
