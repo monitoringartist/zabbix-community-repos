@@ -304,3 +304,6 @@
 [submodule "Integration-Zabbix-Server-Monitoring-(nightw)/repo"]
 	path = Integration-Zabbix-Server-Monitoring-(nightw)/repo
 	url = https://github.com/nightw/zabbix-server-monitoring
+[submodule "Integration-Graphs-D3js-(heaje)/repo"]
+	path = Integration-Graphs-D3js-(heaje)/repo
+	url = https://github.com/heaje/zabbix-d3
