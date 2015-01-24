@@ -367,3 +367,6 @@
 [submodule "Integration-Sentry-(m0n5t3r)/repo"]
 	path = Integration-Sentry-(m0n5t3r)/repo
 	url = https://github.com/m0n5t3r/sentry-zabbix
+[submodule "Integration-Fluentd-(fujiwara)/repo"]
+	path = Integration-Fluentd-(fujiwara)/repo
+	url = https://github.com/fujiwara/fluent-plugin-zabbix
