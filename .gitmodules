@@ -394,3 +394,6 @@
 [submodule "Script-DBaaS-(globocom)/repo"]
 	path = Script-DBaaS-(globocom)/repo
 	url = https://github.com/globocom/dbaas-zabbix
+[submodule "Script-Zabbix-MySQL-Backup-(maxhq)/repo"]
+	path = Script-Zabbix-MySQL-Backup-(maxhq)/repo
+	url = https://github.com/maxhq/zabbix-backup
