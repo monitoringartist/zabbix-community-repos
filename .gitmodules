@@ -250,3 +250,6 @@
 [submodule "Integration-StatsD-Support-(parkerd)/repo"]
 	path = Integration-StatsD-Support-(parkerd)/repo
 	url = https://github.com/parkerd/statsd-zabbix-backend
+[submodule "Integration-Zabbix-Sender-Node.js-(holidayextras)/repo"]
+	path = Integration-Zabbix-Sender-Node.js-(holidayextras)/repo
+	url = https://github.com/holidayextras/node-zabbix-sender
