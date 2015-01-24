@@ -289,3 +289,6 @@
 [submodule "Integration-Dashboard-PHP-Webroots-(agperson)/repo"]
 	path = Integration-Dashboard-PHP-Webroots-(agperson)/repo
 	url = https://github.com/agperson/zabbix-webroots-dashboard
+[submodule "Integration-Dashboard-Django-(banzayats)/repo"]
+	path = Integration-Dashboard-Django-(banzayats)/repo
+	url = https://github.com/banzayats/zbx-dashboard
