@@ -328,3 +328,6 @@
 [submodule "Template-App-RabbitMQ-(jasonmcintosh)/repo"]
 	path = Template-App-RabbitMQ-(jasonmcintosh)/repo
 	url = https://github.com/jasonmcintosh/rabbitmq-zabbix
+[submodule "Integration-Zabbix-Ruby-Client-(mose)/repo"]
+	path = Integration-Zabbix-Ruby-Client-(mose)/repo
+	url = https://github.com/mose/zabbix-ruby-client
