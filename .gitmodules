@@ -262,3 +262,6 @@
 [submodule "Script-Flowdock-Alert-(flowdock)/repo"]
 	path = Script-Flowdock-Alert-(flowdock)/repo
 	url = https://github.com/flowdock/zabbix-flowdock-script
+[submodule "Script-Alerta-Alert-(alerta)/repo"]
+	path = Script-Alerta-Alert-(alerta)/repo
+	url = https://github.com/alerta/zabbix-alerta
