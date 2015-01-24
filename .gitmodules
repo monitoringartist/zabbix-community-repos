@@ -421,3 +421,6 @@
 [submodule "Template-Printer-Brother-(coreyramirezgomez)/repo"]
 	path = Template-Printer-Brother-(coreyramirezgomez)/repo
 	url = https://github.com/coreyramirezgomez/Brother-Printers-Zabbix-Template
+[submodule "Script-Alert-Twilio-(ducksboard)--------/repo"]
+	path = Script-Alert-Twilio-(ducksboard)--------/repo
+	url = https://github.com/ducksboard/twilio-zabbix-handler
