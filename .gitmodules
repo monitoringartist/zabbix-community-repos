@@ -382,3 +382,6 @@
 [submodule "Script-Alert-Pushover-(twostairs)/repo"]
 	path = Script-Alert-Pushover-(twostairs)/repo
 	url = https://github.com/twostairs/zabbix-pushover-alertscript
+[submodule "Template-App-Proxmox-OpenVZ-(swarnat)/repo"]
+	path = Template-App-Proxmox-OpenVZ-(swarnat)/repo
+	url = https://github.com/swarnat/Zabbix-Proxmox
