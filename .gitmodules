@@ -343,3 +343,6 @@
 [submodule "Integration-Zabbix-Sender-PHP-(dnbstoks)/repo"]
 	path = Integration-Zabbix-Sender-PHP-(dnbstoks)/repo
 	url = https://github.com/okitsu/php-zabbix-sender
+[submodule "Script-Alert-HipChat-(agperson)/repo"]
+	path = Script-Alert-HipChat-(agperson)/repo
+	url = https://github.com/agperson/zabbix-hipchat-alerts
