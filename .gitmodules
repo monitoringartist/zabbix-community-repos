@@ -325,3 +325,6 @@
 [submodule "Script-AWS-Add-Remove-Hosts-(brahman81)/repo"]
 	path = Script-AWS-Add-Remove-Hosts-(brahman81)/repo
 	url = https://github.com/brahman81/awsbix
+[submodule "Template-App-RabbitMQ-(jasonmcintosh)/repo"]
+	path = Template-App-RabbitMQ-(jasonmcintosh)/repo
+	url = https://github.com/jasonmcintosh/rabbitmq-zabbix
