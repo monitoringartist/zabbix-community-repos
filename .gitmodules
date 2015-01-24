@@ -307,3 +307,6 @@
 [submodule "Integration-Graphs-D3js-(heaje)/repo"]
 	path = Integration-Graphs-D3js-(heaje)/repo
 	url = https://github.com/heaje/zabbix-d3
+[submodule "Template-App-PostgreSQL-(pg_monz)/repo"]
+	path = Template-App-PostgreSQL-(pg_monz)/repo
+	url = https://github.com/pg-monz/pg_monz
