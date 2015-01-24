@@ -319,3 +319,6 @@
 [submodule "Template-App-VMware-VmBix-(dav3860)/repo"]
 	path = Template-App-VMware-VmBix-(dav3860)/repo
 	url = https://github.com/dav3860/vmbix
+[submodule "Template-App-Apache-(red-tux)/repo"]
+	path = Template-App-Apache-(red-tux)/repo
+	url = https://github.com/red-tux/zbx-apache
