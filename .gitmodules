@@ -400,3 +400,6 @@
 [submodule "Script-Alert-Twilio/repo"]
 	path = Script-Alert-Twilio/repo
 	url = https://github.com/ducksboard/twilio-zabbix-handler
+[submodule "Template-App-Rsyslog-(facastagnini)/repo"]
+	path = Template-App-Rsyslog-(facastagnini)/repo
+	url = https://github.com/facastagnini/zabbix-rsyslog
