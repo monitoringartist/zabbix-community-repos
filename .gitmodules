@@ -340,3 +340,6 @@
 [submodule "Script-Windows-Azure-(MsOpenTech)/repo"]
 	path = Script-Windows-Azure-(MsOpenTech)/repo
 	url = https://github.com/MsOpenTech/WaMo
+[submodule "Integration-Zabbix-Sender-PHP-(dnbstoks)/repo"]
+	path = Integration-Zabbix-Sender-PHP-(dnbstoks)/repo
+	url = https://github.com/okitsu/php-zabbix-sender
