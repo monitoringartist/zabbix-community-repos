@@ -403,3 +403,6 @@
 [submodule "Template-App-Rsyslog-(facastagnini)/repo"]
 	path = Template-App-Rsyslog-(facastagnini)/repo
 	url = https://github.com/facastagnini/zabbix-rsyslog
+[submodule "Template-App-LSI-RAID-(ArtemK007)/repo"]
+	path = Template-App-LSI-RAID-(ArtemK007)/repo
+	url = https://github.com/ArtemK007/Zabbix-LSI-RAID-Monitoring
