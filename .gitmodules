@@ -286,3 +286,6 @@
 [submodule "Integration-Dashboard-Dashing-(dav3860)/repo"]
 	path = Integration-Dashboard-Dashing-(dav3860)/repo
 	url = https://github.com/dav3860/zabbix_dashboard
+[submodule "Integration-Dashboard-PHP-Webroots-(agperson)/repo"]
+	path = Integration-Dashboard-PHP-Webroots-(agperson)/repo
+	url = https://github.com/agperson/zabbix-webroots-dashboard
