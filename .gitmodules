@@ -370,3 +370,6 @@
 [submodule "Integration-Fluentd-(fujiwara)/repo"]
 	path = Integration-Fluentd-(fujiwara)/repo
 	url = https://github.com/fujiwara/fluent-plugin-zabbix
+[submodule "Template-App-Parallel-Cloud-Server-(ligurio)/repo"]
+	path = Template-App-Parallel-Cloud-Server-(ligurio)/repo
+	url = https://github.com/ligurio/Zabbix-PCS-Template
