@@ -253,3 +253,6 @@
 [submodule "Integration-Zabbix-Sender-Node.js-(holidayextras)/repo"]
 	path = Integration-Zabbix-Sender-Node.js-(holidayextras)/repo
 	url = https://github.com/holidayextras/node-zabbix-sender
+[submodule "API-Ruby-Api-Module-(express42)/repo"]
+	path = API-Ruby-Api-Module-(express42)/repo
+	url = https://github.com/express42/zabbixapi
