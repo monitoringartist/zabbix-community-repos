@@ -406,3 +406,6 @@
 [submodule "Template-App-LSI-RAID-(ArtemK007)/repo"]
 	path = Template-App-LSI-RAID-(ArtemK007)/repo
 	url = https://github.com/ArtemK007/Zabbix-LSI-RAID-Monitoring
+[submodule "Integration-Chrome-Extension-(ikd-work)/repo"]
+	path = Integration-Chrome-Extension-(ikd-work)/repo
+	url = https://github.com/ikd-work/chromix
