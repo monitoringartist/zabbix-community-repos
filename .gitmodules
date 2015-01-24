@@ -418,3 +418,6 @@
 [submodule "Script-Alert-Redmine-Twilio-Email-(GoSunCloud)/repo"]
 	path = Script-Alert-Redmine-Twilio-Email-(GoSunCloud)/repo
 	url = https://github.com/GoSunCloud/zabbix-alert
+[submodule "Template-Printer-Brother-(coreyramirezgomez)/repo"]
+	path = Template-Printer-Brother-(coreyramirezgomez)/repo
+	url = https://github.com/coreyramirezgomez/Brother-Printers-Zabbix-Template
