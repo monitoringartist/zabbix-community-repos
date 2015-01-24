@@ -388,3 +388,6 @@
 [submodule "Script-SQL-Queries-(burner1024)/repo"]
 	path = Script-SQL-Queries-(burner1024)/repo
 	url = https://github.com/burner1024/zabbix-sql
+[submodule "Template-App-SNMP-UCD-Mib-(poohsen)/repo"]
+	path = Template-App-SNMP-UCD-Mib-(poohsen)/repo
+	url = https://github.com/poohsen/ucd-snmp-mib-zabbix
