@@ -316,3 +316,6 @@
 [submodule "Template-App-VMware-vPoller-(dnaeon)/repo"]
 	path = Template-App-VMware-vPoller-(dnaeon)/repo
 	url = https://github.com/dnaeon/py-vpoller
+[submodule "Template-App-VMware-VmBix-(dav3860)/repo"]
+	path = Template-App-VMware-VmBix-(dav3860)/repo
+	url = https://github.com/dav3860/vmbix
