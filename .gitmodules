@@ -352,3 +352,6 @@
 [submodule "Integration-Zabbix-Sender-Perl-(gittex)/repo"]
 	path = Integration-Zabbix-Sender-Perl-(gittex)/repo
 	url = https://github.com/gittex/Zabbix-Sender
+[submodule "Integration-OpenStreetMap-(mikevmk)/repo"]
+	path = Integration-OpenStreetMap-(mikevmk)/repo
+	url = https://github.com/mikevmk/osm-zabbix/
