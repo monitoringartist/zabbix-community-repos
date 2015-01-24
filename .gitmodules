@@ -247,3 +247,6 @@
 [submodule "Integration-Blackbird-Agent-(Vagrants)/repo"]
 	path = Integration-Blackbird-Agent-(Vagrants)/repo
 	url = https://github.com/Vagrants/blackbird
+[submodule "Integration-StatsD-Support-(parkerd)/repo"]
+	path = Integration-StatsD-Support-(parkerd)/repo
+	url = https://github.com/parkerd/statsd-zabbix-backend
