@@ -310,3 +310,6 @@
 [submodule "Template-App-PostgreSQL-(pg_monz)/repo"]
 	path = Template-App-PostgreSQL-(pg_monz)/repo
 	url = https://github.com/pg-monz/pg_monz
+[submodule "API-Perl-Wazapi-(dimir)/repo"]
+	path = API-Perl-Wazapi-(dimir)/repo
+	url = https://github.com/dimir/wazapi
