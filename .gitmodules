@@ -274,3 +274,6 @@
 [submodule "Template-App-Mikrotik-(welbymcroberts)/repo"]
 	path = Template-App-Mikrotik-(welbymcroberts)/repo
 	url = https://github.com/welbymcroberts/zabbix-mikrotik
+[submodule "Script-Alert-Slack-(ericoc)/repo"]
+	path = Script-Alert-Slack-(ericoc)/repo
+	url = https://github.com/ericoc/zabbix-slack-alertscript
