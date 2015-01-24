@@ -349,3 +349,6 @@
 [submodule "Template-App-Icecast-(hairmare)/repo"]
 	path = Template-App-Icecast-(hairmare)/repo
 	url = https://github.com/hairmare/zabbix-icecast
+[submodule "Integration-Zabbix-Sender-Perl-(gittex)/repo"]
+	path = Integration-Zabbix-Sender-Perl-(gittex)/repo
+	url = https://github.com/gittex/Zabbix-Sender
