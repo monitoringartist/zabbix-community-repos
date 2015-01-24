@@ -409,3 +409,6 @@
 [submodule "Integration-Chrome-Extension-(ikd-work)/repo"]
 	path = Integration-Chrome-Extension-(ikd-work)/repo
 	url = https://github.com/ikd-work/chromix
+[submodule "Script-Websphere-MQ-(welvet)/repo"]
+	path = Script-Websphere-MQ-(welvet)/repo
+	url = https://github.com/welvet/mqm_zabbix
