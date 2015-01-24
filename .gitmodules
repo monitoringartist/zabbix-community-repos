@@ -241,3 +241,6 @@
 [submodule "Integration-MCollective-Support-(scalefactory)/repo"]
 	path = Integration-MCollective-Support-(scalefactory)/repo
 	url = https://github.com/scalefactory/zcollective
+[submodule "Script-Apache-CloudStack-(ke4qqq)/repo"]
+	path = Script-Apache-CloudStack-(ke4qqq)/repo
+	url = https://github.com/ke4qqq/zabbix-cloudstack
