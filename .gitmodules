@@ -379,3 +379,6 @@
 [submodule "Integration-StatsD-Support-(untergeek)/repo"]
 	path = Integration-StatsD-Support-(untergeek)/repo
 	url = https://github.com/untergeek/ls-zbxstatsd
+[submodule "Script-Alert-Pushover-(twostairs)/repo"]
+	path = Script-Alert-Pushover-(twostairs)/repo
+	url = https://github.com/twostairs/zabbix-pushover-alertscript
