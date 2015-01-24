@@ -259,3 +259,6 @@
 [submodule "Script-Slack-Alert-(ericoc)/repo"]
 	path = Script-Slack-Alert-(ericoc)/repo
 	url = https://github.com/ericoc/zabbix-slack-alertscript
+[submodule "Script-Flowdock-Alert-(flowdock)/repo"]
+	path = Script-Flowdock-Alert-(flowdock)/repo
+	url = https://github.com/flowdock/zabbix-flowdock-script
