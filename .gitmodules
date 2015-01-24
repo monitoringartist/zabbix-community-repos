@@ -283,3 +283,6 @@
 [submodule "Script-Alert-Alerta-(alerta)/repo"]
 	path = Script-Alert-Alerta-(alerta)/repo
 	url = https://github.com/alerta/zabbix-alerta
+[submodule "Integration-Dashboard-Dashing-(dav3860)/repo"]
+	path = Integration-Dashboard-Dashing-(dav3860)/repo
+	url = https://github.com/dav3860/zabbix_dashboard
