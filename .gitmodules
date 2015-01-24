@@ -427,3 +427,6 @@
 [submodule "Template-UPS-Network-UPS-Tools---NUT-(delin)/repo"]
 	path = Template-UPS-Network-UPS-Tools---NUT-(delin)/repo
 	url = https://github.com/delin/Zabbix-NUT-Template
+[submodule "Script-Alert-Twilio-(ducksboard)/repo"]
+	path = Script-Alert-Twilio-(ducksboard)/repo
+	url = https://github.com/ducksboard/twilio-zabbix-handler
