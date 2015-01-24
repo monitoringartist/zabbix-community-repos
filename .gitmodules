@@ -235,3 +235,6 @@
 [submodule "Integration-PagerDuty-(PagerDuty)/repo"]
 	path = Integration-PagerDuty-(PagerDuty)/repo
 	url = https://github.com/PagerDuty/pagerduty-zabbix-py
+[submodule "Template-App-Oracle-(bicofino)/repo"]
+	path = Template-App-Oracle-(bicofino)/repo
+	url = https://github.com/bicofino/Pyora
