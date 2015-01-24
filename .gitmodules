@@ -373,3 +373,6 @@
 [submodule "Template-App-Parallel-Cloud-Server-(ligurio)/repo"]
 	path = Template-App-Parallel-Cloud-Server-(ligurio)/repo
 	url = https://github.com/ligurio/Zabbix-PCS-Template
+[submodule "Script-LDAP-Sync-(dnaeon)/repo"]
+	path = Script-LDAP-Sync-(dnaeon)/repo
+	url = https://github.com/dnaeon/zabbix-ldap-sync
