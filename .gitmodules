@@ -445,3 +445,6 @@
 [submodule "Template-Database-Cassandra-(czhujer)/repo"]
 	path = Template-Database-Cassandra-(czhujer)/repo
 	url = https://github.com/czhujer/Zabbix-Template-CassandraDB
+[submodule "Template-App-Windows-Eventlog-(DavidWGilmore)/repo"]
+	path = Template-App-Windows-Eventlog-(DavidWGilmore)/repo
+	url = https://github.com/DavidWGilmore/zabbix
