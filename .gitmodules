@@ -478,3 +478,6 @@
 [submodule "Template-App-Cisco-Brocade-(jjmartres)/repo"]
 	path = Template-App-Cisco-Brocade-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Cisco-Templates-(jjmartres)/repo"]
+	path = Template-App-Cisco-Templates-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
