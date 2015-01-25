@@ -442,3 +442,6 @@
 [submodule "Integration-Zabbix-Sender-Python-(BlueSkyDetector)/repo"]
 	path = Integration-Zabbix-Sender-Python-(BlueSkyDetector)/repo
 	url = https://github.com/BlueSkyDetector/code-snippet
+[submodule "Template-Database-Cassandra-(czhujer)/repo"]
+	path = Template-Database-Cassandra-(czhujer)/repo
+	url = https://github.com/czhujer/Zabbix-Template-CassandraDB
