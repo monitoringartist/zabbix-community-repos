@@ -562,3 +562,6 @@
 [submodule "Template-Database-PostgreSQL-pgCayenne-(lesovsky)/repo"]
 	path = Template-Database-PostgreSQL-pgCayenne-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-Redis-(lesovsky)/repo"]
+	path = Template-App-Redis-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
