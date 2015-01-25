@@ -433,3 +433,6 @@
 [submodule "Integration-Hystrix-(ahus1)/repo"]
 	path = Integration-Hystrix-(ahus1)/repo
 	url = https://github.com/ahus1/hystrix-examples
+[submodule "Integration-Maps-Google-(aristotelesaraujo)/repo"]
+	path = Integration-Maps-Google-(aristotelesaraujo)/repo
+	url = https://github.com/aristotelesaraujo/zabbix-geolocation
