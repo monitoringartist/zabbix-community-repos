@@ -553,3 +553,6 @@
 [submodule "Template-App-Keepalived-(lesovsky)/repo"]
 	path = Template-App-Keepalived-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-Memcached-(lesovsky)/repo"]
+	path = Template-App-Memcached-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
