@@ -541,3 +541,6 @@
 [submodule "Template-HW-Adaptec-(lesovsky)/repo"]
 	path = Template-HW-Adaptec-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-HW-MegaCLI-(lesovsky)/repo"]
+	path = Template-HW-MegaCLI-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
