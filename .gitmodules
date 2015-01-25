@@ -694,3 +694,6 @@
 [submodule "Template-Database-Oracle-ODBC-(nucleusv)/repo"]
 	path = Template-Database-Oracle-ODBC-(nucleusv)/repo
 	url = https://github.com/nucleusv/zabbix
+[submodule "Template-Database-Oracle-ODBC-(denissss)/repo"]
+	path = Template-Database-Oracle-ODBC-(denissss)/repo
+	url = https://github.com/denissss/zbx_oracle_odbc
