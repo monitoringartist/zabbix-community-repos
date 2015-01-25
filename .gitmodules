@@ -646,3 +646,6 @@
 [submodule "Script-Alert-IrcBot/repo"]
 	path = Script-Alert-IrcBot/repo
 	url = https://github.com/tulak/zabbirc
+[submodule "Script-Alert-Gtalk-(untergeek)/repo"]
+	path = Script-Alert-Gtalk-(untergeek)/repo
+	url = https://github.com/untergeek/zabbix-grab-bag
