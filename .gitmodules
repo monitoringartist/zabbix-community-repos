@@ -511,3 +511,6 @@
 [submodule "Template-App-Netopia-(jjmartres)/repo"]
 	path = Template-App-Netopia-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Blacklist-RBL-(jjmartres)/repo"]
+	path = Template-App-Blacklist-RBL-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
