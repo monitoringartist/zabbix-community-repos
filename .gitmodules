@@ -643,3 +643,6 @@
 [submodule "Integration-Reports-PDF-(spy86)/repo"]
 	path = Integration-Reports-PDF-(spy86)/repo
 	url = https://github.com/spy86/Zabbix_
+[submodule "Script-Alert-IrcBot/repo"]
+	path = Script-Alert-IrcBot/repo
+	url = https://github.com/tulak/zabbirc
