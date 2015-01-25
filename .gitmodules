@@ -697,3 +697,6 @@
 [submodule "Template-Database-Oracle-ODBC-(denissss)/repo"]
 	path = Template-Database-Oracle-ODBC-(denissss)/repo
 	url = https://github.com/denissss/zbx_oracle_odbc
+[submodule "Template-Database-MongoDB-(nightw)/repo"]
+	path = Template-Database-MongoDB-(nightw)/repo
+	url = https://github.com/nightw/mikoomi-zabbix-mongodb-monitoring
