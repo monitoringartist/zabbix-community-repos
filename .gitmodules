@@ -685,3 +685,6 @@
 [submodule "Template-App-Infoblox-(drwahl)/repo"]
 	path = Template-App-Infoblox-(drwahl)/repo
 	url = https://github.com/drwahl/zabbix_templates
+[submodule "Integration-Dashboard-Node.js-Nodefront-(thedutchlab)/repo"]
+	path = Integration-Dashboard-Node.js-Nodefront-(thedutchlab)/repo
+	url = https://github.com/thedutchlab/nodefront
