@@ -583,3 +583,6 @@
 [submodule "Template-App-Oracle-ODBC-(nucleusv)/repo"]
 	path = Template-App-Oracle-ODBC-(nucleusv)/repo
 	url = https://github.com/nucleusv/zabbix
+[submodule "Template-App-Exim-(olindata)/repo"]
+	path = Template-App-Exim-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
