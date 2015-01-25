@@ -538,3 +538,6 @@
 [submodule "Template-App-GlusterFS-(lesovsky)/repo"]
 	path = Template-App-GlusterFS-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-HW-Adaptec-(lesovsky)/repo"]
+	path = Template-HW-Adaptec-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
