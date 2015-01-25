@@ -574,3 +574,6 @@
 [submodule "Template-App-Unicorn-(lesovsky)/repo"]
 	path = Template-App-Unicorn-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-Yum-Security-(lesovsky)/repo"]
+	path = Template-App-Yum-Security-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
