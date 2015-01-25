@@ -610,3 +610,6 @@
 [submodule "Template-OS-Windows-(olindata)/repo"]
 	path = Template-OS-Windows-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Script-Alert-PagerDuty-(PagerDuty)/repo"]
+	path = Script-Alert-PagerDuty-(PagerDuty)/repo
+	url = https://github.com/PagerDuty/pagerduty-zabbix-py
