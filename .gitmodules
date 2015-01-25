@@ -580,3 +580,6 @@
 [submodule "Integration-Maps-OpenStreetMap-(mikevmk)/repo"]
 	path = Integration-Maps-OpenStreetMap-(mikevmk)/repo
 	url = https://github.com/mikevmk/osm-zabbix/
+[submodule "Template-App-Oracle-ODBC-(nucleusv)/repo"]
+	path = Template-App-Oracle-ODBC-(nucleusv)/repo
+	url = https://github.com/nucleusv/zabbix
