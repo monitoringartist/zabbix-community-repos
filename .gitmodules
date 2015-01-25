@@ -616,3 +616,6 @@
 [submodule "Template-App-PFsense-(Rikbruggink)/repo"]
 	path = Template-App-PFsense-(Rikbruggink)/repo
 	url = https://github.com/Rikbruggink/Zabbix-templates
+[submodule "Template-App-Vyatta-(Rikbruggink)/repo"]
+	path = Template-App-Vyatta-(Rikbruggink)/repo
+	url = https://github.com/Rikbruggink/Zabbix-templates
