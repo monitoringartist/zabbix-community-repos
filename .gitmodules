@@ -595,3 +595,6 @@
 [submodule "Template-App-Sshd-(olindata)/repo"]
 	path = Template-App-Sshd-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-App-TFTP-(olindata)/repo"]
+	path = Template-App-TFTP-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
