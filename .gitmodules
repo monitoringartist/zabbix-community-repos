@@ -640,3 +640,6 @@
 [submodule "Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo"]
 	path = Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo
 	url = https://github.com/saltstack-formulas/zabbix-formula
+[submodule "Integration-Reports-PDF-(spy86)/repo"]
+	path = Integration-Reports-PDF-(spy86)/repo
+	url = https://github.com/spy86/Zabbix_
