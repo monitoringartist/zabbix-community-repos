@@ -631,3 +631,6 @@
 [submodule "Template-App-Windows-AD-FS-(Rikbruggink)/repo"]
 	path = Template-App-Windows-AD-FS-(Rikbruggink)/repo
 	url = https://github.com/Rikbruggink/Zabbix-templates
+[submodule "Template-App-Windows-VMware-Tools-(Rikbruggink)/repo"]
+	path = Template-App-Windows-VMware-Tools-(Rikbruggink)/repo
+	url = https://github.com/Rikbruggink/Zabbix-templates
