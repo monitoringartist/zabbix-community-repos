@@ -652,3 +652,6 @@
 [submodule "Script-Alert-Powl-(untergeek)/repo"]
 	path = Script-Alert-Powl-(untergeek)/repo
 	url = https://github.com/untergeek/zabbix-grab-bag
+[submodule "Template-HW-Mikrotik-(welbymcroberts)/repo"]
+	path = Template-HW-Mikrotik-(welbymcroberts)/repo
+	url = https://github.com/welbymcroberts/zabbix-mikrotik
