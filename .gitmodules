@@ -469,3 +469,6 @@
 [submodule "Template-App-PHP-FPM-Stats-(jizhang)/repo"]
 	path = Template-App-PHP-FPM-Stats-(jizhang)/repo
 	url = https://github.com/jizhang/zabbix-templates
+[submodule "Template-UPS-APC-(jjmartres)/repo"]
+	path = Template-UPS-APC-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
