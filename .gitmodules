@@ -457,3 +457,6 @@
 [submodule "Template-HW-SonicWall-(jdnow)/repo"]
 	path = Template-HW-SonicWall-(jdnow)/repo
 	url = https://github.com/jdnow/ZabbixFiles
+[submodule "Template-App-Hadoop-(jizhang)/repo"]
+	path = Template-App-Hadoop-(jizhang)/repo
+	url = https://github.com/jizhang/zabbix-templates
