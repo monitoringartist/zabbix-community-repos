@@ -571,3 +571,6 @@
 [submodule "Template-App-Sphinx2-(lesovsky)/repo"]
 	path = Template-App-Sphinx2-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-Unicorn-(lesovsky)/repo"]
+	path = Template-App-Unicorn-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
