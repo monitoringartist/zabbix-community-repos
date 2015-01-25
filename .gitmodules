@@ -502,3 +502,6 @@
 [submodule "Template-App-API-Gandi-(jjmartres)/repo"]
 	path = Template-App-API-Gandi-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Icewarp-(jjmartres)/repo"]
+	path = Template-App-Icewarp-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
