@@ -451,3 +451,6 @@
 [submodule "Template-App-Windows-Updates-(DavidWGilmore)/repo"]
 	path = Template-App-Windows-Updates-(DavidWGilmore)/repo
 	url = https://github.com/DavidWGilmore/zabbix
+[submodule "Template-Database-MySQL-Replication-(gnublin)/repo"]
+	path = Template-Database-MySQL-Replication-(gnublin)/repo
+	url = https://github.com/gnublin/zabbix
