@@ -676,3 +676,6 @@
 [submodule "Template-App-Infoblox-(drwahl)-/repo"]
 	path = Template-App-Infoblox-(drwahl)-/repo
 	url = https://github.com/drwahl/zabbix_templates
+[submodule "Template-HW-EMC-Isilon-OneFS-(drwahl)/repo"]
+	path = Template-HW-EMC-Isilon-OneFS-(drwahl)/repo
+	url = https://github.com/drwahl/zabbix_templates
