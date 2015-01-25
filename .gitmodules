@@ -628,3 +628,6 @@
 [submodule "Template-App-Office365-Services-(Rikbruggink)/repo"]
 	path = Template-App-Office365-Services-(Rikbruggink)/repo
 	url = https://github.com/Rikbruggink/Zabbix-templates
+[submodule "Template-App-Windows-AD-FS-(Rikbruggink)/repo"]
+	path = Template-App-Windows-AD-FS-(Rikbruggink)/repo
+	url = https://github.com/Rikbruggink/Zabbix-templates
