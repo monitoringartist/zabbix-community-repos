@@ -430,3 +430,6 @@
 [submodule "Script-Alert-Twilio-(ducksboard)/repo"]
 	path = Script-Alert-Twilio-(ducksboard)/repo
 	url = https://github.com/ducksboard/twilio-zabbix-handler
+[submodule "Integration-Hystrix-(ahus1)/repo"]
+	path = Integration-Hystrix-(ahus1)/repo
+	url = https://github.com/ahus1/hystrix-examples
