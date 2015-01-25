@@ -517,3 +517,6 @@
 [submodule "Template-App-Smstools-(jjmartres)/repo"]
 	path = Template-App-Smstools-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Veeam-(jjmartres)/repo"]
+	path = Template-App-Veeam-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
