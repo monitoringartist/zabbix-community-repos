@@ -607,3 +607,6 @@
 [submodule "Template-OS-RedHat-CentOS-(olindata)/repo"]
 	path = Template-OS-RedHat-CentOS-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-OS-Windows-(olindata)/repo"]
+	path = Template-OS-Windows-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
