@@ -484,3 +484,6 @@
 [submodule "Template-App-DataCore-(jjmartres)/repo"]
 	path = Template-App-DataCore-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Dell-Compellent-(jjmartres)/repo"]
+	path = Template-App-Dell-Compellent-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
