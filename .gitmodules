@@ -586,3 +586,6 @@
 [submodule "Template-App-Exim-(olindata)/repo"]
 	path = Template-App-Exim-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-App-Postfix-(olindata)/repo"]
+	path = Template-App-Postfix-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
