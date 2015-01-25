@@ -505,3 +505,6 @@
 [submodule "Template-App-Icewarp-(jjmartres)/repo"]
 	path = Template-App-Icewarp-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Storage-Infortrend-(jjmartres)/repo"]
+	path = Template-App-Storage-Infortrend-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
