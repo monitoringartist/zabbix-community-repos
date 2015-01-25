@@ -598,3 +598,6 @@
 [submodule "Template-App-TFTP-(olindata)/repo"]
 	path = Template-App-TFTP-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-HW-Adaptec-(olindata)/repo"]
+	path = Template-HW-Adaptec-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
