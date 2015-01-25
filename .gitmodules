@@ -634,3 +634,6 @@
 [submodule "Template-App-Windows-VMware-Tools-(Rikbruggink)/repo"]
 	path = Template-App-Windows-VMware-Tools-(Rikbruggink)/repo
 	url = https://github.com/Rikbruggink/Zabbix-templates
+[submodule "Script-Alert-Email-Via-AWS-Simple-Email-Service---SES-(rsgfernandes)/repo"]
+	path = Script-Alert-Email-Via-AWS-Simple-Email-Service---SES-(rsgfernandes)/repo
+	url = https://github.com/rsgfernandes/zabbix-ses
