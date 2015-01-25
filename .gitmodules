@@ -514,3 +514,6 @@
 [submodule "Template-App-Blacklist-RBL-(jjmartres)/repo"]
 	path = Template-App-Blacklist-RBL-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Smstools-(jjmartres)/repo"]
+	path = Template-App-Smstools-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
