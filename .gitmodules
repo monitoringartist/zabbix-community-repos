@@ -601,3 +601,6 @@
 [submodule "Template-HW-Adaptec-(olindata)/repo"]
 	path = Template-HW-Adaptec-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-OS-Debian-Ubuntu-(olindata)/repo"]
+	path = Template-OS-Debian-Ubuntu-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
