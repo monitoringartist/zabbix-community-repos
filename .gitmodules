@@ -685,6 +685,9 @@
 [submodule "Template-App-Infoblox-(drwahl)/repo"]
 	path = Template-App-Infoblox-(drwahl)/repo
 	url = https://github.com/drwahl/zabbix_templates
+[submodule "Template-App-Hyper-V-(ameiji)/repo"]
+        path = Template-App-Hyper-V-(ameiji)/repo
+        url = https://github.com/ameiji/Zabbix-HyperV-Templates
 [submodule "Integration-Dashboard-Node.js-Nodefront-(thedutchlab)/repo"]
 	path = Integration-Dashboard-Node.js-Nodefront-(thedutchlab)/repo
 	url = https://github.com/thedutchlab/nodefront
