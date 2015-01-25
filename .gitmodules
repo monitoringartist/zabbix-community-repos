@@ -667,3 +667,6 @@
 [submodule "Template-App-Nginx-(vicendominguez)/repo"]
 	path = Template-App-Nginx-(vicendominguez)/repo
 	url = https://github.com/vicendominguez/nginx-zabbix-template
+[submodule "Template-App-Wowza-(vicendominguez)/repo"]
+	path = Template-App-Wowza-(vicendominguez)/repo
+	url = https://github.com/vicendominguez/wowza-zabbix-template
