@@ -532,3 +532,6 @@
 [submodule "Template-Database-Mssql-(jjmartres)/repo"]
 	path = Template-Database-Mssql-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Flashcache-(lesovsky)/repo"]
+	path = Template-App-Flashcache-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
