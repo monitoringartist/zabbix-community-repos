@@ -649,3 +649,6 @@
 [submodule "Script-Alert-Gtalk-(untergeek)/repo"]
 	path = Script-Alert-Gtalk-(untergeek)/repo
 	url = https://github.com/untergeek/zabbix-grab-bag
+[submodule "Script-Alert-Powl-(untergeek)/repo"]
+	path = Script-Alert-Powl-(untergeek)/repo
+	url = https://github.com/untergeek/zabbix-grab-bag
