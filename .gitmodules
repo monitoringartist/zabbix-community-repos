@@ -691,3 +691,6 @@
 [submodule "Template-Database-Oracle-(bicofino)/repo"]
 	path = Template-Database-Oracle-(bicofino)/repo
 	url = https://github.com/bicofino/Pyora
+[submodule "Template-Database-Oracle-ODBC-(nucleusv)/repo"]
+	path = Template-Database-Oracle-ODBC-(nucleusv)/repo
+	url = https://github.com/nucleusv/zabbix
