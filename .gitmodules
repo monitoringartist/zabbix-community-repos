@@ -529,3 +529,6 @@
 [submodule "Template-App-IIS-(jjmartres)/repo"]
 	path = Template-App-IIS-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-Database-Mssql-(jjmartres)/repo"]
+	path = Template-Database-Mssql-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
