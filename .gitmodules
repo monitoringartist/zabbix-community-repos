@@ -499,3 +499,6 @@
 [submodule "Template-App-Fortinet-(jjmartres)/repo"]
 	path = Template-App-Fortinet-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-API-Gandi-(jjmartres)/repo"]
+	path = Template-App-API-Gandi-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
