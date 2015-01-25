@@ -577,3 +577,6 @@
 [submodule "Template-App-Yum-Security-(lesovsky)/repo"]
 	path = Template-App-Yum-Security-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Integration-Maps-OpenStreetMap-(mikevmk)/repo"]
+	path = Integration-Maps-OpenStreetMap-(mikevmk)/repo
+	url = https://github.com/mikevmk/osm-zabbix/
