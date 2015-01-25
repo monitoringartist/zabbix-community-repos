@@ -655,3 +655,6 @@
 [submodule "Template-HW-Mikrotik-(welbymcroberts)/repo"]
 	path = Template-HW-Mikrotik-(welbymcroberts)/repo
 	url = https://github.com/welbymcroberts/zabbix-mikrotik
+[submodule "Template-App-Rsnaphot-(YetOpen)/repo"]
+	path = Template-App-Rsnaphot-(YetOpen)/repo
+	url = https://github.com/YetOpen/zabbix-scripts
