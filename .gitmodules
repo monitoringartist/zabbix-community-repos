@@ -490,3 +490,6 @@
 [submodule "Template-App-Dell-Powerconnect-(jjmartres)/repo"]
 	path = Template-App-Dell-Powerconnect-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Drbd-(jjmartres)/repo"]
+	path = Template-App-Drbd-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
