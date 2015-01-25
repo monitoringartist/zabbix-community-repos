@@ -38,3 +38,12 @@ Real example:
     echo "[Link - Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template)" > "Template-App-Nginx-(blacked)/README.md"
     git add "Template-App-Nginx-(blacked)"
     git commit -am "Template-App-Nginx-(blacked)"
+
+
+## Highlighted Repo
+
+Jan Garaj: *Project [Nodefront](https://github.com/thedutchlab/nodefront) is inspired by [Phyramid](https://www.phyramid.com/blog/monitoring-servers-at-phyramid/). Nodefront has been released by Zabbix rookie thedutchlab recently. Maybe project code is unstable and it's not the best at the moment, but if project will be developed, it has potential to be successful Zabbix project.
+I see that Zabbix community is interested in fancy dashboard, so this one can be one good choice in the future.* 
+
+[![Dashboard Nodefront](https://raw.githubusercontent.com/thedutchlab/nodefront/master/screenshot_v0.0.1.jpg)](https://github.com/thedutchlab/nodefront)
+
