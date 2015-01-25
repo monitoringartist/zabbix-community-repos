@@ -496,3 +496,6 @@
 [submodule "Template-UPS-Eaton-Powerware-(jjmartres)/repo"]
 	path = Template-UPS-Eaton-Powerware-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Fortinet-(jjmartres)/repo"]
+	path = Template-App-Fortinet-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
