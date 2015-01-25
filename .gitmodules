@@ -613,3 +613,6 @@
 [submodule "Script-Alert-PagerDuty-(PagerDuty)/repo"]
 	path = Script-Alert-PagerDuty-(PagerDuty)/repo
 	url = https://github.com/PagerDuty/pagerduty-zabbix-py
+[submodule "Template-App-PFsense-(Rikbruggink)/repo"]
+	path = Template-App-PFsense-(Rikbruggink)/repo
+	url = https://github.com/Rikbruggink/Zabbix-templates
