@@ -559,3 +559,6 @@
 [submodule "Template-App-PgBouncer-(lesovsky)/repo"]
 	path = Template-App-PgBouncer-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-Database-PostgreSQL-pgCayenne-(lesovsky)/repo"]
+	path = Template-Database-PostgreSQL-pgCayenne-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
