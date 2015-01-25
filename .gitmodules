@@ -565,3 +565,6 @@
 [submodule "Template-App-Redis-(lesovsky)/repo"]
 	path = Template-App-Redis-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-SkyTools-(lesovsky)/repo"]
+	path = Template-App-SkyTools-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
