@@ -472,3 +472,6 @@
 [submodule "Template-UPS-APC-(jjmartres)/repo"]
 	path = Template-UPS-APC-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Audiocodes-(jjmartres)/repo"]
+	path = Template-App-Audiocodes-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
