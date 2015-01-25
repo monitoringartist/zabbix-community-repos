@@ -523,3 +523,6 @@
 [submodule "Template-App-Exchange-2007-(jjmartres)/repo"]
 	path = Template-App-Exchange-2007-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Exchange-2010-(jjmartres)/repo"]
+	path = Template-App-Exchange-2010-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
