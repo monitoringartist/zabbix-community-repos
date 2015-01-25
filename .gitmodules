@@ -592,3 +592,6 @@
 [submodule "Template-App-PostgreSQL-(olindata)/repo"]
 	path = Template-App-PostgreSQL-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-App-Sshd-(olindata)/repo"]
+	path = Template-App-Sshd-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
