@@ -673,3 +673,6 @@
 [submodule "Template-HW-Supermicro-(sergeygalkin)/repo"]
 	path = Template-HW-Supermicro-(sergeygalkin)/repo
 	url = https://github.com/sergeygalkin/zabbix
+[submodule "Template-App-Infoblox-(drwahl)-/repo"]
+	path = Template-App-Infoblox-(drwahl)-/repo
+	url = https://github.com/drwahl/zabbix_templates
