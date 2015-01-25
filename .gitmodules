@@ -454,3 +454,6 @@
 [submodule "Template-Database-MySQL-Replication-(gnublin)/repo"]
 	path = Template-Database-MySQL-Replication-(gnublin)/repo
 	url = https://github.com/gnublin/zabbix
+[submodule "Template-HW-SonicWall-(jdnow)/repo"]
+	path = Template-HW-SonicWall-(jdnow)/repo
+	url = https://github.com/jdnow/ZabbixFiles
