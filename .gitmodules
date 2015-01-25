@@ -661,3 +661,6 @@
 [submodule "Template-App-Zimbra-(YetOpen)/repo"]
 	path = Template-App-Zimbra-(YetOpen)/repo
 	url = https://github.com/YetOpen/zabbix-scripts
+[submodule "Template-App-Memcached-(vicendominguez)/repo"]
+	path = Template-App-Memcached-(vicendominguez)/repo
+	url = https://github.com/vicendominguez/memcached-zabbix-template
