@@ -682,3 +682,6 @@
 [submodule "Template-App-Puppet-(drwahl)/repo"]
 	path = Template-App-Puppet-(drwahl)/repo
 	url = https://github.com/drwahl/zabbix_templates
+[submodule "Template-App-Infoblox-(drwahl)/repo"]
+	path = Template-App-Infoblox-(drwahl)/repo
+	url = https://github.com/drwahl/zabbix_templates
