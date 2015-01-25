@@ -448,3 +448,6 @@
 [submodule "Template-App-Windows-Eventlog-(DavidWGilmore)/repo"]
 	path = Template-App-Windows-Eventlog-(DavidWGilmore)/repo
 	url = https://github.com/DavidWGilmore/zabbix
+[submodule "Template-App-Windows-Updates-(DavidWGilmore)/repo"]
+	path = Template-App-Windows-Updates-(DavidWGilmore)/repo
+	url = https://github.com/DavidWGilmore/zabbix
