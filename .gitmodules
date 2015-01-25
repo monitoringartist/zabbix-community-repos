@@ -637,3 +637,6 @@
 [submodule "Script-Alert-Email-Via-AWS-Simple-Email-Service---SES-(rsgfernandes)/repo"]
 	path = Script-Alert-Email-Via-AWS-Simple-Email-Service---SES-(rsgfernandes)/repo
 	url = https://github.com/rsgfernandes/zabbix-ses
+[submodule "Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo"]
+	path = Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo
+	url = https://github.com/saltstack-formulas/zabbix-formula
