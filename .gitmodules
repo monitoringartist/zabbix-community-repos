@@ -460,3 +460,6 @@
 [submodule "Template-App-Hadoop-(jizhang)/repo"]
 	path = Template-App-Hadoop-(jizhang)/repo
 	url = https://github.com/jizhang/zabbix-templates
+[submodule "Template-App-Iostat-(jizhang)/repo"]
+	path = Template-App-Iostat-(jizhang)/repo
+	url = https://github.com/jizhang/zabbix-templates
