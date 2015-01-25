@@ -493,3 +493,6 @@
 [submodule "Template-App-Drbd-(jjmartres)/repo"]
 	path = Template-App-Drbd-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-UPS-Eaton-Powerware-(jjmartres)/repo"]
+	path = Template-UPS-Eaton-Powerware-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
