@@ -547,3 +547,6 @@
 [submodule "Template-HW-HP-Smart-Array-(lesovsky)/repo"]
 	path = Template-HW-HP-Smart-Array-(lesovsky)/repo
 	url = https://github.com/lesovsky/zabbix-extensions
+[submodule "Template-App-Iostat-(lesovsky)/repo"]
+	path = Template-App-Iostat-(lesovsky)/repo
+	url = https://github.com/lesovsky/zabbix-extensions
