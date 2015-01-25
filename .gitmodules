@@ -475,3 +475,6 @@
 [submodule "Template-App-Audiocodes-(jjmartres)/repo"]
 	path = Template-App-Audiocodes-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Template-App-Cisco-Brocade-(jjmartres)/repo"]
+	path = Template-App-Cisco-Brocade-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
