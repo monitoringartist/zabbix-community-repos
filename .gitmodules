@@ -436,3 +436,6 @@
 [submodule "Integration-Maps-Google-(aristotelesaraujo)/repo"]
 	path = Integration-Maps-Google-(aristotelesaraujo)/repo
 	url = https://github.com/aristotelesaraujo/zabbix-geolocation
+[submodule "Template-App-Loadmaster-(begood-technology)/repo"]
+	path = Template-App-Loadmaster-(begood-technology)/repo
+	url = https://github.com/begood-technology/ZABBIX
