@@ -622,3 +622,6 @@
 [submodule "Template-App-MS-SQL-2008-R2-Mirroring-(Rikbruggink)/repo"]
 	path = Template-App-MS-SQL-2008-R2-Mirroring-(Rikbruggink)/repo
 	url = https://github.com/Rikbruggink/Zabbix-templates
+[submodule "Template-App-MS-SQL-2008-R2-(Rikbruggink)/repo"]
+	path = Template-App-MS-SQL-2008-R2-(Rikbruggink)/repo
+	url = https://github.com/Rikbruggink/Zabbix-templates
