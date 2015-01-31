@@ -721,3 +721,6 @@
 [submodule "API-.NET-(yosqueoy)/repo"]
 	path = API-.NET-(yosqueoy)/repo
 	url = https://github.com/yosqueoy/Zabbix-API-for-.NET
+[submodule "Integration-Comments-In-Dashboard-(kiwwino)/repo"]
+	path = Integration-Comments-In-Dashboard-(kiwwino)/repo
+	url = https://github.com/kiwwino/zabbix-dashboard-comments
