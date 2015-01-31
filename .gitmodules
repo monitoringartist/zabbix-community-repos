@@ -736,3 +736,6 @@
 [submodule "Integration-Dashboard-JS-Zabbixweb-(velinath)/repo"]
 	path = Integration-Dashboard-JS-Zabbixweb-(velinath)/repo
 	url = https://github.com/velinath/zabbixweb
+[submodule "CLI-Zabbix-Python-(usit-gd)/repo"]
+	path = CLI-Zabbix-Python-(usit-gd)/repo
+	url = https://github.com/usit-gd/zabbix-cli
