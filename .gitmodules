@@ -730,3 +730,6 @@
 [submodule "Template-App-Apache-Traffic-Server---ATS-(kometchtech)/repo"]
 	path = Template-App-Apache-Traffic-Server---ATS-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_Template_ATS
+[submodule "Template-HW-APC-PDU-(kometchtech)/repo"]
+	path = Template-HW-APC-PDU-(kometchtech)/repo
+	url = https://github.com/kometchtech/zabbix_template_apc_pdu
