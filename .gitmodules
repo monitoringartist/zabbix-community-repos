@@ -733,3 +733,6 @@
 [submodule "Template-HW-APC-PDU-(kometchtech)/repo"]
 	path = Template-HW-APC-PDU-(kometchtech)/repo
 	url = https://github.com/kometchtech/zabbix_template_apc_pdu
+[submodule "Integration-Dashboard-JS-Zabbixweb-(velinath)/repo"]
+	path = Integration-Dashboard-JS-Zabbixweb-(velinath)/repo
+	url = https://github.com/velinath/zabbixweb
