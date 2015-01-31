@@ -745,3 +745,6 @@
 [submodule "Integration-Windows-Tray-(wriley)/repo"]
 	path = Integration-Windows-Tray-(wriley)/repo
 	url = https://github.com/wriley/ZabbixTray
+[submodule "Template-Database-PostgreSQL-(olindata)/repo"]
+	path = Template-Database-PostgreSQL-(olindata)/repo
+	url = https://github.com/olindata/tribily-zabbix-templates
