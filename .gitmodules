@@ -718,3 +718,6 @@
 [submodule "Template-Database-PostgreSQL-(efic1)/repo"]
 	path = Template-Database-PostgreSQL-(efic1)/repo
 	url = https://github.com/efic1/zabbix_postgresql_template
+[submodule "API-.NET-(yosqueoy)/repo"]
+	path = API-.NET-(yosqueoy)/repo
+	url = https://github.com/yosqueoy/Zabbix-API-for-.NET
