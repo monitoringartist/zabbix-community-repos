@@ -739,3 +739,6 @@
 [submodule "CLI-Zabbix-Python-(usit-gd)/repo"]
 	path = CLI-Zabbix-Python-(usit-gd)/repo
 	url = https://github.com/usit-gd/zabbix-cli
+[submodule "Template-App-Hadoop-(zubayr)/repo"]
+	path = Template-App-Hadoop-(zubayr)/repo
+	url = https://github.com/zubayr/zabbix_hadoop_monitoring
