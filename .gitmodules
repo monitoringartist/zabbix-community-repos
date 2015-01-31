@@ -712,3 +712,6 @@
 [submodule "Template-AWS-EC2-(ike-dai)/repo"]
 	path = Template-AWS-EC2-(ike-dai)/repo
 	url = https://github.com/ike-dai/zabbix-cloud-module
+[submodule "Template-HW-Mikrotik-RouterBOARD-(kometchtech)/repo"]
+	path = Template-HW-Mikrotik-RouterBOARD-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_Template_Routerboard
