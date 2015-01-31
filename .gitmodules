@@ -715,3 +715,6 @@
 [submodule "Template-HW-Mikrotik-RouterBOARD-(kometchtech)/repo"]
 	path = Template-HW-Mikrotik-RouterBOARD-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_Template_Routerboard
+[submodule "Template-Database-PostgreSQL-(efic1)/repo"]
+	path = Template-Database-PostgreSQL-(efic1)/repo
+	url = https://github.com/efic1/zabbix_postgresql_template
