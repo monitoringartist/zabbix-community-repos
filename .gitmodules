@@ -703,3 +703,6 @@
 [submodule "Template-Database-MongoDB-(nightw)/repo"]
 	path = Template-Database-MongoDB-(nightw)/repo
 	url = https://github.com/nightw/mikoomi-zabbix-mongodb-monitoring
+[submodule "Template-Database-AWS-RDS-(efic1)/repo"]
+	path = Template-Database-AWS-RDS-(efic1)/repo
+	url = https://github.com/efic1/zabbix_rds_template
