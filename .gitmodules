@@ -748,3 +748,6 @@
 [submodule "Template-Database-PostgreSQL-(olindata)/repo"]
 	path = Template-Database-PostgreSQL-(olindata)/repo
 	url = https://github.com/olindata/tribily-zabbix-templates
+[submodule "Template-Database-PostgreSQL-(pg_monz)/repo"]
+	path = Template-Database-PostgreSQL-(pg_monz)/repo
+	url = https://github.com/pg-monz/pg_monz
