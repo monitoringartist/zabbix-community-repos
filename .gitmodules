@@ -724,3 +724,6 @@
 [submodule "Integration-Comments-In-Dashboard-(kiwwino)/repo"]
 	path = Integration-Comments-In-Dashboard-(kiwwino)/repo
 	url = https://github.com/kiwwino/zabbix-dashboard-comments
+[submodule "Template-App-HAProxy-(anapsix)/repo"]
+	path = Template-App-HAProxy-(anapsix)/repo
+	url = https://github.com/anapsix/zabbix-haproxy
