@@ -742,3 +742,6 @@
 [submodule "Template-App-Hadoop-(zubayr)/repo"]
 	path = Template-App-Hadoop-(zubayr)/repo
 	url = https://github.com/zubayr/zabbix_hadoop_monitoring
+[submodule "Integration-Windows-Tray-(wriley)/repo"]
+	path = Integration-Windows-Tray-(wriley)/repo
+	url = https://github.com/wriley/ZabbixTray
