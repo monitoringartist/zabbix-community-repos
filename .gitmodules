@@ -754,3 +754,6 @@
 [submodule "Template-App-KVM-(bushvin)/repo"]
 	path = Template-App-KVM-(bushvin)/repo
 	url = https://github.com/bushvin/zabbix-kvm-res
+[submodule "Integration-Dashboard-Node.js-(bazilio91i)/repo"]
+	path = Integration-Dashboard-Node.js-(bazilio91i)/repo
+	url = https://github.com/bazilio91/zabbix-dashboard
