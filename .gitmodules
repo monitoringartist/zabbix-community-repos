@@ -760,3 +760,6 @@
 [submodule "Template-App-HDD-SMART-(kdruelle)/repo"]
 	path = Template-App-HDD-SMART-(kdruelle)/repo
 	url = https://github.com/kdruelle/zabbix_smart_monitor
+[submodule "Integration-ScreenBuilder-(Fabian1976)/repo"]
+	path = Integration-ScreenBuilder-(Fabian1976)/repo
+	url = https://github.com/Fabian1976/zabbix-screenbuilder
