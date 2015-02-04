@@ -757,3 +757,6 @@
 [submodule "Integration-Dashboard-Node.js-(bazilio91i)/repo"]
 	path = Integration-Dashboard-Node.js-(bazilio91i)/repo
 	url = https://github.com/bazilio91/zabbix-dashboard
+[submodule "Template-App-HDD-SMART-(kdruelle)/repo"]
+	path = Template-App-HDD-SMART-(kdruelle)/repo
+	url = https://github.com/kdruelle/zabbix_smart_monitor
