@@ -751,3 +751,6 @@
 [submodule "Template-Database-PostgreSQL-(pg_monz)/repo"]
 	path = Template-Database-PostgreSQL-(pg_monz)/repo
 	url = https://github.com/pg-monz/pg_monz
+[submodule "Template-App-KVM-(bushvin)/repo"]
+	path = Template-App-KVM-(bushvin)/repo
+	url = https://github.com/bushvin/zabbix-kvm-res
