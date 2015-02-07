@@ -769,3 +769,6 @@
 [submodule "Integration-Bash-Completion-(zabbix)/repo"]
 	path = Integration-Bash-Completion-(zabbix)/repo
 	url = https://github.com/zabbix/zabbix-bash-completion
+[submodule "Template-App-Ipsec-(a-schild)/repo"]
+	path = Template-App-Ipsec-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-ipsec
