@@ -766,3 +766,6 @@
 [submodule "Integration-Dashboard-Node.js-(bazilio91)/repo"]
 	path = Integration-Dashboard-Node.js-(bazilio91)/repo
 	url = https://github.com/bazilio91/zabbix-dashboard
+[submodule "Integration-Bash-Completion-(zabbix)/repo"]
+	path = Integration-Bash-Completion-(zabbix)/repo
+	url = https://github.com/zabbix/zabbix-bash-completion
