@@ -772,3 +772,6 @@
 [submodule "Template-App-Ipsec-(a-schild)/repo"]
 	path = Template-App-Ipsec-(a-schild)/repo
 	url = https://github.com/a-schild/zabbix-ipsec
+[submodule "Template-Database-PostgreSQL-Module-Libzbxpgsql-(cavaliercoder)/repo"]
+	path = Template-Database-PostgreSQL-Module-Libzbxpgsql-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/libzbxpgsql
