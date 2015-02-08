@@ -793,3 +793,6 @@
 [submodule "Template-HW-Mikrotik-(tricksol)/repo"]
 	path = Template-HW-Mikrotik-(tricksol)/repo
 	url = https://github.com/tricksol/Zabbix-Templates
+[submodule "Template-HW-Tranzeo-(tricksol)/repo"]
+	path = Template-HW-Tranzeo-(tricksol)/repo
+	url = https://github.com/tricksol/Zabbix-Templates
