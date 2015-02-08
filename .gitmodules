@@ -787,3 +787,6 @@
 [submodule "Script-Alert-IrcBot-(tulak)/repo"]
 	path = Script-Alert-IrcBot-(tulak)/repo
 	url = https://github.com/tulak/zabbirc
+[submodule "Template-HW-Cisco-(tricksol)/repo"]
+	path = Template-HW-Cisco-(tricksol)/repo
+	url = https://github.com/tricksol/Zabbix-Templates
