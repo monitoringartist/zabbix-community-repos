@@ -784,3 +784,6 @@
 [submodule "Template-VM-Vmware-ESX-(jensdepuydt)/repo"]
 	path = Template-VM-Vmware-ESX-(jensdepuydt)/repo
 	url = https://github.com/jensdepuydt/zabbix-vmwareesx
+[submodule "Script-Alert-IrcBot-(tulak)/repo"]
+	path = Script-Alert-IrcBot-(tulak)/repo
+	url = https://github.com/tulak/zabbirc
