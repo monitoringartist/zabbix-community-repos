@@ -790,3 +790,6 @@
 [submodule "Template-HW-Cisco-(tricksol)/repo"]
 	path = Template-HW-Cisco-(tricksol)/repo
 	url = https://github.com/tricksol/Zabbix-Templates
+[submodule "Template-HW-Mikrotik-(tricksol)/repo"]
+	path = Template-HW-Mikrotik-(tricksol)/repo
+	url = https://github.com/tricksol/Zabbix-Templates
