@@ -811,3 +811,6 @@
 [submodule "Template-VM-XenServer-(kunitake)/repo"]
 	path = Template-VM-XenServer-(kunitake)/repo
 	url = https://github.com/kunitake/zabbix-xenserver-templates
+[submodule "Template-VM-Libvirt-Stat-Over-Collectd-(czhujer)/repo"]
+	path = Template-VM-Libvirt-Stat-Over-Collectd-(czhujer)/repo
+	url = https://github.com/czhujer/Zabbix-Template-Linux-Collectd_libvirt
