@@ -802,3 +802,6 @@
 [submodule "Integration-Maps-Yandex-(zentavr)/repo"]
 	path = Integration-Maps-Yandex-(zentavr)/repo
 	url = https://github.com/zentavr/zabbix_yamaps
+[submodule "Template-VM-VMware-VmBix-(dav3860)/repo"]
+	path = Template-VM-VMware-VmBix-(dav3860)/repo
+	url = https://github.com/dav3860/vmbix
