@@ -808,3 +808,6 @@
 [submodule "Template-VM-VMware-vPoller-(dnaeon)/repo"]
 	path = Template-VM-VMware-vPoller-(dnaeon)/repo
 	url = https://github.com/dnaeon/py-vpoller
+[submodule "Template-VM-XenServer-(kunitake)/repo"]
+	path = Template-VM-XenServer-(kunitake)/repo
+	url = https://github.com/kunitake/zabbix-xenserver-templates
