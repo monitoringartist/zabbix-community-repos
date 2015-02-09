@@ -799,3 +799,6 @@
 [submodule "Template-HW-Ubiquiti-(tricksol)/repo"]
 	path = Template-HW-Ubiquiti-(tricksol)/repo
 	url = https://github.com/tricksol/Zabbix-Templates
+[submodule "Integration-Maps-Yandex-(zentavr)/repo"]
+	path = Integration-Maps-Yandex-(zentavr)/repo
+	url = https://github.com/zentavr/zabbix_yamaps
