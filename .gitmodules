@@ -775,3 +775,9 @@
 [submodule "Template-Database-PostgreSQL-Module-Libzbxpgsql-(cavaliercoder)/repo"]
 	path = Template-Database-PostgreSQL-Module-Libzbxpgsql-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/libzbxpgsql
+[submodule "Template-VM-Vmware-ESX(jensdepuydt)/repo"]
+	path = Template-VM-Vmware-ESX(jensdepuydt)/repo
+	url = https://github.com/jensdepuydt/zabbix-vmwareesx
+[submodule "Template-VM-oVirt-libvirt-(jensdepuydt)/repo"]
+	path = Template-VM-oVirt-libvirt-(jensdepuydt)/repo
+	url = https://github.com/jensdepuydt/zabbix-ovirt
