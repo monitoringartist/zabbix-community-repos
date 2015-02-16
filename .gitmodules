@@ -817,3 +817,6 @@
 [submodule "Integration-Reports-PDF-(mysonnet)/repo"]
 	path = Integration-Reports-PDF-(mysonnet)/repo
 	url = https://github.com/mysonnet/zabbix-dynamic-report-generation
+[submodule "Integration-PHP-Network-Weathermap-(amousset)/repo"]
+	path = Integration-PHP-Network-Weathermap-(amousset)/repo
+	url = https://github.com/amousset/php-weathermap-zabbix-plugin
