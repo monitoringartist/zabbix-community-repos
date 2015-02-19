@@ -823,3 +823,6 @@
 [submodule "Template-App-JBoss-(marcanpilami)/repo"]
 	path = Template-App-JBoss-(marcanpilami)/repo
 	url = https://github.com/marcanpilami/Zabbix-JBoss-Agent
+[submodule "Template-App-Multipath-(hvaithia)/repo"]
+	path = Template-App-Multipath-(hvaithia)/repo
+	url = https://github.com/hvaithia/Multipath_Monitoring_zabbix
