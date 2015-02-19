@@ -829,3 +829,6 @@
 [submodule "Template-App-Swiftstack-(hvaithia)/repo"]
 	path = Template-App-Swiftstack-(hvaithia)/repo
 	url = https://github.com/hvaithia/Swiftstack-Zabbix-Monitoring
+[submodule "Template-HW-HP-3PAR-(hvaithia)/repo"]
+	path = Template-HW-HP-3PAR-(hvaithia)/repo
+	url = https://github.com/hvaithia/zabbix_3PAR-storage-monitoring
