@@ -826,3 +826,6 @@
 [submodule "Template-App-Multipath-(hvaithia)/repo"]
 	path = Template-App-Multipath-(hvaithia)/repo
 	url = https://github.com/hvaithia/Multipath_Monitoring_zabbix
+[submodule "Template-App-Swiftstack-(hvaithia)/repo"]
+	path = Template-App-Swiftstack-(hvaithia)/repo
+	url = https://github.com/hvaithia/Swiftstack-Zabbix-Monitoring
