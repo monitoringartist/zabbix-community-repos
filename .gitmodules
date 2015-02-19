@@ -820,3 +820,6 @@
 [submodule "Integration-PHP-Network-Weathermap-(amousset)/repo"]
 	path = Integration-PHP-Network-Weathermap-(amousset)/repo
 	url = https://github.com/amousset/php-weathermap-zabbix-plugin
+[submodule "Template-App-JBoss-(marcanpilami)/repo"]
+	path = Template-App-JBoss-(marcanpilami)/repo
+	url = https://github.com/marcanpilami/Zabbix-JBoss-Agent
