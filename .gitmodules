@@ -832,3 +832,6 @@
 [submodule "Template-HW-HP-3PAR-(hvaithia)/repo"]
 	path = Template-HW-HP-3PAR-(hvaithia)/repo
 	url = https://github.com/hvaithia/zabbix_3PAR-storage-monitoring
+[submodule "Template-App-Riak-(glickbot)/repo"]
+	path = Template-App-Riak-(glickbot)/repo
+	url = https://github.com/glickbot/riak_zabbix
