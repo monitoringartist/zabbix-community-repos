@@ -838,3 +838,6 @@
 [submodule "Template-App-Eset-NOD32-(Edzilla2000)/repo"]
 	path = Template-App-Eset-NOD32-(Edzilla2000)/repo
 	url = https://github.com/Edzilla2000/ZABBIX-Eset-Nod32
+[submodule "Template-App-Bind-(m4ce)/repo"]
+	path = Template-App-Bind-(m4ce)/repo
+	url = https://github.com/m4ce/zabbix-bind
