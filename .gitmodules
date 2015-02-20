@@ -841,3 +841,6 @@
 [submodule "Template-App-Bind-(m4ce)/repo"]
 	path = Template-App-Bind-(m4ce)/repo
 	url = https://github.com/m4ce/zabbix-bind
+[submodule "Template-App-Windows-Software-Inventory-(Scatty81)/repo"]
+	path = Template-App-Windows-Software-Inventory-(Scatty81)/repo
+	url = https://github.com/Scatty81/zabbix-windows
