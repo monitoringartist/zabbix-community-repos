@@ -835,3 +835,6 @@
 [submodule "Template-App-Riak-(glickbot)/repo"]
 	path = Template-App-Riak-(glickbot)/repo
 	url = https://github.com/glickbot/riak_zabbix
+[submodule "Template-App-Eset-NOD32-(Edzilla2000)/repo"]
+	path = Template-App-Eset-NOD32-(Edzilla2000)/repo
+	url = https://github.com/Edzilla2000/ZABBIX-Eset-Nod32
