@@ -847,3 +847,6 @@
 [submodule "Template-App-Zookeeper-(zhujinhe)/repo"]
 	path = Template-App-Zookeeper-(zhujinhe)/repo
 	url = https://github.com/zhujinhe/zookeeper-zabbix-template
+[submodule "Script-Agent-Stress-Test-(jangaraj)/repo"]
+	path = Script-Agent-Stress-Test-(jangaraj)/repo
+	url = https://github.com/jangaraj/zabbix-agent-stress-test
