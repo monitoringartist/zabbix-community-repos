@@ -850,3 +850,6 @@
 [submodule "Script-Agent-Stress-Test-(jangaraj)/repo"]
 	path = Script-Agent-Stress-Test-(jangaraj)/repo
 	url = https://github.com/jangaraj/zabbix-agent-stress-test
+[submodule "Script-Agent-Stress-Test-(cavaliercoder)/repo"]
+	path = Script-Agent-Stress-Test-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix_agent_bench
