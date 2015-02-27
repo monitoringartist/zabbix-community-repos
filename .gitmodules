@@ -844,3 +844,6 @@
 [submodule "Template-App-Windows-Software-Inventory-(Scatty81)/repo"]
 	path = Template-App-Windows-Software-Inventory-(Scatty81)/repo
 	url = https://github.com/Scatty81/zabbix-windows
+[submodule "Template-App-Zookeeper-(zhujinhe)/repo"]
+	path = Template-App-Zookeeper-(zhujinhe)/repo
+	url = https://github.com/zhujinhe/zookeeper-zabbix-template
