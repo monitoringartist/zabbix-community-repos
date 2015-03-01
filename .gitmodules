@@ -853,3 +853,6 @@
 [submodule "Script-Agent-Stress-Test-(cavaliercoder)/repo"]
 	path = Script-Agent-Stress-Test-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/zabbix_agent_bench
+[submodule "Template-App-Power-DNS-(kometchtech)/repo"]
+	path = Template-App-Power-DNS-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_Template_PowerDNS_recursor
