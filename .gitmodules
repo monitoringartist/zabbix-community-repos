@@ -856,3 +856,6 @@
 [submodule "Template-App-Power-DNS-(kometchtech)/repo"]
 	path = Template-App-Power-DNS-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_Template_PowerDNS_recursor
+[submodule "Script-ZFS-Iostat-(bundgas)/repo"]
+	path = Script-ZFS-Iostat-(bundgas)/repo
+	url = https://github.com/bundgas/ZFS-iostat-to-Zabbix
