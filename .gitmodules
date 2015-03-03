@@ -862,3 +862,6 @@
 [submodule "Template-HW-Cisco-ASA-(B4ckF0rw4rd)/repo"]
 	path = Template-HW-Cisco-ASA-(B4ckF0rw4rd)/repo
 	url = https://github.com/B4ckF0rw4rd/Zabbix-Templates
+[submodule "Template-HW-Cisco-WLC-(B4ckF0rw4rd)/repo"]
+	path = Template-HW-Cisco-WLC-(B4ckF0rw4rd)/repo
+	url = https://github.com/B4ckF0rw4rd/Zabbix-Templates
