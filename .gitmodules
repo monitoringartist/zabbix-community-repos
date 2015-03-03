@@ -865,3 +865,6 @@
 [submodule "Template-HW-Cisco-WLC-(B4ckF0rw4rd)/repo"]
 	path = Template-HW-Cisco-WLC-(B4ckF0rw4rd)/repo
 	url = https://github.com/B4ckF0rw4rd/Zabbix-Templates
+[submodule "Integration-D3js-widgets-(hgruber)/repo"]
+	path = Integration-D3js-widgets-(hgruber)/repo
+	url = https://github.com/hgruber/zabbix-d3js-widgets
