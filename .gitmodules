@@ -859,3 +859,6 @@
 [submodule "Script-ZFS-Iostat-(bundgas)/repo"]
 	path = Script-ZFS-Iostat-(bundgas)/repo
 	url = https://github.com/bundgas/ZFS-iostat-to-Zabbix
+[submodule "Template-HW-Cisco-ASA-(B4ckF0rw4rd)/repo"]
+	path = Template-HW-Cisco-ASA-(B4ckF0rw4rd)/repo
+	url = https://github.com/B4ckF0rw4rd/Zabbix-Templates
