@@ -874,3 +874,6 @@
 [submodule "Template-App-Docker-(szimszon)/repo"]
 	path = Template-App-Docker-(szimszon)/repo
 	url = https://github.com/szimszon/docker_monitor_zabbix
+[submodule "Template-App-BackupPc-(szimszon)/repo"]
+	path = Template-App-BackupPc-(szimszon)/repo
+	url = https://github.com/szimszon/backuppc_monitor_zabbix
