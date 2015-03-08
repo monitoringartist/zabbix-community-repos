@@ -868,3 +868,9 @@
 [submodule "Integration-D3js-widgets-(hgruber)/repo"]
 	path = Integration-D3js-widgets-(hgruber)/repo
 	url = https://github.com/hgruber/zabbix-d3js-widgets
+[submodule "Template-App-Docker-(szimszon)/docker_monitor_zabbix"]
+	path = Template-App-Docker-(szimszon)/docker_monitor_zabbix
+	url = https://github.com/szimszon/docker_monitor_zabbix
+[submodule "Template-App-Docker-(szimszon)/repo"]
+	path = Template-App-Docker-(szimszon)/repo
+	url = https://github.com/szimszon/docker_monitor_zabbix
