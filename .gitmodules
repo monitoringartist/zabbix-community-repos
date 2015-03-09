@@ -874,3 +874,6 @@
 [submodule "Template-App-BackupPc-(szimszon)/repo"]
 	path = Template-App-BackupPc-(szimszon)/repo
 	url = https://github.com/szimszon/backuppc_monitor_zabbix
+[submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(dj-wasabi)/repo"]
+	path = Configuration-Ansible-Zabbix-Agent-Playbook-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/ansible-zabbix-agent
