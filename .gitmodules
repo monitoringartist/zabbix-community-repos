@@ -883,3 +883,6 @@
 [submodule "Configuration-Ansible-Zabbix-Proxy-Playbook-(dj-wasabi)/repo"]
 	path = Configuration-Ansible-Zabbix-Proxy-Playbook-(dj-wasabi)/repo
 	url = https://github.com/dj-wasabi/ansible-zabbix-proxy
+[submodule "Configuration-Ansible-Zabbix-Javagateway-Playbook-(dj-wasabi)/repo"]
+	path = Configuration-Ansible-Zabbix-Javagateway-Playbook-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/ansible-zabbix-javagateway
