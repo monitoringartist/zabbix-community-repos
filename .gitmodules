@@ -886,3 +886,6 @@
 [submodule "Configuration-Ansible-Zabbix-Javagateway-Playbook-(dj-wasabi)/repo"]
 	path = Configuration-Ansible-Zabbix-Javagateway-Playbook-(dj-wasabi)/repo
 	url = https://github.com/dj-wasabi/ansible-zabbix-javagateway
+[submodule "Template-App-Bind9-(Pesticles)/repo"]
+	path = Template-App-Bind9-(Pesticles)/repo
+	url = https://github.com/Pesticles/Zabbix-Bind9-Statistics-Collection
