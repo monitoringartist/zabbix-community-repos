@@ -892,3 +892,6 @@
 [submodule "Template-App-Tomcat-(zhujinhe)/repo"]
 	path = Template-App-Tomcat-(zhujinhe)/repo
 	url = https://github.com/zhujinhe/tomcat-zabbix-template
+[submodule "Template-App-Prosody-(enko)/repo"]
+	path = Template-App-Prosody-(enko)/repo
+	url = https://github.com/enko/zabbix-prosody
