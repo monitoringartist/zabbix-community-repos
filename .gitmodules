@@ -895,3 +895,6 @@
 [submodule "Template-App-Prosody-(enko)/repo"]
 	path = Template-App-Prosody-(enko)/repo
 	url = https://github.com/enko/zabbix-prosody
+[submodule "Template-HW-Mikrotik-(YSmetana)/repo"]
+	path = Template-HW-Mikrotik-(YSmetana)/repo
+	url = https://github.com/YSmetana/zabbix-mikrotik-snmp
