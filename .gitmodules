@@ -889,3 +889,6 @@
 [submodule "Template-App-Bind9-(Pesticles)/repo"]
 	path = Template-App-Bind9-(Pesticles)/repo
 	url = https://github.com/Pesticles/Zabbix-Bind9-Statistics-Collection
+[submodule "Template-App-Tomcat-(zhujinhe)/repo"]
+	path = Template-App-Tomcat-(zhujinhe)/repo
+	url = https://github.com/zhujinhe/tomcat-zabbix-template
