@@ -901,3 +901,6 @@
 [submodule "API-C#-(HenriqueCaires)/repo"]
 	path = "API-C#-(HenriqueCaires)/repo"
 	url = https://github.com/HenriqueCaires/ZabbixApi
+[submodule "Script-Alert-Kato-(dsociative)/repo"]
+	path = Script-Alert-Kato-(dsociative)/repo
+	url = https://github.com/dsociative/zabbix_kato
