@@ -898,3 +898,6 @@
 [submodule "Template-HW-Mikrotik-(YSmetana)/repo"]
 	path = Template-HW-Mikrotik-(YSmetana)/repo
 	url = https://github.com/YSmetana/zabbix-mikrotik-snmp
+[submodule "API-C#-(HenriqueCaires)/repo"]
+	path = "API-C#-(HenriqueCaires)/repo"
+	url = https://github.com/HenriqueCaires/ZabbixApi
