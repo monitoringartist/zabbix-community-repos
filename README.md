@@ -47,5 +47,5 @@ Highlighted Repo
 
 Jan Garaj: *Project [zabbix-d3js-widgets](https://github.com/hgruber/zabbix-d3js-widgets) is here, because everynone want to have nice and cool graphs in the Zabbix. I've saw a few D3.js Zabbix projects. Unfortunately no one finished in the main Zabbix stream. I can recommend Zabbix-d3js-widgets to anyone interested in D3.js graphs based on Zabbix API.
 
-[![zabbix-d3js-widgets](https://raw.githubusercontent.com/hgruber/zabbix-d3js-widgets/master/samples.png)](https://github.com/hgruber/zabbix-d3js-widgets)
+[![zabbix-d3js-widgets](https://raw.githubusercontent.com/hgruber/zabbix-d3js-widgets/master/screenshots/screenshot.png)](https://github.com/hgruber/zabbix-d3js-widgets)
 
