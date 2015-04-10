@@ -910,3 +910,6 @@
 [submodule "Template-App-Unbound-(gatespb)/repo"]
 	path = Template-App-Unbound-(gatespb)/repo
 	url = https://github.com/gatespb/zabbix_templates
+[submodule "Template-HW-Draytek-Vigor-2920-(meska)/repo"]
+	path = Template-HW-Draytek-Vigor-2920-(meska)/repo
+	url = https://github.com/meska/Zabbbix_template_draytek_vigor_2920
