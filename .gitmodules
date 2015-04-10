@@ -907,3 +907,6 @@
 [submodule "Template-App-QUADStor-(gatespb)/repo"]
 	path = Template-App-QUADStor-(gatespb)/repo
 	url = https://github.com/gatespb/zabbix_templates
+[submodule "Template-App-Unbound-(gatespb)/repo"]
+	path = Template-App-Unbound-(gatespb)/repo
+	url = https://github.com/gatespb/zabbix_templates
