@@ -1,6 +1,8 @@
 Zabbix Community Repos
 ======================
 
+If you like or use this project please provide feedback - Star it ★.
+
 This repository serves as a sort of master repository of various community repos that people have come across.
 Please create [pull request](https://help.github.com/articles/creating-a-pull-request/), if you know some useful Zabbix stuff. 
 
@@ -20,7 +22,8 @@ The format for structure should be as follows:
 Please do not put any actual code in here. Please use full meaning name for the project name, e.g. "*Template Nginx (user)*", instead of "*Nginx (user)*".
 
 
-## Example
+Example
+=======
 
 Adding a repo:
 
@@ -39,10 +42,10 @@ Real example:
     git commit -am "Template-App-Nginx-(blacked)"
 
 
-## Highlighted Repo
+Highlighted Repo
+================
 
-Jan Garaj: *Project [Nodefront](https://github.com/thedutchlab/nodefront) is inspired by [Phyramid](https://www.phyramid.com/blog/monitoring-servers-at-phyramid/). Nodefront has been released by Zabbix rookie thedutchlab recently. Maybe project code is unstable and it's not the best at the moment, but if project will be developed, it has potential to be successful Zabbix project.
-I see that Zabbix community is interested in fancy dashboard, so this one can be one good choice in the future.* 
+Jan Garaj: *Project [zabbix-d3js-widgets](https://github.com/hgruber/zabbix-d3js-widgets) is here, because everynone want to have nice and cool graphs in the Zabbix. I've saw a few D3.js Zabbix projects. Unfortunately no one finished in the main Zabbix stream. I can recommend Zabbix-d3js-widgets to anyone interested in D3.js graphs based on Zabbix API.
 
-[![Dashboard Nodefront](https://raw.githubusercontent.com/thedutchlab/nodefront/master/screenshot_v0.0.1.jpg)](https://github.com/thedutchlab/nodefront)
+[![zabbix-d3js-widgets](https://raw.githubusercontent.com/hgruber/zabbix-d3js-widgets/master/screenshots/screenshot.png)](https://github.com/hgruber/zabbix-d3js-widgets)
 
