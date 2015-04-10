@@ -904,3 +904,6 @@
 [submodule "Script-Alert-Kato-(dsociative)/repo"]
 	path = Script-Alert-Kato-(dsociative)/repo
 	url = https://github.com/dsociative/zabbix_kato
+[submodule "Template-App-QUADStor-(gatespb)/repo"]
+	path = Template-App-QUADStor-(gatespb)/repo
+	url = https://github.com/gatespb/zabbix_templates
