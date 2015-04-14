@@ -40,8 +40,13 @@ Real example:
     echo "[Link - Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template)" > "Template-App-Nginx-(blacked)/README.md"
     git add "Template-App-Nginx-(blacked)"
     git commit -am "Template-App-Nginx-(blacked)"
+    
+Additional Zabbix resources
+===========================
 
-
+* [Zabbix templates wiki page] (http://zabbix.org/wiki/Zabbix_Templates)
+* [Zabbix share portal] (https://share.zabbix.com/)
+    
 Highlighted Repo
 ================
 
