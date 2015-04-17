@@ -913,3 +913,6 @@
 [submodule "Template-HW-Draytek-Vigor-2920-(meska)/repo"]
 	path = Template-HW-Draytek-Vigor-2920-(meska)/repo
 	url = https://github.com/meska/Zabbbix_template_draytek_vigor_2920
+[submodule "Integration-GLPI-(janssenlima)/repo"]
+	path = Integration-GLPI-(janssenlima)/repo
+	url = https://github.com/janssenlima/zabbix-glpi
