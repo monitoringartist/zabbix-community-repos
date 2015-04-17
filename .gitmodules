@@ -916,3 +916,6 @@
 [submodule "Integration-GLPI-(janssenlima)/repo"]
 	path = Integration-GLPI-(janssenlima)/repo
 	url = https://github.com/janssenlima/zabbix-glpi
+[submodule "Template-App-Puppet-Facter-(kisst)/repo"]
+	path = Template-App-Puppet-Facter-(kisst)/repo
+	url = https://github.com/kisst/zabbix-facter
