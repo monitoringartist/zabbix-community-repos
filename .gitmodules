@@ -919,3 +919,6 @@
 [submodule "Template-App-Puppet-Facter-(kisst)/repo"]
 	path = Template-App-Puppet-Facter-(kisst)/repo
 	url = https://github.com/kisst/zabbix-facter
+[submodule "Template-App-Puppet-Facter-(kisst):/repo"]
+	path = Template-App-Puppet-Facter-(kisst):/repo
+	url = https://github.com/kisst/zabbix-facter
