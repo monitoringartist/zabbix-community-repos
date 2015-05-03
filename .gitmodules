@@ -925,3 +925,6 @@
 [submodule "Template-App-OpenVPN-(claudineimatos)/repo"]
 	path = Template-App-OpenVPN-(claudineimatos)/repo
 	url = https://github.com/claudineimatos/zabbix_template-openvpn-autodiscovery
+[submodule "Integration-Dashboard-CLI-(funkygao)/repo"]
+	path = Integration-Dashboard-CLI-(funkygao)/repo
+	url = https://github.com/funkygao/zb
