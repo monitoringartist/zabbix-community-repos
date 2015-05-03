@@ -922,3 +922,6 @@
 [submodule "Template-App-Puppet-Facter-(kisst):/repo"]
 	path = Template-App-Puppet-Facter-(kisst):/repo
 	url = https://github.com/kisst/zabbix-facter
+[submodule "Template-App-OpenVPN-(claudineimatos)/repo"]
+	path = Template-App-OpenVPN-(claudineimatos)/repo
+	url = https://github.com/claudineimatos/zabbix_template-openvpn-autodiscovery
