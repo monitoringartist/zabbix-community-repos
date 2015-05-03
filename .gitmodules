@@ -928,3 +928,6 @@
 [submodule "Integration-Dashboard-CLI-(funkygao)/repo"]
 	path = Integration-Dashboard-CLI-(funkygao)/repo
 	url = https://github.com/funkygao/zb
+[submodule "Template-HW-HP-Array-(petzah)/repo"]
+	path = Template-HW-HP-Array-(petzah)/repo
+	url = https://github.com/petzah/zabbix-hp-array
