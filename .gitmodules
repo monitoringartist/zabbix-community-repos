@@ -931,3 +931,6 @@
 [submodule "Template-HW-HP-Array-(petzah)/repo"]
 	path = Template-HW-HP-Array-(petzah)/repo
 	url = https://github.com/petzah/zabbix-hp-array
+[submodule "API-Python-Erigones-(erigones)/repo"]
+	path = API-Python-Erigones-(erigones)/repo
+	url = https://github.com/erigones/zabbix-api
