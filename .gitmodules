@@ -934,3 +934,6 @@
 [submodule "API-Python-Erigones-(erigones)/repo"]
 	path = API-Python-Erigones-(erigones)/repo
 	url = https://github.com/erigones/zabbix-api
+[submodule "Integration-Ludolph-(erigones)/repo"]
+	path = Integration-Ludolph-(erigones)/repo
+	url = https://github.com/erigones/Ludolph
