@@ -931,3 +931,6 @@
 [submodule "Template-HW-HP-Array-(petzah)/repo"]
 	path = Template-HW-HP-Array-(petzah)/repo
 	url = https://github.com/petzah/zabbix-hp-array
+[submodule "Script-Alert-Maintenance-(gregswift)/repo"]
+	path = Script-Alert-Maintenance-(gregswift)/repo
+	url = https://github.com/gregswift/zabbix-alertscript-maintenance
