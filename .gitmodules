@@ -934,3 +934,6 @@
 [submodule "Script-Alert-Maintenance-(gregswift)/repo"]
 	path = Script-Alert-Maintenance-(gregswift)/repo
 	url = https://github.com/gregswift/zabbix-alertscript-maintenance
+[submodule "Template-Database-ProgressDB-(liss555)/repo"]
+	path = Template-Database-ProgressDB-(liss555)/repo
+	url = https://github.com/liss555/4gl-zabbix-mon
