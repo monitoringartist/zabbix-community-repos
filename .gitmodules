@@ -1,3 +1,6 @@
 [submodule "API-Python-Erigones-(erigones)-/repo"]
 	path = API-Python-Erigones-(erigones)-/repo
 	url = https://github.com/erigones/zabbix-api
+[submodule "Script-Alert-JabberBot-(erigones)/repo"]
+	path = Script-Alert-JabberBot-(erigones)/repo
+	url = https://github.com/erigones/Ludolph
