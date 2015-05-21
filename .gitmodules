@@ -4,3 +4,6 @@
 [submodule "Script-Alert-JabberBot-(erigones)/repo"]
 	path = Script-Alert-JabberBot-(erigones)/repo
 	url = https://github.com/erigones/Ludolph
+[submodule "Integration-Grafana-(alexanderzobnin)/repo"]
+	path = Integration-Grafana-(alexanderzobnin)/repo
+	url = https://github.com/alexanderzobnin/grafana-zabbix
