@@ -10,3 +10,6 @@
 [submodule "Integration-Dashboard-Grafana-(alexanderzobnin)/repo"]
 	path = Integration-Dashboard-Grafana-(alexanderzobnin)/repo
 	url = https://github.com/alexanderzobnin/grafana-zabbix
+[submodule "Template-App-HDD-SMART-(rfarrer)/repo"]
+	path = Template-App-HDD-SMART-(rfarrer)/repo
+	url = https://github.com/rfarrer/zab-smartmon
