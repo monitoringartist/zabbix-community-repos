@@ -25,3 +25,6 @@
 [submodule "Integration-Zabbix-Sender-.Net-(yosqueoy)/repo"]
 	path = Integration-Zabbix-Sender-.Net-(yosqueoy)/repo
 	url = https://github.com/yosqueoy/ZabbixSenderNet
+[submodule "Template-App-Wordpress-(milzulempis)/repo"]
+	path = Template-App-Wordpress-(milzulempis)/repo
+	url = https://github.com/milzulempis/Zabbix-Wordpress-Template
