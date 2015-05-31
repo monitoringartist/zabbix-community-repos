@@ -16,3 +16,6 @@
 [submodule "Docker-Zabbix-Server-Web---base-(zabbix)/repo"]
 	path = Docker-Zabbix-Server-Web---base-(zabbix)/repo
 	url = https://github.com/zabbix/zabbix-community-docker
+[submodule "Docker-Zabbix-Server-Web---Push-Slack-SMTP-auth-(million12)/repo"]
+	path = Docker-Zabbix-Server-Web---Push-Slack-SMTP-auth-(million12)/repo
+	url = https://github.com/million12/docker-zabbix-server
