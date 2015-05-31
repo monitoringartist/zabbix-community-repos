@@ -13,3 +13,6 @@
 [submodule "Template-App-HDD-SMART-(rfarrer)/repo"]
 	path = Template-App-HDD-SMART-(rfarrer)/repo
 	url = https://github.com/rfarrer/zab-smartmon
+[submodule "Docker-Zabbix-Server-Web---base-(zabbix)/repo"]
+	path = Docker-Zabbix-Server-Web---base-(zabbix)/repo
+	url = https://github.com/zabbix/zabbix-community-docker
