@@ -22,3 +22,6 @@
 [submodule "Script-Bitcoin-Node-(tyzbit)/repo"]
 	path = Script-Bitcoin-Node-(tyzbit)/repo
 	url = https://github.com/tyzbit/zabbix-bitcoin-scripts
+[submodule "Integration-Zabbix-Sender-.Net-(yosqueoy)/repo"]
+	path = Integration-Zabbix-Sender-.Net-(yosqueoy)/repo
+	url = https://github.com/yosqueoy/ZabbixSenderNet
