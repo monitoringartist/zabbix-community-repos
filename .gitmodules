@@ -28,3 +28,6 @@
 [submodule "Template-App-Wordpress-(milzulempis)/repo"]
 	path = Template-App-Wordpress-(milzulempis)/repo
 	url = https://github.com/milzulempis/Zabbix-Wordpress-Template
+[submodule "Script-SAP-CCMS-(fedorpatlin)/repo"]
+	path = Script-SAP-CCMS-(fedorpatlin)/repo
+	url = https://github.com/fedorpatlin/sapccmsget
