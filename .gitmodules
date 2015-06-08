@@ -31,3 +31,6 @@
 [submodule "Script-SAP-CCMS-(fedorpatlin)/repo"]
 	path = Script-SAP-CCMS-(fedorpatlin)/repo
 	url = https://github.com/fedorpatlin/sapccmsget
+[submodule "Template-HW-Banana-Pi-(harryklein)/repo"]
+	path = Template-HW-Banana-Pi-(harryklein)/repo
+	url = https://github.com/harryklein/zabbix-banana-pi
