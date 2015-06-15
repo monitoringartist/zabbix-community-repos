@@ -40,3 +40,6 @@
 [submodule "Template-App-Virtuozzo-(ligurio)/repo"]
 	path = Template-App-Virtuozzo-(ligurio)/repo
 	url = https://github.com/ligurio/zabbix-virtuozzo-template
+[submodule "Script-AWS-CloudWatchLogs-to-Zabbix-(yokota-shinsuke)/repo"]
+	path = Script-AWS-CloudWatchLogs-to-Zabbix-(yokota-shinsuke)/repo
+	url = https://github.com/yokota-shinsuke/aws-lambda-cloudwatchlogs-to-zabbix
