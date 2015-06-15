@@ -37,3 +37,6 @@
 [submodule "Template-App-PHP-FPM-(zazayaya)/repo"]
 	path = Template-App-PHP-FPM-(zazayaya)/repo
 	url = https://github.com/zazayaya/php-zabbix-template
+[submodule "Template-App-Virtuozzo-(ligurio)/repo"]
+	path = Template-App-Virtuozzo-(ligurio)/repo
+	url = https://github.com/ligurio/zabbix-virtuozzo-template
