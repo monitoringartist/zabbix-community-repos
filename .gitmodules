@@ -49,3 +49,6 @@
 [submodule "Template-App-OpenVZ-(Lelik13a)/repo"]
 	path = Template-App-OpenVZ-(Lelik13a)/repo
 	url = https://github.com/Lelik13a/Zabbix-OpenVZ
+[submodule "Template-App-Puppet-Facter-(kisst)/repo"]
+	path = Template-App-Puppet-Facter-(kisst)/repo
+	url = https://github.com/kisst/zabbix-facter
