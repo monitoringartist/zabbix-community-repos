@@ -46,3 +46,6 @@
 [submodule "Template-App-Bind9-(itxx00)/repo"]
 	path = Template-App-Bind9-(itxx00)/repo
 	url = https://github.com/itxx00/zabbix_app_named
+[submodule "Template-App-OpenVZ-(Lelik13a)/repo"]
+	path = Template-App-OpenVZ-(Lelik13a)/repo
+	url = https://github.com/Lelik13a/Zabbix-OpenVZ
