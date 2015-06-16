@@ -43,3 +43,6 @@
 [submodule "Script-AWS-CloudWatchLogs-to-Zabbix-(yokota-shinsuke)/repo"]
 	path = Script-AWS-CloudWatchLogs-to-Zabbix-(yokota-shinsuke)/repo
 	url = https://github.com/yokota-shinsuke/aws-lambda-cloudwatchlogs-to-zabbix
+[submodule "Template-App-Bind9-(itxx00)/repo"]
+	path = Template-App-Bind9-(itxx00)/repo
+	url = https://github.com/itxx00/zabbix_app_named
