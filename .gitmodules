@@ -61,3 +61,6 @@
 [submodule "Template-HW-Ericsson-GGSN-MPG-Juniper-M320-M120-(Lelik13a)/repo"]
 	path = Template-HW-Ericsson-GGSN-MPG-Juniper-M320-M120-(Lelik13a)/repo
 	url = https://github.com/Lelik13a/Zabbix-GGSN-MPG
+[submodule "Template-VM-XenServer-(arbenatti)/repo"]
+	path = Template-VM-XenServer-(arbenatti)/repo
+	url = https://github.com/arbenatti/xen-collector
