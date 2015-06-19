@@ -64,3 +64,6 @@
 [submodule "Template-VM-XenServer-(arbenatti)/repo"]
 	path = Template-VM-XenServer-(arbenatti)/repo
 	url = https://github.com/arbenatti/xen-collector
+[submodule "Template-App-PHP-(zazayaya)/repo"]
+	path = Template-App-PHP-(zazayaya)/repo
+	url = https://github.com/zazayaya/php-zabbix-template
