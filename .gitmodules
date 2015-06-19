@@ -55,3 +55,6 @@
 [submodule "API-Java-(myaaaaa-chan)/repo"]
 	path = API-Java-(myaaaaa-chan)/repo
 	url = https://github.com/myaaaaa-chan/Zabbix4j
+[submodule "Template-HW-ZyXEL-ZyWALL-(k3NGuru)/repo"]
+	path = Template-HW-ZyXEL-ZyWALL-(k3NGuru)/repo
+	url = https://github.com/k3NGuru/zywall_template
