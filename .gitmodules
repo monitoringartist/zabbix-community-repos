@@ -52,3 +52,6 @@
 [submodule "Template-App-Puppet-Facter-(kisst)/repo"]
 	path = Template-App-Puppet-Facter-(kisst)/repo
 	url = https://github.com/kisst/zabbix-facter
+[submodule "API-Java-(myaaaaa-chan)/repo"]
+	path = API-Java-(myaaaaa-chan)/repo
+	url = https://github.com/myaaaaa-chan/Zabbix4j
