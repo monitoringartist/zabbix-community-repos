@@ -58,3 +58,6 @@
 [submodule "Template-HW-ZyXEL-ZyWALL-(k3NGuru)/repo"]
 	path = Template-HW-ZyXEL-ZyWALL-(k3NGuru)/repo
 	url = https://github.com/k3NGuru/zywall_template
+[submodule "Template-HW-Ericsson-GGSN-MPG-Juniper-M320-M120-(Lelik13a)/repo"]
+	path = Template-HW-Ericsson-GGSN-MPG-Juniper-M320-M120-(Lelik13a)/repo
+	url = https://github.com/Lelik13a/Zabbix-GGSN-MPG
