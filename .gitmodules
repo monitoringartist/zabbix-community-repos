@@ -67,3 +67,6 @@
 [submodule "Template-App-PHP-(zazayaya)/repo"]
 	path = Template-App-PHP-(zazayaya)/repo
 	url = https://github.com/zazayaya/php-zabbix-template
+[submodule "Script-Alert-ServiceNow-(jangaraj)/repo"]
+	path = Script-Alert-ServiceNow-(jangaraj)/repo
+	url = https://github.com/jangaraj/zabbix-script-servicenow
