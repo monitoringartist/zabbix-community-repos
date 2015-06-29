@@ -70,3 +70,6 @@
 [submodule "Script-Alert-ServiceNow-(jangaraj)/repo"]
 	path = Script-Alert-ServiceNow-(jangaraj)/repo
 	url = https://github.com/jangaraj/zabbix-script-servicenow
+[submodule "Script-Alert-Slack-(ssplatt)/repo"]
+	path = Script-Alert-Slack-(ssplatt)/repo
+	url = https://github.com/ssplatt/zabbix-slack-alertscript
