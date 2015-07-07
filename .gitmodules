@@ -73,3 +73,6 @@
 [submodule "Script-Alert-Slack-(ssplatt)/repo"]
 	path = Script-Alert-Slack-(ssplatt)/repo
 	url = https://github.com/ssplatt/zabbix-slack-alertscript
+[submodule "Template-HW-Cisco-QoS-Classname-(peshovec)/repo"]
+	path = Template-HW-Cisco-QoS-Classname-(peshovec)/repo
+	url = https://github.com/peshovec/zabbix-cisco-classname
