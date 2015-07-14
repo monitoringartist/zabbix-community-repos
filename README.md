@@ -50,6 +50,14 @@ Additional Zabbix resources
 Highlighted Repo
 ================
 
+## Grafana-Zabbix
+
+[Grafana-Zabbix](https://github.com/alexanderzobnin/grafana-zabbix) plugin allow you to display your Zabbix data in [Grafana](http://grafana.org) metric dashboard.
+
+![Dashboard](https://cloud.githubusercontent.com/assets/4932851/8269101/9e6ee67e-17a3-11e5-85de-fe9dcc2dd375.png)
+
+## zabbix-d3js-widgets
+
 Jan Garaj: *Project [zabbix-d3js-widgets](https://github.com/hgruber/zabbix-d3js-widgets) is here, because everynone want to have nice and cool graphs in the Zabbix. I've saw a few D3.js Zabbix projects. Unfortunately no one finished in the main Zabbix stream. I can recommend Zabbix-d3js-widgets to anyone interested in D3.js graphs based on Zabbix API.
 
 [![zabbix-d3js-widgets](https://raw.githubusercontent.com/hgruber/zabbix-d3js-widgets/master/screenshots/screenshot.png)](https://github.com/hgruber/zabbix-d3js-widgets)
