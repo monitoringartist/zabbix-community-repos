@@ -85,3 +85,6 @@
 [submodule "Template-Printer-Xerox-WorkCentre-6605-(xamgreen)/repo"]
 	path = Template-Printer-Xerox-WorkCentre-6605-(xamgreen)/repo
 	url = https://github.com/xamgreen/Template_Device_Xerox_WorkCentre_6605
+[submodule "Template-Printer-Xerox-WorkCentre-3615-(xamgreen)/repo"]
+	path = Template-Printer-Xerox-WorkCentre-3615-(xamgreen)/repo
+	url = https://github.com/xamgreen/Template_Device_Xerox_WorkCentre_3615
