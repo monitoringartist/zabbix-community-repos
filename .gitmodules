@@ -91,3 +91,6 @@
 [submodule "Template-Printer-Xerox-Phaser-3600-(xamgreen)/repo"]
 	path = Template-Printer-Xerox-Phaser-3600-(xamgreen)/repo
 	url = https://github.com/xamgreen/Template_Device_Xerox_Phaser_3600
+[submodule "Integration-Frontend-Multiple-Zabbix-Servers-(Quadrata-it)/repo"]
+	path = Integration-Frontend-Multiple-Zabbix-Servers-(Quadrata-it)/repo
+	url = https://github.com/Quadrata-it/octo-zab
