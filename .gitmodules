@@ -97,3 +97,6 @@
 [submodule "Template-App-GPFS-(raimokr)/repo"]
 	path = Template-App-GPFS-(raimokr)/repo
 	url = https://github.com/raimokr/zabbix_template_gpfs
+[submodule "Integration-Zabbix-Sender-Erlang-(stalkermn)/repo"]
+	path = Integration-Zabbix-Sender-Erlang-(stalkermn)/repo
+	url = https://github.com/stalkermn/zabbix_sender
