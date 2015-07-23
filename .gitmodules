@@ -94,3 +94,6 @@
 [submodule "Integration-Frontend-Multiple-Zabbix-Servers-(Quadrata-it)/repo"]
 	path = Integration-Frontend-Multiple-Zabbix-Servers-(Quadrata-it)/repo
 	url = https://github.com/Quadrata-it/octo-zab
+[submodule "Template-App-GPFS-(raimokr)/repo"]
+	path = Template-App-GPFS-(raimokr)/repo
+	url = https://github.com/raimokr/zabbix_template_gpfs
