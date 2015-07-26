@@ -106,3 +106,6 @@
 [submodule "Template-App-hddtemp-(vovka1200)/repo"]
 	path = Template-App-hddtemp-(vovka1200)/repo
 	url = https://github.com/vovka1200/zabbix-hddtemp
+[submodule "Script-Pingdom-(ericharris)/repo"]
+	path = Script-Pingdom-(ericharris)/repo
+	url = https://github.com/ericharris/Zabbix-Pingdom-check
