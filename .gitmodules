@@ -100,3 +100,6 @@
 [submodule "Integration-Zabbix-Sender-Erlang-(stalkermn)/repo"]
 	path = Integration-Zabbix-Sender-Erlang-(stalkermn)/repo
 	url = https://github.com/stalkermn/zabbix_sender
+[submodule "Template-App-AWS-Cloudwatch-ELB-(akomic)/repo"]
+	path = Template-App-AWS-Cloudwatch-ELB-(akomic)/repo
+	url = https://github.com/akomic/zabbix_cloudwatch
