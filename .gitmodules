@@ -103,3 +103,6 @@
 [submodule "Template-App-AWS-Cloudwatch-ELB-(akomic)/repo"]
 	path = Template-App-AWS-Cloudwatch-ELB-(akomic)/repo
 	url = https://github.com/akomic/zabbix_cloudwatch
+[submodule "Template-App-hddtemp-(vovka1200)/repo"]
+	path = Template-App-hddtemp-(vovka1200)/repo
+	url = https://github.com/vovka1200/zabbix-hddtemp
