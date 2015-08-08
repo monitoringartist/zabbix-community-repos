@@ -109,3 +109,6 @@
 [submodule "Script-Pingdom-(ericharris)/repo"]
 	path = Script-Pingdom-(ericharris)/repo
 	url = https://github.com/ericharris/Zabbix-Pingdom-check
+[submodule "Template-App-Webcrawler-(zensquare)/repo"]
+	path = Template-App-Webcrawler-(zensquare)/repo
+	url = https://github.com/zensquare/zabbix-webcrawler
