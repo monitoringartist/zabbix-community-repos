@@ -112,3 +112,6 @@
 [submodule "Template-App-Webcrawler-(zensquare)/repo"]
 	path = Template-App-Webcrawler-(zensquare)/repo
 	url = https://github.com/zensquare/zabbix-webcrawler
+[submodule "Script-Item-Value-From-CSV-(zubayr)/repo"]
+	path = Script-Item-Value-From-CSV-(zubayr)/repo
+	url = https://github.com/zubayr/zabbix_item_from_csv
