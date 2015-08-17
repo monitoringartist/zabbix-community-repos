@@ -127,3 +127,6 @@
 [submodule "Template-App-FreeBSD-Iostat-(zzzevaka)/repo"]
 	path = Template-App-FreeBSD-Iostat-(zzzevaka)/repo
 	url = https://github.com/zzzevaka/zabbix-freebsd-iostat
+[submodule "Template-HW-Juniper-Ex-(oleg1628)/repo"]
+	path = Template-HW-Juniper-Ex-(oleg1628)/repo
+	url = https://github.com/oleg1628/Zabbix-Template-Juniper-Ex-Series-Switch
