@@ -121,3 +121,6 @@
 [submodule "Template-Database-MySQL-(kingofnerds)/repo"]
 	path = Template-Database-MySQL-(kingofnerds)/repo
 	url = https://github.com/kingofnerds/Zabbix-Templates
+[submodule "Template-App-Zabbix-Server-Stress-Test-(monitoringartist)/repo"]
+	path = Template-App-Zabbix-Server-Stress-Test-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-server-stress-test
