@@ -130,3 +130,6 @@
 [submodule "Template-HW-Juniper-Ex-(oleg1628)/repo"]
 	path = Template-HW-Juniper-Ex-(oleg1628)/repo
 	url = https://github.com/oleg1628/Zabbix-Template-Juniper-Ex-Series-Switch
+[submodule "Template-HW-F5-BIG-IP-(onurzaim)/repo"]
+	path = Template-HW-F5-BIG-IP-(onurzaim)/repo
+	url = https://github.com/onurzaim/Zabbix-Templates
