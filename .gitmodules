@@ -124,3 +124,6 @@
 [submodule "Template-App-Zabbix-Server-Stress-Test-(monitoringartist)/repo"]
 	path = Template-App-Zabbix-Server-Stress-Test-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-server-stress-test
+[submodule "Template-App-FreeBSD-Iostat-(zzzevaka)/repo"]
+	path = Template-App-FreeBSD-Iostat-(zzzevaka)/repo
+	url = https://github.com/zzzevaka/zabbix-freebsd-iostat
