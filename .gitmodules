@@ -118,3 +118,6 @@
 [submodule "Template-App-MySQL-Local-(kingofnerds)/repo"]
 	path = Template-App-MySQL-Local-(kingofnerds)/repo
 	url = https://github.com/kingofnerds/Zabbix-Templates
+[submodule "Template-Database-MySQL-(kingofnerds)/repo"]
+	path = Template-Database-MySQL-(kingofnerds)/repo
+	url = https://github.com/kingofnerds/Zabbix-Templates
