@@ -115,3 +115,6 @@
 [submodule "Script-Item-Value-From-CSV-(zubayr)/repo"]
 	path = Script-Item-Value-From-CSV-(zubayr)/repo
 	url = https://github.com/zubayr/zabbix_item_from_csv
+[submodule "Template-App-MySQL-Local-(kingofnerds)/repo"]
+	path = Template-App-MySQL-Local-(kingofnerds)/repo
+	url = https://github.com/kingofnerds/Zabbix-Templates
