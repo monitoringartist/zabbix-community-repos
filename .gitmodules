@@ -136,3 +136,6 @@
 [submodule "Template-Database-MySQL-(m4ce)/repo"]
 	path = Template-Database-MySQL-(m4ce)/repo
 	url = https://github.com/m4ce/zabbix-mysql
+[submodule "Template-App-Openfire-(kleinstuff)/repo"]
+	path = Template-App-Openfire-(kleinstuff)/repo
+	url = https://github.com/kleinstuff/zabbixtemplates
