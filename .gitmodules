@@ -139,3 +139,6 @@
 [submodule "Template-App-Openfire-(kleinstuff)/repo"]
 	path = Template-App-Openfire-(kleinstuff)/repo
 	url = https://github.com/kleinstuff/zabbixtemplates
+[submodule "Template-App-Vormetric-Agent-(tcprescott)/repo"]
+	path = Template-App-Vormetric-Agent-(tcprescott)/repo
+	url = https://github.com/tcprescott/zabbix-vormetric
