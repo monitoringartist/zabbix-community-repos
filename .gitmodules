@@ -145,3 +145,6 @@
 [submodule "Module-Adapter-Go-(cavaliercoder)/repo"]
 	path = Module-Adapter-Go-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/g2z
+[submodule "Module-Adapter-Python-(vulogov)/repo"]
+	path = Module-Adapter-Python-(vulogov)/repo
+	url = https://github.com/vulogov/zlm-python
