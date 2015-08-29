@@ -142,3 +142,6 @@
 [submodule "Template-App-Vormetric-Agent-(tcprescott)/repo"]
 	path = Template-App-Vormetric-Agent-(tcprescott)/repo
 	url = https://github.com/tcprescott/zabbix-vormetric
+[submodule "Module-Adapter-Go-(cavaliercoder)/repo"]
+	path = Module-Adapter-Go-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/g2z
