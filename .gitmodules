@@ -148,3 +148,6 @@
 [submodule "Module-Adapter-Python-(vulogov)/repo"]
 	path = Module-Adapter-Python-(vulogov)/repo
 	url = https://github.com/vulogov/zlm-python
+[submodule "Module-Adapter-Mini-Ruby-(BlueSkyDetector)/repo"]
+	path = Module-Adapter-Mini-Ruby-(BlueSkyDetector)/repo
+	url = https://github.com/BlueSkyDetector/mruby_module_for_zabbix_agent
