@@ -151,3 +151,6 @@
 [submodule "Module-Adapter-Mini-Ruby-(BlueSkyDetector)/repo"]
 	path = Module-Adapter-Mini-Ruby-(BlueSkyDetector)/repo
 	url = https://github.com/BlueSkyDetector/mruby_module_for_zabbix_agent
+[submodule "Template-App-Yum-Security-(Open-Future-Belgium)/repo"]
+	path = Template-App-Yum-Security-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
