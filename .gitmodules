@@ -166,3 +166,6 @@
 [submodule "Template-HW-FW-Fortigate-(Open-Future-Belgium)/repo"]
 	path = Template-HW-FW-Fortigate-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-HW-FW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo"]
+	path = Template-HW-FW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
