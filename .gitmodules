@@ -169,3 +169,6 @@
 [submodule "Template-HW-FW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo"]
 	path = Template-HW-FW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-Printer-Triumph-Adler-(Open-Future-Belgium)/repo"]
+	path = Template-Printer-Triumph-Adler-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
