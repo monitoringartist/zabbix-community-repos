@@ -178,3 +178,6 @@
 [submodule "Template-Printer-Xerox-X660x-(Open-Future-Belgium)/repo"]
 	path = Template-Printer-Xerox-X660x-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-HW-HP-A5120-(Open-Future-Belgium)/repo"]
+	path = Template-HW-HP-A5120-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
