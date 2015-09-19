@@ -154,3 +154,6 @@
 [submodule "Template-App-Yum-Security-(Open-Future-Belgium)/repo"]
 	path = Template-App-Yum-Security-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-App-ZFS-(matusso)/repo"]
+	path = Template-App-ZFS-(matusso)/repo
+	url = https://github.com/matusso/zfs-zabbix
