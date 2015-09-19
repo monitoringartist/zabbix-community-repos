@@ -187,3 +187,6 @@
 [submodule "Template-HW-HP-Storageworks-G3-(Open-Future-Belgium)/repo"]
 	path = Template-HW-HP-Storageworks-G3-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-HW-Riverbed-SteelHead-EX-(Open-Future-Belgium)/repo"]
+	path = Template-HW-Riverbed-SteelHead-EX-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
