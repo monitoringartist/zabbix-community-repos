@@ -163,3 +163,6 @@
 [submodule "Template-App-SSL-Cert-expiration-(Hivlaher)/repo"]
 	path = Template-App-SSL-Cert-expiration-(Hivlaher)/repo
 	url = https://github.com/Hivlaher/zabbix-FreeBSD-templates
+[submodule "Template-HW-FW-Fortigate-(Open-Future-Belgium)/repo"]
+	path = Template-HW-FW-Fortigate-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
