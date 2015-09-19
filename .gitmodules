@@ -160,3 +160,6 @@
 [submodule "Template-Database-Oracle-(ikzelf)/repo"]
 	path = Template-Database-Oracle-(ikzelf)/repo
 	url = https://github.com/ikzelf/zbxora
+[submodule "Template-App-SSL-Cert-expiration-(Hivlaher)/repo"]
+	path = Template-App-SSL-Cert-expiration-(Hivlaher)/repo
+	url = https://github.com/Hivlaher/zabbix-FreeBSD-templates
