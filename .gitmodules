@@ -175,3 +175,6 @@
 [submodule "Template-Printer-Xerox-Qube-930-(Open-Future-Belgium)/repo"]
 	path = Template-Printer-Xerox-Qube-930-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-Printer-Xerox-X660x-(Open-Future-Belgium)/repo"]
+	path = Template-Printer-Xerox-X660x-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
