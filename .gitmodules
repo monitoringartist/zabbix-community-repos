@@ -199,3 +199,6 @@
 [submodule "Template-HW-Air-Condition-GASON-(Open-Future-Belgium)/repo"]
 	path = Template-HW-Air-Condition-GASON-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-HW-Air-Confition-pCOweb-(Open-Future-Belgium)/repo"]
+	path = Template-HW-Air-Confition-pCOweb-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
