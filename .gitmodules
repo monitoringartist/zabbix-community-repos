@@ -193,3 +193,6 @@
 [submodule "Template-HW-Riverbed-SteelHead-(Open-Future-Belgium)/repo"]
 	path = Template-HW-Riverbed-SteelHead-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-HW-Aerohive-AP121-(Open-Future-Belgium)/repo"]
+	path = Template-HW-Aerohive-AP121-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix
