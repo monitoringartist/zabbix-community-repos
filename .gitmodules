@@ -208,3 +208,6 @@
 [submodule "Template-HW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo"]
 	path = Template-HW-SonicWALL-TZ-190-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix
+[submodule "Template-App-Elasticsearch-(sepich)/repo"]
+	path = Template-App-Elasticsearch-(sepich)/repo
+	url = https://github.com/sepich/zabbix
