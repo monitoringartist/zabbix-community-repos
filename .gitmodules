@@ -211,3 +211,6 @@
 [submodule "Template-App-Elasticsearch-(sepich)/repo"]
 	path = Template-App-Elasticsearch-(sepich)/repo
 	url = https://github.com/sepich/zabbix
+[submodule "Template-App-Postfix-(sepich)/repo"]
+	path = Template-App-Postfix-(sepich)/repo
+	url = https://github.com/sepich/zabbix
