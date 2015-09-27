@@ -223,3 +223,6 @@
 [submodule "Script-Agent-Stress-Test-(monitoringartist)/repo"]
 	path = Script-Agent-Stress-Test-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-agent-stress-test
+[submodule "Template-App-Docker-(monitoringartist)/repo"]
+	path = Template-App-Docker-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/Zabbix-Docker-Monitoring
