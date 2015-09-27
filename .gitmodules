@@ -226,3 +226,6 @@
 [submodule "Template-App-Docker-(monitoringartist)/repo"]
 	path = Template-App-Docker-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/Zabbix-Docker-Monitoring
+[submodule "Template-App-Zenoss-(monitoringartist)/repo"]
+	path = Template-App-Zenoss-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/Zabbix-Template-App-Zenoss
