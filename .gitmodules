@@ -232,3 +232,6 @@
 [submodule "Script-Alert-ServiceNow-(monitoringartist)/repo"]
 	path = Script-Alert-ServiceNow-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-script-servicenow
+[submodule "Template-App-AWS-EC2-(ike-dai)/repo"]
+	path = Template-App-AWS-EC2-(ike-dai)/repo
+	url = https://github.com/ike-dai/zabbix-cloud-module
