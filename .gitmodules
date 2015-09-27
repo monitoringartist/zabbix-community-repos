@@ -241,3 +241,6 @@
 [submodule "Template-Database-MySQL-Transactions-(sepich)/repo"]
 	path = Template-Database-MySQL-Transactions-(sepich)/repo
 	url = https://github.com/sepich/zabbix
+[submodule "Template-Database-MySQL-(sepich)/repo"]
+	path = Template-Database-MySQL-(sepich)/repo
+	url = https://github.com/sepich/zabbix
