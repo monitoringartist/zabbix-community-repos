@@ -235,3 +235,6 @@
 [submodule "Template-App-AWS-EC2-(ike-dai)/repo"]
 	path = Template-App-AWS-EC2-(ike-dai)/repo
 	url = https://github.com/ike-dai/zabbix-cloud-module
+[submodule "Template-App-RabbitMQ-(sepich)/repo"]
+	path = Template-App-RabbitMQ-(sepich)/repo
+	url = https://github.com/sepich/zabbix
