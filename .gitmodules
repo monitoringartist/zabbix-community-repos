@@ -229,3 +229,6 @@
 [submodule "Template-App-Zenoss-(monitoringartist)/repo"]
 	path = Template-App-Zenoss-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/Zabbix-Template-App-Zenoss
+[submodule "Script-Alert-ServiceNow-(monitoringartist)/repo"]
+	path = Script-Alert-ServiceNow-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-script-servicenow
