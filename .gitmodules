@@ -220,3 +220,6 @@
 [submodule "Template-App-Ext-Web-Check-(breuninger-ecom)/repo"]
 	path = Template-App-Ext-Web-Check-(breuninger-ecom)/repo
 	url = https://github.com/breuninger-ecom/http_extend
+[submodule "Script-Agent-Stress-Test-(monitoringartist)/repo"]
+	path = Script-Agent-Stress-Test-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-agent-stress-test
