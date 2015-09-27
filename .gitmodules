@@ -247,3 +247,6 @@
 [submodule "Integration-Zabbix-Searcher-(monitoringartist)/repo"]
 	path = Integration-Zabbix-Searcher-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-searcher
+[submodule "Template-App-Elasticsearch-(mkhpalm)/repo"]
+	path = Template-App-Elasticsearch-(mkhpalm)/repo
+	url = https://github.com/mkhpalm/elastizabbix
