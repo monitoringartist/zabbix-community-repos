@@ -244,3 +244,6 @@
 [submodule "Template-Database-MySQL-(sepich)/repo"]
 	path = Template-Database-MySQL-(sepich)/repo
 	url = https://github.com/sepich/zabbix
+[submodule "Integration-Zabbix-Searcher-(monitoringartist)/repo"]
+	path = Integration-Zabbix-Searcher-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-searcher
