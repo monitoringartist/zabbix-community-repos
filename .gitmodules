@@ -253,3 +253,6 @@
 [submodule "API-C-sharp-(HenriqueCaires)/repo"]
 	path = API-C-sharp-(HenriqueCaires)/repo
 	url = https://github.com/HenriqueCaires/ZabbixApi
+[submodule "Template-App-Pacemaker-(H-Software)/repo"]
+	path = Template-App-Pacemaker-(H-Software)/repo
+	url = https://github.com/H-Software/Zabbix-Template-Linux-Pacemaker
