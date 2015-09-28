@@ -250,3 +250,6 @@
 [submodule "Template-App-Elasticsearch-(mkhpalm)/repo"]
 	path = Template-App-Elasticsearch-(mkhpalm)/repo
 	url = https://github.com/mkhpalm/elastizabbix
+[submodule "API-C-sharp-(HenriqueCaires)/repo"]
+	path = API-C-sharp-(HenriqueCaires)/repo
+	url = https://github.com/HenriqueCaires/ZabbixApi
