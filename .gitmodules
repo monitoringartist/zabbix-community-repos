@@ -256,3 +256,6 @@
 [submodule "Template-App-Pacemaker-(H-Software)/repo"]
 	path = Template-App-Pacemaker-(H-Software)/repo
 	url = https://github.com/H-Software/Zabbix-Template-Linux-Pacemaker
+[submodule "Template-App-Elasticsearch-(dkanbier)/repo"]
+	path = Template-App-Elasticsearch-(dkanbier)/repo
+	url = https://github.com/dkanbier/zabbix-elasticsearch
