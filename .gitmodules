@@ -265,3 +265,6 @@
 [submodule "Integration-Dashboard-Ruby-ZV-(winebarrel)/repo"]
 	path = Integration-Dashboard-Ruby-ZV-(winebarrel)/repo
 	url = https://github.com/winebarrel/zv
+[submodule "Module-Modbus-RTU-TCP-(v-zhuravlev)/repo"]
+	path = Module-Modbus-RTU-TCP-(v-zhuravlev)/repo
+	url = https://github.com/v-zhuravlev/libzbxmodbus
