@@ -259,3 +259,6 @@
 [submodule "Template-App-Elasticsearch-(dkanbier)/repo"]
 	path = Template-App-Elasticsearch-(dkanbier)/repo
 	url = https://github.com/dkanbier/zabbix-elasticsearch
+[submodule "API-PHP-PhpZabbixApi-(confirm)/repo"]
+	path = API-PHP-PhpZabbixApi-(confirm)/repo
+	url = https://github.com/confirm/PhpZabbixApi
