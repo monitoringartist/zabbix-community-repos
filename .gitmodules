@@ -262,3 +262,6 @@
 [submodule "API-PHP-PhpZabbixApi-(confirm)/repo"]
 	path = API-PHP-PhpZabbixApi-(confirm)/repo
 	url = https://github.com/confirm/PhpZabbixApi
+[submodule "Integration-Dashboard-Ruby-ZV-(winebarrel)/repo"]
+	path = Integration-Dashboard-Ruby-ZV-(winebarrel)/repo
+	url = https://github.com/winebarrel/zv
