@@ -268,3 +268,6 @@
 [submodule "Module-Modbus-RTU-TCP-(v-zhuravlev)/repo"]
 	path = Module-Modbus-RTU-TCP-(v-zhuravlev)/repo
 	url = https://github.com/v-zhuravlev/libzbxmodbus
+[submodule "Template-App-Container-LXC-(Lelik13a)/repo"]
+	path = Template-App-Container-LXC-(Lelik13a)/repo
+	url = https://github.com/Lelik13a/Zabbix-LXC
