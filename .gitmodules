@@ -277,3 +277,6 @@
 [submodule "Script-PowerShell-(skokhanovskiy)/repo"]
 	path = Script-PowerShell-(skokhanovskiy)/repo
 	url = https://github.com/skokhanovskiy/zabbix-monitoring
+[submodule "Template-App-Elasticsearch-(untergeek)/repo"]
+	path = Template-App-Elasticsearch-(untergeek)/repo
+	url = https://github.com/untergeek/zabbix-grab-bag
