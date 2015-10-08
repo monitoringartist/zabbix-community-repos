@@ -274,3 +274,6 @@
 [submodule "Integration-Reports-PDF-(burgosz)/repo"]
 	path = Integration-Reports-PDF-(burgosz)/repo
 	url = https://github.com/burgosz/zabbix_reports
+[submodule "Script-PowerShell-(skokhanovskiy)/repo"]
+	path = Script-PowerShell-(skokhanovskiy)/repo
+	url = https://github.com/skokhanovskiy/zabbix-monitoring
