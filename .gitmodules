@@ -271,3 +271,6 @@
 [submodule "Template-App-Container-LXC-(Lelik13a)/repo"]
 	path = Template-App-Container-LXC-(Lelik13a)/repo
 	url = https://github.com/Lelik13a/Zabbix-LXC
+[submodule "Integration-Reports-PDF-(burgosz)/repo"]
+	path = Integration-Reports-PDF-(burgosz)/repo
+	url = https://github.com/burgosz/zabbix_reports
