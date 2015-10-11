@@ -280,3 +280,6 @@
 [submodule "Template-App-Elasticsearch-(untergeek)/repo"]
 	path = Template-App-Elasticsearch-(untergeek)/repo
 	url = https://github.com/untergeek/zabbix-grab-bag
+[submodule "Template-App-Vutlan-Skycontrol-EMS-(zbx-sadman)/repo"]
+	path = Template-App-Vutlan-Skycontrol-EMS-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/vutlan_ems
