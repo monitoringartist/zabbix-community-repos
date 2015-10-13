@@ -304,3 +304,6 @@
 [submodule "Template-App-Amavisd-(thecamels)/repo"]
 	path = Template-App-Amavisd-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Brocade-HBA-(thecamels)/repo"]
+	path = Template-App-Brocade-HBA-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
