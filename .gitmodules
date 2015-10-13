@@ -358,3 +358,6 @@
 [submodule "Template-App-lm-sensors-(thecamels)/repo"]
 	path = Template-App-lm-sensors-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-vsftpd-(thecamels)/repo"]
+	path = Template-App-vsftpd-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
