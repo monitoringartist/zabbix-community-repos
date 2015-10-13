@@ -349,3 +349,6 @@
 [submodule "Template-App-HDD-SMART-(thecamels)/repo"]
 	path = Template-App-HDD-SMART-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Spamassassin-(thecamels)/repo"]
+	path = Template-App-Spamassassin-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
