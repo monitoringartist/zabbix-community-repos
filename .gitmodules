@@ -352,3 +352,6 @@
 [submodule "Template-App-Spamassassin-(thecamels)/repo"]
 	path = Template-App-Spamassassin-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-cPanel-(thecamels)/repo"]
+	path = Template-App-cPanel-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
