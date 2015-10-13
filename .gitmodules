@@ -379,3 +379,6 @@
 [submodule "Template-HW-IBM-Storwize-(ma-tty)/repo"]
 	path = Template-HW-IBM-Storwize-(ma-tty)/repo
 	url = https://github.com/ma-tty/svc-perf
+[submodule "Integration-Dashboard-Dashing-(galindro)/repo"]
+	path = Integration-Dashboard-Dashing-(galindro)/repo
+	url = https://github.com/galindro/zabbix-dashing
