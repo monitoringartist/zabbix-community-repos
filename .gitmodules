@@ -346,3 +346,6 @@
 [submodule "Template-App-RabbitMQ-(thecamels)/repo"]
 	path = Template-App-RabbitMQ-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-HDD-SMART-(thecamels)/repo"]
+	path = Template-App-HDD-SMART-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
