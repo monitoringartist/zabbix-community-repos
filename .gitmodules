@@ -376,3 +376,6 @@
 [submodule "Template-HW-OpenManage-Server-Administrator-OMSA-(thecamels)/repo"]
 	path = Template-HW-OpenManage-Server-Administrator-OMSA-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-HW-IBM-Storwize-(ma-tty)/repo"]
+	path = Template-HW-IBM-Storwize-(ma-tty)/repo
+	url = https://github.com/ma-tty/svc-perf
