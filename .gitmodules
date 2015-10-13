@@ -295,3 +295,6 @@
 [submodule "Template-OS-Linux-Processes-(galindro)/repo"]
 	path = Template-OS-Linux-Processes-(galindro)/repo
 	url = https://github.com/galindro/zabbix-enhanced-templates
+[submodule "Template-App-X-(thecamels)/repo"]
+	path = Template-App-X-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
