@@ -367,3 +367,6 @@
 [submodule "Template-HW-BigIP-F5-(thecamels)/repo"]
 	path = Template-HW-BigIP-F5-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-HW-Cisco-ASA-(thecamels)/repo"]
+	path = Template-HW-Cisco-ASA-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
