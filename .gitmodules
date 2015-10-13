@@ -292,3 +292,6 @@
 [submodule "Template-OS-Linux-Memory-(galindro)/repo"]
 	path = Template-OS-Linux-Memory-(galindro)/repo
 	url = https://github.com/galindro/zabbix-enhanced-templates
+[submodule "Template-OS-Linux-Processes-(galindro)/repo"]
+	path = Template-OS-Linux-Processes-(galindro)/repo
+	url = https://github.com/galindro/zabbix-enhanced-templates
