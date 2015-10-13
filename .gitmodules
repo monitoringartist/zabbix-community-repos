@@ -388,3 +388,6 @@
 [submodule "Template-App-PHP-FPM-(maxvgi)/repo"]
 	path = Template-App-PHP-FPM-(maxvgi)/repo
 	url = https://github.com/maxvgi/zabbix-templates
+[submodule "Integration-RackTables-(kaz260)/repo"]
+	path = Integration-RackTables-(kaz260)/repo
+	url = https://github.com/kaz260/RackTables-ZABBIX-bridge
