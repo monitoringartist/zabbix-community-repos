@@ -370,3 +370,6 @@
 [submodule "Template-HW-Cisco-ASA-(thecamels)/repo"]
 	path = Template-HW-Cisco-ASA-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-HW-NetApp--(thecamels)/repo"]
+	path = Template-HW-NetApp--(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
