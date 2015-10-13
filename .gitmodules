@@ -322,3 +322,6 @@
 [submodule "Template-Database-MySQL-(thecamels)/repo"]
 	path = Template-Database-MySQL-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Nginx-(thecamels)/repo"]
+	path = Template-App-Nginx-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
