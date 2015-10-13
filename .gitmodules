@@ -307,3 +307,6 @@
 [submodule "Template-App-Brocade-HBA-(thecamels)/repo"]
 	path = Template-App-Brocade-HBA-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Dovecot-(thecamels)/repo"]
+	path = Template-App-Dovecot-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
