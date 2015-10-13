@@ -382,3 +382,6 @@
 [submodule "Integration-Dashboard-Dashing-(galindro)/repo"]
 	path = Integration-Dashboard-Dashing-(galindro)/repo
 	url = https://github.com/galindro/zabbix-dashing
+[submodule "Template-Database-Aerospike-(maxvgi)/repo"]
+	path = Template-Database-Aerospike-(maxvgi)/repo
+	url = https://github.com/maxvgi/zabbix-templates
