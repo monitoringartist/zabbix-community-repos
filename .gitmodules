@@ -328,3 +328,6 @@
 [submodule "Template-App-Nscd-(thecamels)/repo"]
 	path = Template-App-Nscd-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-OPcache-(thecamels)/repo"]
+	path = Template-App-OPcache-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
