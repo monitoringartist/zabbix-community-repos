@@ -310,3 +310,6 @@
 [submodule "Template-App-Dovecot-(thecamels)/repo"]
 	path = Template-App-Dovecot-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Etherpad-(thecamels)/repo"]
+	path = Template-App-Etherpad-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
