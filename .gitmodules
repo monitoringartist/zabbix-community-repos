@@ -340,3 +340,6 @@
 [submodule "Template-HW-EMC-PowerPath-(thecamels)/repo"]
 	path = Template-HW-EMC-PowerPath-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Pure-FTPd-(thecamels)/repo"]
+	path = Template-App-Pure-FTPd-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
