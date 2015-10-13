@@ -313,3 +313,6 @@
 [submodule "Template-App-Etherpad-(thecamels)/repo"]
 	path = Template-App-Etherpad-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Exim-(thecamels)/repo"]
+	path = Template-App-Exim-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
