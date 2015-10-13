@@ -334,3 +334,6 @@
 [submodule "Template-App-OpenDKIM-(thecamels)/repo"]
 	path = Template-App-OpenDKIM-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Postfix-(thecamels)/repo"]
+	path = Template-App-Postfix-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
