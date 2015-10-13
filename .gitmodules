@@ -337,3 +337,6 @@
 [submodule "Template-App-Postfix-(thecamels)/repo"]
 	path = Template-App-Postfix-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-HW-EMC-PowerPath-(thecamels)/repo"]
+	path = Template-HW-EMC-PowerPath-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
