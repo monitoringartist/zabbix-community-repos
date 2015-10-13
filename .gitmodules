@@ -325,3 +325,6 @@
 [submodule "Template-App-Nginx-(thecamels)/repo"]
 	path = Template-App-Nginx-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Nscd-(thecamels)/repo"]
+	path = Template-App-Nscd-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
