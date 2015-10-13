@@ -361,3 +361,6 @@
 [submodule "Template-App-vsftpd-(thecamels)/repo"]
 	path = Template-App-vsftpd-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-UPS-APC-Back-UPS-ES-700G-(thecamels)/repo"]
+	path = Template-UPS-APC-Back-UPS-ES-700G-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
