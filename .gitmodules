@@ -373,3 +373,6 @@
 [submodule "Template-HW-NetApp--(thecamels)/repo"]
 	path = Template-HW-NetApp--(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-HW-OpenManage-Server-Administrator-OMSA-(thecamels)/repo"]
+	path = Template-HW-OpenManage-Server-Administrator-OMSA-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
