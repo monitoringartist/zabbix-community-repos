@@ -301,3 +301,6 @@
 [submodule "Template-App-APC-(thecamels)/repo"]
 	path = Template-App-APC-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Amavisd-(thecamels)/repo"]
+	path = Template-App-Amavisd-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
