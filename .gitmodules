@@ -283,3 +283,6 @@
 [submodule "Template-App-Vutlan-Skycontrol-EMS-(zbx-sadman)/repo"]
 	path = Template-App-Vutlan-Skycontrol-EMS-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/vutlan_ems
+[submodule "Template-HW-Synology-DiskStation-DS415-DSM5-(Pytlicek)/repo"]
+	path = Template-HW-Synology-DiskStation-DS415-DSM5-(Pytlicek)/repo
+	url = https://github.com/Pytlicek/Synology-DS415-Zabbix
