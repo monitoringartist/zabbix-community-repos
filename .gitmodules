@@ -331,3 +331,6 @@
 [submodule "Template-App-OPcache-(thecamels)/repo"]
 	path = Template-App-OPcache-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-OpenDKIM-(thecamels)/repo"]
+	path = Template-App-OpenDKIM-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
