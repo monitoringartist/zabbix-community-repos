@@ -385,3 +385,6 @@
 [submodule "Template-Database-Aerospike-(maxvgi)/repo"]
 	path = Template-Database-Aerospike-(maxvgi)/repo
 	url = https://github.com/maxvgi/zabbix-templates
+[submodule "Template-App-PHP-FPM-(maxvgi)/repo"]
+	path = Template-App-PHP-FPM-(maxvgi)/repo
+	url = https://github.com/maxvgi/zabbix-templates
