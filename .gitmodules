@@ -400,3 +400,6 @@
 [submodule "Template-App-Barracuda-Spam-Firewall-(phroton)/repo"]
 	path = Template-App-Barracuda-Spam-Firewall-(phroton)/repo
 	url = https://github.com/phroton/zabbix-templates
+[submodule "Integration-Zabbix-Federation-(vulogov)/repo"]
+	path = Integration-Zabbix-Federation-(vulogov)/repo
+	url = https://github.com/vulogov/zabbix-federation
