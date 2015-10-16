@@ -397,3 +397,6 @@
 [submodule "Template-UPS-APC-NetBotz-Rack-Monitor-200-(angel2s2)/repo"]
 	path = Template-UPS-APC-NetBotz-Rack-Monitor-200-(angel2s2)/repo
 	url = https://github.com/angel2s2/zabbix
+[submodule "Template-App-Barracuda-Spam-Firewall-(phroton)/repo"]
+	path = Template-App-Barracuda-Spam-Firewall-(phroton)/repo
+	url = https://github.com/phroton/zabbix-templates
