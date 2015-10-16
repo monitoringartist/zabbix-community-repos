@@ -391,3 +391,6 @@
 [submodule "Integration-RackTables-(kaz260)/repo"]
 	path = Integration-RackTables-(kaz260)/repo
 	url = https://github.com/kaz260/RackTables-ZABBIX-bridge
+[submodule "Template-UPS-APC-APC-Symmetra-LX-16000-(angel2s2)/repo"]
+	path = Template-UPS-APC-APC-Symmetra-LX-16000-(angel2s2)/repo
+	url = https://github.com/angel2s2/zabbix
