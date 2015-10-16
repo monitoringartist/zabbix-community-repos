@@ -394,3 +394,6 @@
 [submodule "Template-UPS-APC-APC-Symmetra-LX-16000-(angel2s2)/repo"]
 	path = Template-UPS-APC-APC-Symmetra-LX-16000-(angel2s2)/repo
 	url = https://github.com/angel2s2/zabbix
+[submodule "Template-UPS-APC-NetBotz-Rack-Monitor-200-(angel2s2)/repo"]
+	path = Template-UPS-APC-NetBotz-Rack-Monitor-200-(angel2s2)/repo
+	url = https://github.com/angel2s2/zabbix
