@@ -403,3 +403,6 @@
 [submodule "Integration-Zabbix-Federation-(vulogov)/repo"]
 	path = Integration-Zabbix-Federation-(vulogov)/repo
 	url = https://github.com/vulogov/zabbix-federation
+[submodule "Template-App-Varnish-(allenta)/repo"]
+	path = Template-App-Varnish-(allenta)/repo
+	url = https://github.com/allenta/zabbix-template-for-varnish-cache
