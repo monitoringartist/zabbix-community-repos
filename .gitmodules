@@ -406,3 +406,6 @@
 [submodule "Template-App-Varnish-(allenta)/repo"]
 	path = Template-App-Varnish-(allenta)/repo
 	url = https://github.com/allenta/zabbix-template-for-varnish-cache
+[submodule "Template-App-Varnish-Cache-(allenta)/repo"]
+	path = Template-App-Varnish-Cache-(allenta)/repo
+	url = https://github.com/allenta/zabbix-template-for-varnish-cache
