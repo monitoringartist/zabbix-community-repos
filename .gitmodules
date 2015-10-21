@@ -406,3 +406,6 @@
 [submodule "Template-App-Varnish-(allenta)/repo"]
 	path = Template-App-Varnish-(allenta)/repo
 	url = https://github.com/allenta/zabbix-template-for-varnish-cache
+[submodule "Script-Export-History-Data-to-CSV-(teriyakichild)/repo"]
+	path = Script-Export-History-Data-to-CSV-(teriyakichild)/repo
+	url = https://github.com/teriyakichild/zabbixhistory2csv
