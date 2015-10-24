@@ -409,3 +409,6 @@
 [submodule "Script-Export-History-Data-to-CSV-(teriyakichild)/repo"]
 	path = Script-Export-History-Data-to-CSV-(teriyakichild)/repo
 	url = https://github.com/teriyakichild/zabbixhistory2csv
+[submodule "API-PowerShell-psbbix-(yubu)/repo"]
+	path = API-PowerShell-psbbix-(yubu)/repo
+	url = https://github.com/yubu/psbbix
