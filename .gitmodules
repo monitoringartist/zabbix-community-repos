@@ -412,3 +412,6 @@
 [submodule "API-PowerShell-psbbix-(yubu)/repo"]
 	path = API-PowerShell-psbbix-(yubu)/repo
 	url = https://github.com/yubu/psbbix
+[submodule "Integration-Neptune.io-(neptuneio)/repo"]
+	path = Integration-Neptune.io-(neptuneio)/repo
+	url = https://github.com/neptuneio/zabbix-integration
