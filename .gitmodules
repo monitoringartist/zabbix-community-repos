@@ -415,3 +415,6 @@
 [submodule "Integration-Neptune.io-(neptuneio)/repo"]
 	path = Integration-Neptune.io-(neptuneio)/repo
 	url = https://github.com/neptuneio/zabbix-integration
+[submodule "Template-App-PHP-(pozgo)/repo"]
+	path = Template-App-PHP-(pozgo)/repo
+	url = https://github.com/pozgo/php-zabbix-template
