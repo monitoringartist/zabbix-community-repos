@@ -421,3 +421,6 @@
 [submodule "API-.NET-(Vidlec)/repo"]
 	path = API-.NET-(Vidlec)/repo
 	url = https://github.com/Vidlec/Zabbix.NET
+[submodule "Template-HW-Supermicro-X9DRH-(neechbear)/repo"]
+	path = Template-HW-Supermicro-X9DRH-(neechbear)/repo
+	url = https://github.com/neechbear/zabbix
