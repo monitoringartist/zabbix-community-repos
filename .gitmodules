@@ -424,3 +424,6 @@
 [submodule "Template-HW-Supermicro-X9DRH-(neechbear)/repo"]
 	path = Template-HW-Supermicro-X9DRH-(neechbear)/repo
 	url = https://github.com/neechbear/zabbix
+[submodule "Template-App-Zimbra-(eduwutzl)/repo"]
+	path = Template-App-Zimbra-(eduwutzl)/repo
+	url = https://github.com/eduwutzl/zabbix-templates
