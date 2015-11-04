@@ -433,3 +433,6 @@
 [submodule "Template-AppPower-DNS-(rperepechaev)/repo"]
 	path = Template-AppPower-DNS-(rperepechaev)/repo
 	url = https://github.com/rperepechaev/Zabbix-Templates
+[submodule "Template-HW-Hitachi-HNAS-(jefferson22alcantara)/repo"]
+	path = Template-HW-Hitachi-HNAS-(jefferson22alcantara)/repo
+	url = https://github.com/jefferson22alcantara/storage
