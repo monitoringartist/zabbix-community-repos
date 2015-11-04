@@ -427,3 +427,6 @@
 [submodule "Template-App-Zimbra-(eduwutzl)/repo"]
 	path = Template-App-Zimbra-(eduwutzl)/repo
 	url = https://github.com/eduwutzl/zabbix-templates
+[submodule "Template-App-Exchange-2010-(hadida)/repo"]
+	path = Template-App-Exchange-2010-(hadida)/repo
+	url = https://github.com/hadida/Zabbix
