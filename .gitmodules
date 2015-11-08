@@ -439,3 +439,6 @@
 [submodule "Template-HW-Mikrotik-CCR1036-8G-2S-(andyzasl)/repo"]
 	path = Template-HW-Mikrotik-CCR1036-8G-2S-(andyzasl)/repo
 	url = https://github.com/andyzasl/zabbix-templates
+[submodule "Template-HW-Cisco-3560E-(renatopinheirosouza)/repo"]
+	path = Template-HW-Cisco-3560E-(renatopinheirosouza)/repo
+	url = https://github.com/renatopinheirosouza/zabbix-templates
