@@ -442,3 +442,6 @@
 [submodule "Template-HW-Cisco-3560E-(renatopinheirosouza)/repo"]
 	path = Template-HW-Cisco-3560E-(renatopinheirosouza)/repo
 	url = https://github.com/renatopinheirosouza/zabbix-templates
+[submodule "Script-Alert-i-doit-(proventa)/repo"]
+	path = Script-Alert-i-doit-(proventa)/repo
+	url = https://github.com/proventa/zabbix_idoit
