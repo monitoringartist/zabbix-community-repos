@@ -445,3 +445,6 @@
 [submodule "Script-Alert-i-doit-(proventa)/repo"]
 	path = Script-Alert-i-doit-(proventa)/repo
 	url = https://github.com/proventa/zabbix_idoit
+[submodule "Template-App-NSD4-(kometchtech)/repo"]
+	path = Template-App-NSD4-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_Template_nsd4
