@@ -448,3 +448,6 @@
 [submodule "Template-App-NSD4-(kometchtech)/repo"]
 	path = Template-App-NSD4-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_Template_nsd4
+[submodule "Template-App-Websphere-MQ-(Kencow)/repo"]
+	path = Template-App-Websphere-MQ-(Kencow)/repo
+	url = https://github.com/Kencow/Websphere-MQ-Template-for-Zabbix
