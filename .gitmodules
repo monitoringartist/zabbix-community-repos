@@ -454,3 +454,6 @@
 [submodule "Configuration-Vagrant-(slashr00t)/repo"]
 	path = Configuration-Vagrant-(slashr00t)/repo
 	url = https://github.com/slashr00t/vagrant-zabbix
+[submodule "Script-Alert-Lita.io-(predatorian3)/repo"]
+	path = Script-Alert-Lita.io-(predatorian3)/repo
+	url = https://github.com/predatorian3/lita-zabbix
