@@ -457,3 +457,6 @@
 [submodule "Script-Alert-Lita.io-(predatorian3)/repo"]
 	path = Script-Alert-Lita.io-(predatorian3)/repo
 	url = https://github.com/predatorian3/lita-zabbix
+[submodule "Template-App-Weather-(thebean69)/repo"]
+	path = Template-App-Weather-(thebean69)/repo
+	url = https://github.com/thebean69/zabbix-weather
