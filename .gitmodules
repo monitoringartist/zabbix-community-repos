@@ -451,3 +451,6 @@
 [submodule "Template-App-Websphere-MQ-(Kencow)/repo"]
 	path = Template-App-Websphere-MQ-(Kencow)/repo
 	url = https://github.com/Kencow/Websphere-MQ-Template-for-Zabbix
+[submodule "Configuration-Vagrant-(slashr00t)/repo"]
+	path = Configuration-Vagrant-(slashr00t)/repo
+	url = https://github.com/slashr00t/vagrant-zabbix
