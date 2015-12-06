@@ -463,3 +463,6 @@
 [submodule "Template-App-Redis-(cnshawncao)/repo"]
 	path = Template-App-Redis-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-redis
+[submodule "Template-App-Memcached-(cnshawncao)/repo"]
+	path = Template-App-Memcached-(cnshawncao)/repo
+	url = https://github.com/cnshawncao/zabbix-module-memcached
