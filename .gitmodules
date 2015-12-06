@@ -472,3 +472,6 @@
 [submodule "API-Javascript-(yosqueoy)/repo"]
 	path = API-Javascript-(yosqueoy)/repo
 	url = https://github.com/yosqueoy/zabbix-promise
+[submodule "Integration-Dashboard-Timeline-(winebarrel)/repo"]
+	path = Integration-Dashboard-Timeline-(winebarrel)/repo
+	url = https://github.com/winebarrel/zabbix_timeline
