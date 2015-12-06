@@ -475,3 +475,6 @@
 [submodule "Integration-Dashboard-Timeline-(winebarrel)/repo"]
 	path = Integration-Dashboard-Timeline-(winebarrel)/repo
 	url = https://github.com/winebarrel/zabbix_timeline
+[submodule "Template-App-IPVS-(shinonome)/repo"]
+	path = Template-App-IPVS-(shinonome)/repo
+	url = https://github.com/shinonome/zabbix_ipvsadm
