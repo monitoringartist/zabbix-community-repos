@@ -460,3 +460,6 @@
 [submodule "Template-App-Weather-(thebean69)/repo"]
 	path = Template-App-Weather-(thebean69)/repo
 	url = https://github.com/thebean69/zabbix-weather
+[submodule "Template-App-Redis-(cnshawncao)/repo"]
+	path = Template-App-Redis-(cnshawncao)/repo
+	url = https://github.com/cnshawncao/zabbix-module-redis
