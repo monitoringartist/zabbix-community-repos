@@ -469,3 +469,6 @@
 [submodule "Template-App-IPVS-(cnshawncao)/repo"]
 	path = Template-App-IPVS-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-ipvs
+[submodule "API-Javascript-(yosqueoy)/repo"]
+	path = API-Javascript-(yosqueoy)/repo
+	url = https://github.com/yosqueoy/zabbix-promise
