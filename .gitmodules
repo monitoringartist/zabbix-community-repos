@@ -481,3 +481,6 @@
 [submodule "Template-App-checkmy.ws-(adepertat)/repo"]
 	path = Template-App-checkmy.ws-(adepertat)/repo
 	url = https://github.com/adepertat/checkmyws-zabbix
+[submodule "Template-App-MySQL-(cnshawncao)/repo"]
+	path = Template-App-MySQL-(cnshawncao)/repo
+	url = https://github.com/cnshawncao/zabbix-module-mysql
