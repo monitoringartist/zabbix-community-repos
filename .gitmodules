@@ -478,3 +478,6 @@
 [submodule "Template-App-IPVS-(shinonome)/repo"]
 	path = Template-App-IPVS-(shinonome)/repo
 	url = https://github.com/shinonome/zabbix_ipvsadm
+[submodule "Template-App-checkmy.ws-(adepertat)/repo"]
+	path = Template-App-checkmy.ws-(adepertat)/repo
+	url = https://github.com/adepertat/checkmyws-zabbix
