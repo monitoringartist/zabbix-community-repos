@@ -487,3 +487,6 @@
 [submodule "Integration-Hudson-(hudson2-plugins)/repo"]
 	path = Integration-Hudson-(hudson2-plugins)/repo
 	url = https://github.com/hudson2-plugins/zabbix-integration-plugin
+[submodule "Template-App-Passenger-(bluerail)/repo"]
+	path = Template-App-Passenger-(bluerail)/repo
+	url = https://github.com/bluerail/zabbix-passenger
