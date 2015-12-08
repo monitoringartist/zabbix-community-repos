@@ -484,3 +484,6 @@
 [submodule "Template-App-MySQL-(cnshawncao)/repo"]
 	path = Template-App-MySQL-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-mysql
+[submodule "Integration-Hudson-(hudson2-plugins)/repo"]
+	path = Integration-Hudson-(hudson2-plugins)/repo
+	url = https://github.com/hudson2-plugins/zabbix-integration-plugin
