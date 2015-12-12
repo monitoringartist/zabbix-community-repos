@@ -520,3 +520,6 @@
 [submodule "Template-App-Wireshark-Tshark-Packet-Analysis-(q1x)/repo"]
 	path = Template-App-Wireshark-Tshark-Packet-Analysis-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-HW-Switch-SNMP-Template-Generator-Cisco-(monitoringartist)/repo"]
+	path = Template-HW-Switch-SNMP-Template-Generator-Cisco-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-switch-template-generator
