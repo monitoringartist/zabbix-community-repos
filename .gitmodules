@@ -490,3 +490,6 @@
 [submodule "Template-App-Passenger-(bluerail)/repo"]
 	path = Template-App-Passenger-(bluerail)/repo
 	url = https://github.com/bluerail/zabbix-passenger
+[submodule "Script-Ophaned-Data-Clean-(mattiasgeniar)/repo"]
+	path = Script-Ophaned-Data-Clean-(mattiasgeniar)/repo
+	url = https://github.com/mattiasgeniar/zabbix-orphaned-data-cleanup
