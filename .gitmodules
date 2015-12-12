@@ -508,3 +508,6 @@
 [submodule "Template-App-Linux-MD-RAID-(q1x)/repo"]
 	path = Template-App-Linux-MD-RAID-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-App-Linux-Process-Discovery-(q1x)/repo"]
+	path = Template-App-Linux-Process-Discovery-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
