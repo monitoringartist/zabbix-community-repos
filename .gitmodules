@@ -511,3 +511,6 @@
 [submodule "Template-App-Linux-Process-Discovery-(q1x)/repo"]
 	path = Template-App-Linux-Process-Discovery-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-App-Scheduler-(q1x)/repo"]
+	path = Template-App-Scheduler-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
