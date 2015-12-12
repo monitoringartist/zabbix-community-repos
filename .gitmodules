@@ -517,3 +517,6 @@
 [submodule "Template-App-Windows-Service-Discovery-(q1x)/repo"]
 	path = Template-App-Windows-Service-Discovery-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-App-Wireshark-Tshark-Packet-Analysis-(q1x)/repo"]
+	path = Template-App-Wireshark-Tshark-Packet-Analysis-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
