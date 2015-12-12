@@ -505,3 +505,6 @@
 [submodule "Template-HW-APC-Rack-PDU-(q1x)/repo"]
 	path = Template-HW-APC-Rack-PDU-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-App-Linux-MD-RAID-(q1x)/repo"]
+	path = Template-App-Linux-MD-RAID-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
