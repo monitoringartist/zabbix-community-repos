@@ -493,3 +493,6 @@
 [submodule "Script-Ophaned-Data-Clean-(mattiasgeniar)/repo"]
 	path = Script-Ophaned-Data-Clean-(mattiasgeniar)/repo
 	url = https://github.com/mattiasgeniar/zabbix-orphaned-data-cleanup
+[submodule "Integration-HyClops-Amazon-EC2-and-VMware-vSphere-(tech-sketch)/repo"]
+	path = Integration-HyClops-Amazon-EC2-and-VMware-vSphere-(tech-sketch)/repo
+	url = https://github.com/tech-sketch/hyclops
