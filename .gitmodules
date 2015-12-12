@@ -502,3 +502,6 @@
 [submodule "Template-App-Cisco-IP-SLA-(q1x)/repo"]
 	path = Template-App-Cisco-IP-SLA-(q1x)/repo
 	url = https://github.com/q1x/zabbix-templates
+[submodule "Template-HW-APC-Rack-PDU-(q1x)/repo"]
+	path = Template-HW-APC-Rack-PDU-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
