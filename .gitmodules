@@ -496,3 +496,6 @@
 [submodule "Integration-HyClops-Amazon-EC2-and-VMware-vSphere-(tech-sketch)/repo"]
 	path = Integration-HyClops-Amazon-EC2-and-VMware-vSphere-(tech-sketch)/repo
 	url = https://github.com/tech-sketch/hyclops
+[submodule "Template-App-TCP-Port-Check-(q1x)/repo"]
+	path = Template-App-TCP-Port-Check-(q1x)/repo
+	url = https://github.com/q1x/zabbix-templates
