@@ -523,3 +523,6 @@
 [submodule "Template-HW-Switch-SNMP-Template-Generator-Cisco-(monitoringartist)/repo"]
 	path = Template-HW-Switch-SNMP-Template-Generator-Cisco-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-switch-template-generator
+[submodule "Template-HW-EMC-(ktelep)/repo"]
+	path = Template-HW-EMC-(ktelep)/repo
+	url = https://github.com/ktelep/EMC-Zabbix-Integration
