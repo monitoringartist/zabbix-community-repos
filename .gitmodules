@@ -526,3 +526,6 @@
 [submodule "Template-HW-EMC-(ktelep)/repo"]
 	path = Template-HW-EMC-(ktelep)/repo
 	url = https://github.com/ktelep/EMC-Zabbix-Integration
+[submodule "Template-HW-EMC-VNX-(ktelep)/repo"]
+	path = Template-HW-EMC-VNX-(ktelep)/repo
+	url = https://github.com/ktelep/EMC-Zabbix-Integration
