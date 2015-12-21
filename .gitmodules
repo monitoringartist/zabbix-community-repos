@@ -532,3 +532,6 @@
 [submodule "Script-SNMP-Trap-Template-Generator-(zubayr)/repo"]
 	path = Script-SNMP-Trap-Template-Generator-(zubayr)/repo
 	url = https://github.com/zubayr/zbx_snmptrap_templates_creation
+[submodule "Template-App-FreeRADIUS-(roysbike)/repo"]
+	path = Template-App-FreeRADIUS-(roysbike)/repo
+	url = https://github.com/roysbike/zabbix-freeradius
