@@ -538,3 +538,6 @@
 [submodule "Script-Events-RSS-(TurtleResearch)/repo"]
 	path = Script-Events-RSS-(TurtleResearch)/repo
 	url = https://github.com/TurtleResearch/zabbix-rss
+[submodule "Template-App-HP-Vertica-Cluster-(datorama)/repo"]
+	path = Template-App-HP-Vertica-Cluster-(datorama)/repo
+	url = https://github.com/datorama/zabbix_vertica_cluster_template
