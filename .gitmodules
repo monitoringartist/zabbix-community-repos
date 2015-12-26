@@ -535,3 +535,6 @@
 [submodule "Template-App-FreeRADIUS-(roysbike)/repo"]
 	path = Template-App-FreeRADIUS-(roysbike)/repo
 	url = https://github.com/roysbike/zabbix-freeradius
+[submodule "Script-Events-RSS-(TurtleResearch)/repo"]
+	path = Script-Events-RSS-(TurtleResearch)/repo
+	url = https://github.com/TurtleResearch/zabbix-rss
