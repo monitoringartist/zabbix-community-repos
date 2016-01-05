@@ -544,3 +544,6 @@
 [submodule "Template-App-Graylog-2-(madchap)/repo"]
 	path = Template-App-Graylog-2-(madchap)/repo
 	url = https://github.com/madchap/graylog2-zabbix
+[submodule "Template-App-Hadoop-HDFS-(TroRg)/repo"]
+	path = Template-App-Hadoop-HDFS-(TroRg)/repo
+	url = https://github.com/TroRg/zabbix-extensions
