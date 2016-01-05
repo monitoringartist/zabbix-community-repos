@@ -556,3 +556,6 @@
 [submodule "Script-Alert-Telegram-(ableev)/repo"]
 	path = Script-Alert-Telegram-(ableev)/repo
 	url = https://github.com/ableev/Zabbix-in-Telegram
+[submodule "Template-App-HDD-SMART-(v-zhuravlev)/repo"]
+	path = Template-App-HDD-SMART-(v-zhuravlev)/repo
+	url = https://github.com/v-zhuravlev/zbx-smartctl
