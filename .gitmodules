@@ -547,3 +547,6 @@
 [submodule "Template-App-Hadoop-HDFS-(TroRg)/repo"]
 	path = Template-App-Hadoop-HDFS-(TroRg)/repo
 	url = https://github.com/TroRg/zabbix-extensions
+[submodule "Template-Database-MSSQL-(artos220)/repo"]
+	path = Template-Database-MSSQL-(artos220)/repo
+	url = https://github.com/artos220/zabbix_mssql_template
