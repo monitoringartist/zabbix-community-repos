@@ -550,3 +550,6 @@
 [submodule "Template-Database-MSSQL-(artos220)/repo"]
 	path = Template-Database-MSSQL-(artos220)/repo
 	url = https://github.com/artos220/zabbix_mssql_template
+[submodule "Template-App-AWS-ELB-(datorama)/repo"]
+	path = Template-App-AWS-ELB-(datorama)/repo
+	url = https://github.com/datorama/zabbix_elb_template
