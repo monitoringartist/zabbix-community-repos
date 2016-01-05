@@ -553,3 +553,6 @@
 [submodule "Template-App-AWS-ELB-(datorama)/repo"]
 	path = Template-App-AWS-ELB-(datorama)/repo
 	url = https://github.com/datorama/zabbix_elb_template
+[submodule "Script-Alert-Telegram-(ableev)/repo"]
+	path = Script-Alert-Telegram-(ableev)/repo
+	url = https://github.com/ableev/Zabbix-in-Telegram
