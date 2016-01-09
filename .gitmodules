@@ -568,3 +568,6 @@
 [submodule "Integration-Kubernetes-(monitoringartist)/repo"]
 	path = Integration-Kubernetes-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/kubernetes-zabbix
+[submodule "Integration-Grafana-with-Zabbix-datasource-(monitoringartist)/repo"]
+	path = Integration-Grafana-with-Zabbix-datasource-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/grafana-xxl
