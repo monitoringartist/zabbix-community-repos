@@ -562,3 +562,6 @@
 [submodule "Template-Database-MSSQL-(saycale)/repo"]
 	path = Template-Database-MSSQL-(saycale)/repo
 	url = https://github.com/saycale/zabbix_templates
+[submodule "Integration-Zabbix-Grapher-(sepich)/repo"]
+	path = Integration-Zabbix-Grapher-(sepich)/repo
+	url = https://github.com/sepich/zabbixGrapher
