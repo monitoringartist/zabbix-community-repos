@@ -559,3 +559,6 @@
 [submodule "Template-App-HDD-SMART-(v-zhuravlev)/repo"]
 	path = Template-App-HDD-SMART-(v-zhuravlev)/repo
 	url = https://github.com/v-zhuravlev/zbx-smartctl
+[submodule "Template-Database-MSSQL-(saycale)/repo"]
+	path = Template-Database-MSSQL-(saycale)/repo
+	url = https://github.com/saycale/zabbix_templates
