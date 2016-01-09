@@ -565,3 +565,6 @@
 [submodule "Integration-Zabbix-Grapher-(sepich)/repo"]
 	path = Integration-Zabbix-Grapher-(sepich)/repo
 	url = https://github.com/sepich/zabbixGrapher
+[submodule "Integration-Kubernetes-(monitoringartist)/repo"]
+	path = Integration-Kubernetes-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/kubernetes-zabbix
