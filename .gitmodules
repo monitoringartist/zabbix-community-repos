@@ -571,3 +571,6 @@
 [submodule "Integration-Grafana-with-Zabbix-datasource-(monitoringartist)/repo"]
 	path = Integration-Grafana-with-Zabbix-datasource-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/grafana-xxl
+[submodule "Script-Moodle-(gcavalcante8808)/repo"]
+	path = Script-Moodle-(gcavalcante8808)/repo
+	url = https://github.com/gcavalcante8808/zbx-moodle
