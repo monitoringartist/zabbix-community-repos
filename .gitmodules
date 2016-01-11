@@ -577,3 +577,6 @@
 [submodule "Integration-Dashboard-Dash-(PetzJohannes)/repo"]
 	path = Integration-Dashboard-Dash-(PetzJohannes)/repo
 	url = https://github.com/PetzJohannes/zabbix-dash
+[submodule "Integration-Zabbix-Sender-Erlang-(protofy)/repo"]
+	path = Integration-Zabbix-Sender-Erlang-(protofy)/repo
+	url = https://github.com/protofy/erl_zabbix_sender
