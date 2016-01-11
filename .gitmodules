@@ -574,3 +574,6 @@
 [submodule "Script-Moodle-(gcavalcante8808)/repo"]
 	path = Script-Moodle-(gcavalcante8808)/repo
 	url = https://github.com/gcavalcante8808/zbx-moodle
+[submodule "Integration-Dashboard-Dash-(PetzJohannes)/repo"]
+	path = Integration-Dashboard-Dash-(PetzJohannes)/repo
+	url = https://github.com/PetzJohannes/zabbix-dash
