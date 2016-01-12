@@ -580,3 +580,6 @@
 [submodule "Integration-Zabbix-Sender-Erlang-(protofy)/repo"]
 	path = Integration-Zabbix-Sender-Erlang-(protofy)/repo
 	url = https://github.com/protofy/erl_zabbix_sender
+[submodule "Template-HW-Mikrotik-BGP-(t1bur1an)/repo"]
+	path = Template-HW-Mikrotik-BGP-(t1bur1an)/repo
+	url = https://github.com/t1bur1an/ros_bgp
