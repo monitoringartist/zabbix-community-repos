@@ -583,3 +583,6 @@
 [submodule "Template-HW-Mikrotik-BGP-(t1bur1an)/repo"]
 	path = Template-HW-Mikrotik-BGP-(t1bur1an)/repo
 	url = https://github.com/t1bur1an/ros_bgp
+[submodule "CLI-Zabbix-Python-(teriyakichild)/repo"]
+	path = CLI-Zabbix-Python-(teriyakichild)/repo
+	url = https://github.com/teriyakichild/zabbixctl
