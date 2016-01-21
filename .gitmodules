@@ -586,3 +586,6 @@
 [submodule "CLI-Zabbix-Python-(teriyakichild)/repo"]
 	path = CLI-Zabbix-Python-(teriyakichild)/repo
 	url = https://github.com/teriyakichild/zabbixctl
+[submodule "Integration-Kafka-Metric-Consumer-(hengyunabc)/repo"]
+	path = Integration-Kafka-Metric-Consumer-(hengyunabc)/repo
+	url = https://github.com/hengyunabc/kafka-zabbix
