@@ -604,3 +604,6 @@
 [submodule "Template-HW-UBNT-UniFi-Proxy-(zbx-sadman)/repo"]
 	path = Template-HW-UBNT-UniFi-Proxy-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/unifi_proxy
+[submodule "Template-App-Asterisk-(alkali147)/repo"]
+	path = Template-App-Asterisk-(alkali147)/repo
+	url = https://github.com/alkali147/asterisk-zabbix
