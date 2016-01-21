@@ -601,3 +601,6 @@
 [submodule "Template-HW-UBNT-UniFi-Miner-(zbx-sadman)/repo"]
 	path = Template-HW-UBNT-UniFi-Miner-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/unifi_miner
+[submodule "Template-HW-UBNT-UniFi-Proxy-(zbx-sadman)/repo"]
+	path = Template-HW-UBNT-UniFi-Proxy-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/unifi_proxy
