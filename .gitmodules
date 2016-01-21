@@ -592,3 +592,6 @@
 [submodule "Template-App-Check-Dir-Content-(skindud)/repo"]
 	path = Template-App-Check-Dir-Content-(skindud)/repo
 	url = https://github.com/skindud/zabbix_checkdircontent
+[submodule "Integration-Arduino-Agent-(marcofischer)/repo"]
+	path = Integration-Arduino-Agent-(marcofischer)/repo
+	url = https://github.com/marcofischer/arduino-zabbix-agent
