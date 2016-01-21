@@ -589,3 +589,6 @@
 [submodule "Integration-Kafka-Metric-Consumer-(hengyunabc)/repo"]
 	path = Integration-Kafka-Metric-Consumer-(hengyunabc)/repo
 	url = https://github.com/hengyunabc/kafka-zabbix
+[submodule "Template-App-Check-Dir-Content-(skindud)/repo"]
+	path = Template-App-Check-Dir-Content-(skindud)/repo
+	url = https://github.com/skindud/zabbix_checkdircontent
