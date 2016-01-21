@@ -595,3 +595,6 @@
 [submodule "Integration-Arduino-Agent-(marcofischer)/repo"]
 	path = Integration-Arduino-Agent-(marcofischer)/repo
 	url = https://github.com/marcofischer/arduino-zabbix-agent
+[submodule "Integration-Arduino-Agent-(zbx-sadman)/repo"]
+	path = Integration-Arduino-Agent-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/zabbuino
