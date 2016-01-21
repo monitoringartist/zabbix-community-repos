@@ -598,3 +598,6 @@
 [submodule "Integration-Arduino-Agent-(zbx-sadman)/repo"]
 	path = Integration-Arduino-Agent-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/zabbuino
+[submodule "Template-HW-UBNT-UniFi-Miner-(zbx-sadman)/repo"]
+	path = Template-HW-UBNT-UniFi-Miner-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/unifi_miner
