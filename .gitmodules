@@ -613,3 +613,6 @@
 [submodule "Template-HW-Juniper-Ex-(heximcz)/repo"]
 	path = Template-HW-Juniper-Ex-(heximcz)/repo
 	url = https://github.com/heximcz/zabbix-juniper-ex
+[submodule "Template-HW-Ruckus-ZoneDirector-(pierre2jean)/repo"]
+	path = Template-HW-Ruckus-ZoneDirector-(pierre2jean)/repo
+	url = https://github.com/pierre2jean/Zabbix-Templates
