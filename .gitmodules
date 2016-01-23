@@ -607,3 +607,6 @@
 [submodule "Template-App-Asterisk-(alkali147)/repo"]
 	path = Template-App-Asterisk-(alkali147)/repo
 	url = https://github.com/alkali147/asterisk-zabbix
+[submodule "Template-App-Rdiff-(H-Software)/repo"]
+	path = Template-App-Rdiff-(H-Software)/repo
+	url = https://github.com/H-Software/Zabbix-Template-Rdiff-backup-stats
