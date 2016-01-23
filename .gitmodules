@@ -610,3 +610,6 @@
 [submodule "Template-App-Rdiff-(H-Software)/repo"]
 	path = Template-App-Rdiff-(H-Software)/repo
 	url = https://github.com/H-Software/Zabbix-Template-Rdiff-backup-stats
+[submodule "Template-HW-Juniper-Ex-(heximcz)/repo"]
+	path = Template-HW-Juniper-Ex-(heximcz)/repo
+	url = https://github.com/heximcz/zabbix-juniper-ex
