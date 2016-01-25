@@ -670,3 +670,6 @@
 [submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo"]
 	path = Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo
 	url = https://github.com/ahelal/ansible-zabbix_agent
+[submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(dj-wasabi)/repo"]
+	path = Configuration-Ansible-Zabbix-Agent-Playbook-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/ansible-zabbix-agent
