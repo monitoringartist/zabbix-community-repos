@@ -637,3 +637,6 @@
 [submodule "API-Perl-Wazapi-(dimir)/repo"]
 	path = API-Perl-Wazapi-(dimir)/repo
 	url = https://github.com/dimir/wazapi
+[submodule "API-Perl-Zabipi-(DRVTiny)/repo"]
+	path = API-Perl-Zabipi-(DRVTiny)/repo
+	url = https://github.com/DRVTiny/Zabipi
