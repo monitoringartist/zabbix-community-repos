@@ -706,3 +706,6 @@
 [submodule "Integration-Blackbird-Agent-(Vagrants)/repo"]
 	path = Integration-Blackbird-Agent-(Vagrants)/repo
 	url = https://github.com/Vagrants/blackbird
+[submodule "Integration-Bash-Completion-(zabbix)/repo"]
+	path = Integration-Bash-Completion-(zabbix)/repo
+	url = https://github.com/zabbix/zabbix-bash-completion
