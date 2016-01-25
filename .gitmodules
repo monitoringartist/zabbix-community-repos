@@ -703,3 +703,6 @@
 [submodule "Integration-Chrome-Extension-(ikd-work)/repo"]
 	path = Integration-Chrome-Extension-(ikd-work)/repo
 	url = https://github.com/ikd-work/chromix
+[submodule "Integration-Blackbird-Agent-(Vagrants)/repo"]
+	path = Integration-Blackbird-Agent-(Vagrants)/repo
+	url = https://github.com/Vagrants/blackbird
