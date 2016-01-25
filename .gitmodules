@@ -709,3 +709,6 @@
 [submodule "Integration-Bash-Completion-(zabbix)/repo"]
 	path = Integration-Bash-Completion-(zabbix)/repo
 	url = https://github.com/zabbix/zabbix-bash-completion
+[submodule "Integration-Dashboard-CLI-(funkygao)/repo"]
+	path = Integration-Dashboard-CLI-(funkygao)/repo
+	url = https://github.com/funkygao/zb
