@@ -1,1 +1,1 @@
-[Link - Configuration-Ansible-Zabbix-Proxy-Playbook-(dj-wasabi](https://github.com/dj-wasabi/ansible-zabbix-proxy)
+[Link - Configuration Ansible Zabbix Proxy Playbook (dj-wasabi)](https://github.com/dj-wasabi/ansible-zabbix-proxy)
