@@ -664,3 +664,6 @@
 [submodule "CLI-Zabbix-Python-(usit-gd)/repo"]
 	path = CLI-Zabbix-Python-(usit-gd)/repo
 	url = https://github.com/usit-gd/zabbix-cli
+[submodule "CLI-Zabbix-Tool-(BrianGallew)/repo"]
+	path = CLI-Zabbix-Tool-(BrianGallew)/repo
+	url = https://github.com/BrianGallew/zabbix_tool
