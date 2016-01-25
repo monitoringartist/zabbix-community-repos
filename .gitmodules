@@ -616,3 +616,6 @@
 [submodule "Template-HW-Ruckus-ZoneDirector-(pierre2jean)/repo"]
 	path = Template-HW-Ruckus-ZoneDirector-(pierre2jean)/repo
 	url = https://github.com/pierre2jean/Zabbix-Templates
+[submodule "API-.Net-(yosqueoy)/repo"]
+	path = API-.Net-(yosqueoy)/repo
+	url = https://github.com/yosqueoy/Zabbix-API-for-.NET
