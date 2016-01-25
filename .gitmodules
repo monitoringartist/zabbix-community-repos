@@ -700,3 +700,6 @@
 [submodule "Integration-Comments-In-Dashboard-(kiwwino)/repo"]
 	path = Integration-Comments-In-Dashboard-(kiwwino)/repo
 	url = https://github.com/kiwwino/zabbix-dashboard-comments
+[submodule "Integration-Chrome-Extension-(ikd-work)/repo"]
+	path = Integration-Chrome-Extension-(ikd-work)/repo
+	url = https://github.com/ikd-work/chromix
