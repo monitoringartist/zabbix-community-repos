@@ -643,3 +643,6 @@
 [submodule "API-Python-(baniuyao)/repo"]
 	path = API-Python-(baniuyao)/repo
 	url = https://github.com/baniuyao/ZabbixPythonApi
+[submodule "CLI-Zabbix-Bash-(hansode)/repo"]
+	path = CLI-Zabbix-Bash-(hansode)/repo
+	url = https://github.com/hansode/zabbix-bash
