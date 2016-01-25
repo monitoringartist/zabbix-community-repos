@@ -634,3 +634,6 @@
 [submodule "API-Javascript-Zabbix.js-(flexd)/repo"]
 	path = API-Javascript-Zabbix.js-(flexd)/repo
 	url = https://github.com/pawmint/zabbix.js
+[submodule "API-Perl-Wazapi-(dimir)/repo"]
+	path = API-Perl-Wazapi-(dimir)/repo
+	url = https://github.com/dimir/wazapi
