@@ -640,3 +640,6 @@
 [submodule "API-Perl-Zabipi-(DRVTiny)/repo"]
 	path = API-Perl-Zabipi-(DRVTiny)/repo
 	url = https://github.com/DRVTiny/Zabipi
+[submodule "API-Python-(baniuyao)/repo"]
+	path = API-Python-(baniuyao)/repo
+	url = https://github.com/baniuyao/ZabbixPythonApi
