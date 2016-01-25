@@ -691,3 +691,6 @@
 [submodule "Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo"]
 	path = Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo
 	url = https://github.com/dj-wasabi/puppet-zabbix
+[submodule "Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo"]
+	path = Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo
+	url = https://github.com/saltstack-formulas/zabbix-formula
