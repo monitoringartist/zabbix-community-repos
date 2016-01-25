@@ -652,3 +652,6 @@
 [submodule "API-Python-Pyzabbix-(lukecyca)/repo"]
 	path = API-Python-Pyzabbix-(lukecyca)/repo
 	url = https://github.com/lukecyca/pyzabbix
+[submodule "API-Ruby-Api-Module-(express42)/repo"]
+	path = API-Ruby-Api-Module-(express42)/repo
+	url = https://github.com/express42/zabbixapi
