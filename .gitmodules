@@ -628,3 +628,6 @@
 [submodule "API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo"]
 	path = API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo
 	url = https://github.com/lundgrenalex/microzabbixapiconnector
+[submodule "API-Javascript-JQuery-Jqzabbix-(kodai)/repo"]
+	path = API-Javascript-JQuery-Jqzabbix-(kodai)/repo
+	url = https://github.com/kodai/jqzabbix
