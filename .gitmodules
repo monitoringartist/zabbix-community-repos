@@ -631,3 +631,6 @@
 [submodule "API-Javascript-JQuery-Jqzabbix-(kodai)/repo"]
 	path = API-Javascript-JQuery-Jqzabbix-(kodai)/repo
 	url = https://github.com/kodai/jqzabbix
+[submodule "API-Javascript-Zabbix.js-(flexd)/repo"]
+	path = API-Javascript-Zabbix.js-(flexd)/repo
+	url = https://github.com/pawmint/zabbix.js
