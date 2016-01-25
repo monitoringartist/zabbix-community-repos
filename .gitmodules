@@ -667,3 +667,6 @@
 [submodule "CLI-Zabbix-Tool-(BrianGallew)/repo"]
 	path = CLI-Zabbix-Tool-(BrianGallew)/repo
 	url = https://github.com/BrianGallew/zabbix_tool
+[submodule "Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo"]
+	path = Configuration-Ansible-Zabbix-Agent-Playbook-(ahelal)/repo
+	url = https://github.com/ahelal/ansible-zabbix_agent
