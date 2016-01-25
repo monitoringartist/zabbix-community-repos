@@ -619,3 +619,6 @@
 [submodule "API-.Net-(yosqueoy)/repo"]
 	path = API-.Net-(yosqueoy)/repo
 	url = https://github.com/yosqueoy/Zabbix-API-for-.NET
+[submodule "API-Go-(AlekSi)/repo"]
+	path = API-Go-(AlekSi)/repo
+	url = https://github.com/AlekSi/zabbix
