@@ -625,3 +625,6 @@
 [submodule "Api-Java-(micw)/repo"]
 	path = Api-Java-(micw)/repo
 	url = https://github.com/micw/java-zabbix-api
+[submodule "API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo"]
+	path = API-PHP-MicroZabbixApiConnector-(lundgrenalex)/repo
+	url = https://github.com/lundgrenalex/microzabbixapiconnector
