@@ -649,3 +649,6 @@
 [submodule "CLI-Zabbix-Gnomes-(q1x)/repo"]
 	path = CLI-Zabbix-Gnomes-(q1x)/repo
 	url = https://github.com/q1x/zabbix-gnomes
+[submodule "API-Python-Pyzabbix-(lukecyca)/repo"]
+	path = API-Python-Pyzabbix-(lukecyca)/repo
+	url = https://github.com/lukecyca/pyzabbix
