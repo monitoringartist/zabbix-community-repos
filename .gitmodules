@@ -694,3 +694,6 @@
 [submodule "Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo"]
 	path = Configuration-Saltstack-Zabbix-Formula-(saltstack-formulas)/repo
 	url = https://github.com/saltstack-formulas/zabbix-formula
+[submodule "Integration-D3js-widgets-(hgruber)/repo"]
+	path = Integration-D3js-widgets-(hgruber)/repo
+	url = https://github.com/hgruber/zabbix-d3js-widgets
