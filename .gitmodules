@@ -655,3 +655,6 @@
 [submodule "API-Ruby-Api-Module-(express42)/repo"]
 	path = API-Ruby-Api-Module-(express42)/repo
 	url = https://github.com/express42/zabbixapi
+[submodule "API-Ruby-Rubix-(dhruvbansal)/repo"]
+	path = API-Ruby-Rubix-(dhruvbansal)/repo
+	url = https://github.com/dhruvbansal/rubix
