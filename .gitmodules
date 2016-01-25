@@ -697,3 +697,6 @@
 [submodule "Integration-D3js-widgets-(hgruber)/repo"]
 	path = Integration-D3js-widgets-(hgruber)/repo
 	url = https://github.com/hgruber/zabbix-d3js-widgets
+[submodule "Integration-Comments-In-Dashboard-(kiwwino)/repo"]
+	path = Integration-Comments-In-Dashboard-(kiwwino)/repo
+	url = https://github.com/kiwwino/zabbix-dashboard-comments
