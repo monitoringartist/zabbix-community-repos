@@ -688,3 +688,6 @@
 [submodule "Configuration-Chef-Zabbix-Cookbook-(laradji)/repo"]
 	path = Configuration-Chef-Zabbix-Cookbook-(laradji)/repo
 	url = https://github.com/laradji/zabbix
+[submodule "Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo"]
+	path = Configuration-Puppet-Zabbix-Module-(dj-wasabi)/repo
+	url = https://github.com/dj-wasabi/puppet-zabbix
