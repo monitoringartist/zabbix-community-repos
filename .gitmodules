@@ -646,3 +646,6 @@
 [submodule "CLI-Zabbix-Bash-(hansode)/repo"]
 	path = CLI-Zabbix-Bash-(hansode)/repo
 	url = https://github.com/hansode/zabbix-bash
+[submodule "CLI-Zabbix-Gnomes-(q1x)/repo"]
+	path = CLI-Zabbix-Gnomes-(q1x)/repo
+	url = https://github.com/q1x/zabbix-gnomes
