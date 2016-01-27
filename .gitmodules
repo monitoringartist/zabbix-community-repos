@@ -1549,3 +1549,6 @@
 [submodule "Integration-NodeConductor-(opennode)/repo"]
 	path = Integration-NodeConductor-(opennode)/repo
 	url = https://github.com/opennode/nodeconductor-zabbix
+[submodule "Template-App-RSTP-(endersonmaia)/repo"]
+	path = Template-App-RSTP-(endersonmaia)/repo
+	url = https://github.com/endersonmaia/zabbix-templates
