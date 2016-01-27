@@ -1552,3 +1552,6 @@
 [submodule "Template-App-RSTP-(endersonmaia)/repo"]
 	path = Template-App-RSTP-(endersonmaia)/repo
 	url = https://github.com/endersonmaia/zabbix-templates
+[submodule "Template-App-Dell-iDrac-(endersonmaia)/repo"]
+	path = Template-App-Dell-iDrac-(endersonmaia)/repo
+	url = https://github.com/endersonmaia/zabbix-templates
