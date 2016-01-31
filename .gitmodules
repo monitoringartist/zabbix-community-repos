@@ -1561,3 +1561,6 @@
 [submodule "Template-Database-Aerospike-(rguo-aerospike)/repo"]
 	path = Template-Database-Aerospike-(rguo-aerospike)/repo
 	url = https://github.com/rguo-aerospike/aerospike-zabbix
+[submodule "Template-App-DRBD-(AlekseyChudov)/repo"]
+	path = Template-App-DRBD-(AlekseyChudov)/repo
+	url = https://github.com/AlekseyChudov/zabbix-templates
