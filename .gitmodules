@@ -1558,3 +1558,6 @@
 [submodule "Template-App-VMware-ESXi-(pfoo)/repo"]
 	path = Template-App-VMware-ESXi-(pfoo)/repo
 	url = https://github.com/pfoo/zabbix-esxi
+[submodule "Template-Database-Aerospike-(rguo-aerospike)/repo"]
+	path = Template-Database-Aerospike-(rguo-aerospike)/repo
+	url = https://github.com/rguo-aerospike/aerospike-zabbix
