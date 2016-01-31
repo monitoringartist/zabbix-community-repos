@@ -1564,3 +1564,6 @@
 [submodule "Template-App-DRBD-(AlekseyChudov)/repo"]
 	path = Template-App-DRBD-(AlekseyChudov)/repo
 	url = https://github.com/AlekseyChudov/zabbix-templates
+[submodule "Template-App-Pacemaker-(AlekseyChudov)/repo"]
+	path = Template-App-Pacemaker-(AlekseyChudov)/repo
+	url = https://github.com/AlekseyChudov/zabbix-templates
