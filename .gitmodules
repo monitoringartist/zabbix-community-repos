@@ -1573,3 +1573,6 @@
 [submodule "Template-App-Zimbra-(gatespb)/repo"]
 	path = Template-App-Zimbra-(gatespb)/repo
 	url = https://github.com/gatespb/zabbix_templates
+[submodule "Template-UPS-APC-(gatespb)/repo"]
+	path = Template-UPS-APC-(gatespb)/repo
+	url = https://github.com/gatespb/zabbix_templates
