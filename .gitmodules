@@ -1576,3 +1576,6 @@
 [submodule "Template-UPS-APC-(gatespb)/repo"]
 	path = Template-UPS-APC-(gatespb)/repo
 	url = https://github.com/gatespb/zabbix_templates
+[submodule "Template-App-AWS-(ike-dai)/repo"]
+	path = Template-App-AWS-(ike-dai)/repo
+	url = https://github.com/ike-dai/zaws
