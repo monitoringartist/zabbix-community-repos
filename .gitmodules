@@ -1570,3 +1570,6 @@
 [submodule "API-Perl-Tiny-(whosgonna)/repo"]
 	path = API-Perl-Tiny-(whosgonna)/repo
 	url = https://github.com/whosgonna/Zabbix-Tiny.pm
+[submodule "Template-App-Zimbra-(gatespb)/repo"]
+	path = Template-App-Zimbra-(gatespb)/repo
+	url = https://github.com/gatespb/zabbix_templates
