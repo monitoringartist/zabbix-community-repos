@@ -1582,3 +1582,6 @@
 [submodule "Template-App-Lets-Encrypt-(sprokhorov)/repo"]
 	path = Template-App-Lets-Encrypt-(sprokhorov)/repo
 	url = https://github.com/sprokhorov/zabbix_letsencrypt
+[submodule "Template-App-Windows-Server-Update-Services---WSUS-(zbx-sadman)/repo"]
+	path = Template-App-Windows-Server-Update-Services---WSUS-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/wsus
