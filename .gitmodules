@@ -1579,3 +1579,6 @@
 [submodule "Template-App-AWS-(ike-dai)/repo"]
 	path = Template-App-AWS-(ike-dai)/repo
 	url = https://github.com/ike-dai/zaws
+[submodule "Template-App-Lets-Encrypt-(sprokhorov)/repo"]
+	path = Template-App-Lets-Encrypt-(sprokhorov)/repo
+	url = https://github.com/sprokhorov/zabbix_letsencrypt
