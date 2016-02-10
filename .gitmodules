@@ -1603,3 +1603,6 @@
 [submodule "Template-HW-Riverbed-Steelhead-(bradpeczka)/repo"]
 	path = Template-HW-Riverbed-Steelhead-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-HW-Ubiquiti-(bradpeczka)/repo"]
+	path = Template-HW-Ubiquiti-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
