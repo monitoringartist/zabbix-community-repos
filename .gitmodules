@@ -1588,3 +1588,6 @@
 [submodule "Template-HW-4RF-(bradpeczka)/repo"]
 	path = Template-HW-4RF-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-UPS-APC-(bradpeczka)/repo"]
+	path = Template-UPS-APC-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
