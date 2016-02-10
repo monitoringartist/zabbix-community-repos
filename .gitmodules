@@ -1597,3 +1597,6 @@
 [submodule "Template-UPS-Eaton-(bradpeczka)/repo"]
 	path = Template-UPS-Eaton-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-HW-Emerson-Liebert-CRAC-(bradpeczka)/repo"]
+	path = Template-HW-Emerson-Liebert-CRAC-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
