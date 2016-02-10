@@ -1594,3 +1594,6 @@
 [submodule "Template-HW-Cisco-WLC-(bradpeczka)/repo"]
 	path = Template-HW-Cisco-WLC-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-UPS-Eaton-(bradpeczka)/repo"]
+	path = Template-UPS-Eaton-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
