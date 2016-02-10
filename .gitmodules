@@ -1585,3 +1585,6 @@
 [submodule "Template-App-Windows-Server-Update-Services---WSUS-(zbx-sadman)/repo"]
 	path = Template-App-Windows-Server-Update-Services---WSUS-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/wsus
+[submodule "Template-HW-4RF-(bradpeczka)/repo"]
+	path = Template-HW-4RF-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
