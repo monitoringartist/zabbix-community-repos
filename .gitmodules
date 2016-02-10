@@ -1591,3 +1591,6 @@
 [submodule "Template-UPS-APC-(bradpeczka)/repo"]
 	path = Template-UPS-APC-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-HW-Cisco-WLC-(bradpeczka)/repo"]
+	path = Template-HW-Cisco-WLC-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
