@@ -1600,3 +1600,6 @@
 [submodule "Template-HW-Emerson-Liebert-CRAC-(bradpeczka)/repo"]
 	path = Template-HW-Emerson-Liebert-CRAC-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-HW-Riverbed-Steelhead-(bradpeczka)/repo"]
+	path = Template-HW-Riverbed-Steelhead-(bradpeczka)/repo
+	url = https://github.com/bradpeczka/zabbix
