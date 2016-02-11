@@ -1615,3 +1615,6 @@
 [submodule "API-Lua-(olevole)/repo"]
 	path = API-Lua-(olevole)/repo
 	url = https://github.com/olevole/ZabbixApi-with-LUA
+[submodule "Template-App-Apache-(marijngiesen)/repo"]
+	path = Template-App-Apache-(marijngiesen)/repo
+	url = https://github.com/marijngiesen/zabbix-ems
