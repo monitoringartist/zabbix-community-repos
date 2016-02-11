@@ -3,6 +3,8 @@ Zabbix Community Repos
 
 If you like or use this project please provide feedback - Star it ★.
 
+Visit also [Search web UI interface](http://monitoringartist.github.io/zabbix-searcher).
+
 This repository serves as a sort of master repository of various community repos that people have come across.
 Please create [pull request](https://help.github.com/articles/creating-a-pull-request/), if you know some useful Zabbix stuff. 
 
