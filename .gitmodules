@@ -1612,3 +1612,6 @@
 [submodule "Integration-Dashboard-PHP-sysMonDash-(nuxsmin)/repo"]
 	path = Integration-Dashboard-PHP-sysMonDash-(nuxsmin)/repo
 	url = https://github.com/nuxsmin/sysMonDash
+[submodule "API-Lua-(olevole)/repo"]
+	path = API-Lua-(olevole)/repo
+	url = https://github.com/olevole/ZabbixApi-with-LUA
