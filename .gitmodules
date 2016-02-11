@@ -1633,3 +1633,6 @@
 [submodule "Template-App-Radiator-(marijngiesen)/repo"]
 	path = Template-App-Radiator-(marijngiesen)/repo
 	url = https://github.com/marijngiesen/zabbix-ems
+[submodule "Template-App-Rdiff-backup-(marijngiesen)/repo"]
+	path = Template-App-Rdiff-backup-(marijngiesen)/repo
+	url = https://github.com/marijngiesen/zabbix-ems
