@@ -1639,3 +1639,6 @@
 [submodule "Template-App-Redis-(marijngiesen)/repo"]
 	path = Template-App-Redis-(marijngiesen)/repo
 	url = https://github.com/marijngiesen/zabbix-ems
+[submodule "Template-App-Sphinx-(marijngiesen)/repo"]
+	path = Template-App-Sphinx-(marijngiesen)/repo
+	url = https://github.com/marijngiesen/zabbix-ems
