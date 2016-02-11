@@ -1609,3 +1609,6 @@
 [submodule "Template-App-CUPS-(a-schild)/repo"]
 	path = Template-App-CUPS-(a-schild)/repo
 	url = https://github.com/a-schild/zabbix-cups
+[submodule "Integration-Dashboard-PHP-sysMonDash-(nuxsmin)/repo"]
+	path = Integration-Dashboard-PHP-sysMonDash-(nuxsmin)/repo
+	url = https://github.com/nuxsmin/sysMonDash
