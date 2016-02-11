@@ -1630,3 +1630,6 @@
 [submodule "Template-App-Nginx-(marijngiesen)/repo"]
 	path = Template-App-Nginx-(marijngiesen)/repo
 	url = https://github.com/marijngiesen/zabbix-ems
+[submodule "Template-App-Radiator-(marijngiesen)/repo"]
+	path = Template-App-Radiator-(marijngiesen)/repo
+	url = https://github.com/marijngiesen/zabbix-ems
