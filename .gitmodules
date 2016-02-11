@@ -1606,3 +1606,6 @@
 [submodule "Template-HW-Ubiquiti-(bradpeczka)/repo"]
 	path = Template-HW-Ubiquiti-(bradpeczka)/repo
 	url = https://github.com/bradpeczka/zabbix
+[submodule "Template-App-CUPS-(a-schild)/repo"]
+	path = Template-App-CUPS-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-cups
