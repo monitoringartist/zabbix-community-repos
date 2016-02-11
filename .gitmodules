@@ -1618,3 +1618,6 @@
 [submodule "Template-App-Apache-(marijngiesen)/repo"]
 	path = Template-App-Apache-(marijngiesen)/repo
 	url = https://github.com/marijngiesen/zabbix-ems
+[submodule "Template-App-DHCPd-(marijngiesen)/repo"]
+	path = Template-App-DHCPd-(marijngiesen)/repo
+	url = https://github.com/marijngiesen/zabbix-ems
