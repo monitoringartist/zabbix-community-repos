@@ -1657,3 +1657,6 @@
 [submodule "Integration-OpenStack-Fuel-EMC-(openstack)/repo"]
 	path = Integration-OpenStack-Fuel-EMC-(openstack)/repo
 	url = https://github.com/openstack/fuel-plugin-zabbix-monitoring-emc
+[submodule "Integration-Frontend-SnmpBuilder-(macrokernel)/repo"]
+	path = Integration-Frontend-SnmpBuilder-(macrokernel)/repo
+	url = https://github.com/macrokernel/zabbix-snmpbuilder
