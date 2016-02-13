@@ -1645,3 +1645,6 @@
 [submodule "Script-Celery-Tracker-(ikeikeikeike)/repo"]
 	path = Script-Celery-Tracker-(ikeikeikeike)/repo
 	url = https://github.com/ikeikeikeike/celery-tracker
+[submodule "Integration-OpenStack-Fuel-External-Zabbix-(openstack)/repo"]
+	path = Integration-OpenStack-Fuel-External-Zabbix-(openstack)/repo
+	url = https://github.com/openstack/fuel-plugin-external-zabbix
