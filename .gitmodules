@@ -1654,3 +1654,6 @@
 [submodule "Integration-OpenStack-Fuel-Extreme-Networks-(openstack)/repo"]
 	path = Integration-OpenStack-Fuel-Extreme-Networks-(openstack)/repo
 	url = https://github.com/openstack/fuel-plugin-zabbix-monitoring-extreme-networks
+[submodule "Integration-OpenStack-Fuel-EMC-(openstack)/repo"]
+	path = Integration-OpenStack-Fuel-EMC-(openstack)/repo
+	url = https://github.com/openstack/fuel-plugin-zabbix-monitoring-emc
