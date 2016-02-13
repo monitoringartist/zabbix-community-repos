@@ -1642,3 +1642,6 @@
 [submodule "Template-App-Sphinx-(marijngiesen)/repo"]
 	path = Template-App-Sphinx-(marijngiesen)/repo
 	url = https://github.com/marijngiesen/zabbix-ems
+[submodule "Script-Celery-Tracker-(ikeikeikeike)/repo"]
+	path = Script-Celery-Tracker-(ikeikeikeike)/repo
+	url = https://github.com/ikeikeikeike/celery-tracker
