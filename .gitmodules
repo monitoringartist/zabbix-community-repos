@@ -1651,3 +1651,6 @@
 [submodule "Integration-OpenStack-Fuel-External-Zabbix-SNMPtrapd-(openstack)/repo"]
 	path = Integration-OpenStack-Fuel-External-Zabbix-SNMPtrapd-(openstack)/repo
 	url = https://github.com/openstack/fuel-plugin-zabbix-snmptrapd
+[submodule "Integration-OpenStack-Fuel-Extreme-Networks-(openstack)/repo"]
+	path = Integration-OpenStack-Fuel-Extreme-Networks-(openstack)/repo
+	url = https://github.com/openstack/fuel-plugin-zabbix-monitoring-extreme-networks
