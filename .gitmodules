@@ -1660,3 +1660,6 @@
 [submodule "Integration-Frontend-SnmpBuilder-(macrokernel)/repo"]
 	path = Integration-Frontend-SnmpBuilder-(macrokernel)/repo
 	url = https://github.com/macrokernel/zabbix-snmpbuilder
+[submodule "Template-App-VPN-IPSEC-(a-schild)/repo"]
+	path = Template-App-VPN-IPSEC-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-ipsec
