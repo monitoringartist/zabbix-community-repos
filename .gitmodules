@@ -1666,3 +1666,6 @@
 [submodule "Integration-Agent-Docker-image-with-Docker-monitoring-support-(monitoringartist)/repo"]
 	path = Integration-Agent-Docker-image-with-Docker-monitoring-support-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-agent-xxl
+[submodule "Template-HW-IBM-Storage-DS3512-(gghuber)/repo"]
+	path = Template-HW-IBM-Storage-DS3512-(gghuber)/repo
+	url = https://github.com/gghuber/Zabbix-Template-IBM-System-Storage-DS3512
