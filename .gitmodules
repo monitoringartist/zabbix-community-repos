@@ -1663,3 +1663,6 @@
 [submodule "Template-App-VPN-IPSEC-(a-schild)/repo"]
 	path = Template-App-VPN-IPSEC-(a-schild)/repo
 	url = https://github.com/a-schild/zabbix-ipsec
+[submodule "Integration-Agent-Docker-image-with-Docker-monitoring-support-(monitoringartist)/repo"]
+	path = Integration-Agent-Docker-image-with-Docker-monitoring-support-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-agent-xxl
