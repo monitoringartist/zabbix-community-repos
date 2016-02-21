@@ -1675,3 +1675,6 @@
 [submodule "API-Go-(tkuchiki)/repo"]
 	path = API-Go-(tkuchiki)/repo
 	url = https://github.com/tkuchiki/zabbix-api-caller
+[submodule "Script-Alert-Slack-(shin1x1)/repo"]
+	path = Script-Alert-Slack-(shin1x1)/repo
+	url = https://github.com/shin1x1/zabbix-slack-notification
