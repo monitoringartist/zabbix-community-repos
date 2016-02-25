@@ -1684,3 +1684,6 @@
 [submodule "Template-HW-Supermicro-IPMI-A1SAM-2750F-(pfoo)/repo"]
 	path = Template-HW-Supermicro-IPMI-A1SAM-2750F-(pfoo)/repo
 	url = https://github.com/pfoo/zabbix-motherboards-templates
+[submodule "Template-HW-Dell-R515-(karlesnine)/repo"]
+	path = Template-HW-Dell-R515-(karlesnine)/repo
+	url = https://github.com/karlesnine/Zabbix-ipmi-template-Dell
