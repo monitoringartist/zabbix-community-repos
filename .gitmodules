@@ -1690,3 +1690,6 @@
 [submodule "Template-HW-Dell-R815-(karlesnine)/repo"]
 	path = Template-HW-Dell-R815-(karlesnine)/repo
 	url = https://github.com/karlesnine/Zabbix-ipmi-template-Dell
+[submodule "Template-HW-Dell-R630-(karlesnine)/repo"]
+	path = Template-HW-Dell-R630-(karlesnine)/repo
+	url = https://github.com/karlesnine/Zabbix-ipmi-template-Dell
