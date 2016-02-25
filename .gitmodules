@@ -1678,3 +1678,6 @@
 [submodule "Script-Alert-Slack-(shin1x1)/repo"]
 	path = Script-Alert-Slack-(shin1x1)/repo
 	url = https://github.com/shin1x1/zabbix-slack-notification
+[submodule "Template-HW-Dell-PowerEdge-R630-OMSA-(wangjunj)/repo"]
+	path = Template-HW-Dell-PowerEdge-R630-OMSA-(wangjunj)/repo
+	url = https://github.com/wangjunj/zabbix-omsa-dell
