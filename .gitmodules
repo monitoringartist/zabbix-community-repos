@@ -1681,3 +1681,6 @@
 [submodule "Template-HW-Dell-PowerEdge-R630-OMSA-(wangjunj)/repo"]
 	path = Template-HW-Dell-PowerEdge-R630-OMSA-(wangjunj)/repo
 	url = https://github.com/wangjunj/zabbix-omsa-dell
+[submodule "Template-HW-Supermicro-IPMI-A1SAM-2750F-(pfoo)/repo"]
+	path = Template-HW-Supermicro-IPMI-A1SAM-2750F-(pfoo)/repo
+	url = https://github.com/pfoo/zabbix-motherboards-templates
