@@ -1693,3 +1693,6 @@
 [submodule "Template-HW-Dell-R630-(karlesnine)/repo"]
 	path = Template-HW-Dell-R630-(karlesnine)/repo
 	url = https://github.com/karlesnine/Zabbix-ipmi-template-Dell
+[submodule "Template-HW-Juniper-MX-BGP4-(Prototype-X)/repo"]
+	path = Template-HW-Juniper-MX-BGP4-(Prototype-X)/repo
+	url = https://github.com/Prototype-X/Zabbix-Template-Juniper-MX-BGP4-ipv4-ipv6
