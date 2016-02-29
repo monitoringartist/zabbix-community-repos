@@ -1696,3 +1696,6 @@
 [submodule "Template-HW-Juniper-MX-BGP4-(Prototype-X)/repo"]
 	path = Template-HW-Juniper-MX-BGP4-(Prototype-X)/repo
 	url = https://github.com/Prototype-X/Zabbix-Template-Juniper-MX-BGP4-ipv4-ipv6
+[submodule "Template-Database-Couchbase-(myaaaaa-chan)/repo"]
+	path = Template-Database-Couchbase-(myaaaaa-chan)/repo
+	url = https://github.com/myaaaaa-chan/zabbix-couchbase-template
