@@ -1708,3 +1708,6 @@
 [submodule "Template-App-Hadoop-(marcocaberletti)/repo"]
 	path = Template-App-Hadoop-(marcocaberletti)/repo
 	url = https://github.com/marcocaberletti/zabbix-plugins
+[submodule "Template-App-Iostat-(marcocaberletti)/repo"]
+	path = Template-App-Iostat-(marcocaberletti)/repo
+	url = https://github.com/marcocaberletti/zabbix-plugins
