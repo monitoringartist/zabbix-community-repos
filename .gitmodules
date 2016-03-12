@@ -1711,3 +1711,6 @@
 [submodule "Template-App-Iostat-(marcocaberletti)/repo"]
 	path = Template-App-Iostat-(marcocaberletti)/repo
 	url = https://github.com/marcocaberletti/zabbix-plugins
+[submodule "Template-App-RabbitMQ-(marcocaberletti)/repo"]
+	path = Template-App-RabbitMQ-(marcocaberletti)/repo
+	url = https://github.com/marcocaberletti/zabbix-plugins
