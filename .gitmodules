@@ -1705,3 +1705,6 @@
 [submodule "Script-LDAP-sync-(PetzJohannes)/repo"]
 	path = Script-LDAP-sync-(PetzJohannes)/repo
 	url = https://github.com/PetzJohannes/ldap2zabbix
+[submodule "Template-App-Hadoop-(marcocaberletti)/repo"]
+	path = Template-App-Hadoop-(marcocaberletti)/repo
+	url = https://github.com/marcocaberletti/zabbix-plugins
