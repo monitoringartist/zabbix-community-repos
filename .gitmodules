@@ -1714,3 +1714,6 @@
 [submodule "Template-App-RabbitMQ-(marcocaberletti)/repo"]
 	path = Template-App-RabbitMQ-(marcocaberletti)/repo
 	url = https://github.com/marcocaberletti/zabbix-plugins
+[submodule "Template-App-Redis-(marcocaberletti)/repo"]
+	path = Template-App-Redis-(marcocaberletti)/repo
+	url = https://github.com/marcocaberletti/zabbix-plugins
