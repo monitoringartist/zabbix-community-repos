@@ -1702,3 +1702,6 @@
 [submodule "Template-App-Dnsdist-(mpiscaer)/repo"]
 	path = Template-App-Dnsdist-(mpiscaer)/repo
 	url = https://github.com/mpiscaer/zabbix_dnsdist
+[submodule "Script-LDAP-sync-(PetzJohannes)/repo"]
+	path = Script-LDAP-sync-(PetzJohannes)/repo
+	url = https://github.com/PetzJohannes/ldap2zabbix
