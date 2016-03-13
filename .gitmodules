@@ -1720,3 +1720,6 @@
 [submodule "API-online-tool-(monitoringartist)/repo"]
 	path = API-online-tool-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zapix
+[submodule "Integration-Zabbix-Package-Repo-(monitoringartist)/repo"]
+	path = Integration-Zabbix-Package-Repo-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-package-repo
