@@ -1717,3 +1717,6 @@
 [submodule "Template-App-Redis-(marcocaberletti)/repo"]
 	path = Template-App-Redis-(marcocaberletti)/repo
 	url = https://github.com/marcocaberletti/zabbix-plugins
+[submodule "API-online-tool-(monitoringartist)/repo"]
+	path = API-online-tool-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zapix
