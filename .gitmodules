@@ -1723,3 +1723,6 @@
 [submodule "Integration-Zabbix-Package-Repo-(monitoringartist)/repo"]
 	path = Integration-Zabbix-Package-Repo-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-package-repo
+[submodule "Script-Storm-(andyroyle)/repo"]
+	path = Script-Storm-(andyroyle)/repo
+	url = https://github.com/andyroyle/storm-zabbix
