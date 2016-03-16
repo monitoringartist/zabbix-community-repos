@@ -1726,3 +1726,6 @@
 [submodule "Script-Storm-(andyroyle)/repo"]
 	path = Script-Storm-(andyroyle)/repo
 	url = https://github.com/andyroyle/storm-zabbix
+[submodule "Module-Sendmail-(smoeding)/repo"]
+	path = Module-Sendmail-(smoeding)/repo
+	url = https://github.com/smoeding/zabbix-sendmail
