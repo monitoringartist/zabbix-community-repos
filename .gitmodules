@@ -1729,3 +1729,6 @@
 [submodule "Module-Sendmail-(smoeding)/repo"]
 	path = Module-Sendmail-(smoeding)/repo
 	url = https://github.com/smoeding/zabbix-sendmail
+[submodule "Script-Alert-Redmine-Twilio-Email-(pengyao)/repo"]
+	path = Script-Alert-Redmine-Twilio-Email-(pengyao)/repo
+	url = https://github.com/pengyao/zabbix-alert
