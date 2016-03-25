@@ -1747,3 +1747,6 @@
 [submodule "Module-Webmetrics-Neustar-(josevh)/repo"]
 	path = Module-Webmetrics-Neustar-(josevh)/repo
 	url = https://github.com/josevh/zbx-module-neustar-wpm
+[submodule "Template-HW-IBM-v3700-(pacotudel)/repo"]
+	path = Template-HW-IBM-v3700-(pacotudel)/repo
+	url = https://github.com/pacotudel/Zabbix-IBM-V3700
