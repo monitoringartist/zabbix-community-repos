@@ -1750,3 +1750,6 @@
 [submodule "Template-HW-IBM-v3700-(pacotudel)/repo"]
 	path = Template-HW-IBM-v3700-(pacotudel)/repo
 	url = https://github.com/pacotudel/Zabbix-IBM-V3700
+[submodule "Template-HW-IBM-ds3300-(pacotudel)/repo"]
+	path = Template-HW-IBM-ds3300-(pacotudel)/repo
+	url = https://github.com/pacotudel/Zabbix-IBM-DS3300
