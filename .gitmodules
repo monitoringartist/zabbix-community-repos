@@ -1744,3 +1744,6 @@
 [submodule "Script-WanGuard-(r0bj)/repo"]
 	path = Script-WanGuard-(r0bj)/repo
 	url = https://github.com/r0bj/wanguard-zabbix
+[submodule "Module-Webmetrics-Neustar-(josevh)/repo"]
+	path = Module-Webmetrics-Neustar-(josevh)/repo
+	url = https://github.com/josevh/zbx-module-neustar-wpm
