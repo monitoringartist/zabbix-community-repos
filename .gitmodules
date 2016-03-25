@@ -1738,3 +1738,6 @@
 [submodule "Script-Alert-SMS-API-(ptudor)/repo"]
 	path = Script-Alert-SMS-API-(ptudor)/repo
 	url = https://github.com/ptudor/smszender-zabbix
+[submodule "Template-UPS-APC-AP9619-(ptudor)/repo"]
+	path = Template-UPS-APC-AP9619-(ptudor)/repo
+	url = https://github.com/ptudor/apc-ap9619-zabbix
