@@ -1732,3 +1732,6 @@
 [submodule "Script-Alert-Redmine-Twilio-Email-(pengyao)/repo"]
 	path = Script-Alert-Redmine-Twilio-Email-(pengyao)/repo
 	url = https://github.com/pengyao/zabbix-alert
+[submodule "Integration-Agent-Framework-(limosek)/repo"]
+	path = Integration-Agent-Framework-(limosek)/repo
+	url = https://github.com/limosek/zaf
