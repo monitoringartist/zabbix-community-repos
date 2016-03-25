@@ -1759,3 +1759,6 @@
 [submodule "Module-Redis-(cnshawncao)/repo"]
 	path = Module-Redis-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-redis
+[submodule "Module-Memcached-(cnshawncao)/repo"]
+	path = Module-Memcached-(cnshawncao)/repo
+	url = https://github.com/cnshawncao/zabbix-module-memcached
