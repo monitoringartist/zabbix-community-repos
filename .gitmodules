@@ -1741,3 +1741,6 @@
 [submodule "Template-UPS-APC-AP9619-(ptudor)/repo"]
 	path = Template-UPS-APC-AP9619-(ptudor)/repo
 	url = https://github.com/ptudor/apc-ap9619-zabbix
+[submodule "Script-WanGuard-(r0bj)/repo"]
+	path = Script-WanGuard-(r0bj)/repo
+	url = https://github.com/r0bj/wanguard-zabbix
