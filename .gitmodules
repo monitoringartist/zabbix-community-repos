@@ -1756,3 +1756,6 @@
 [submodule "Module-Nginx-(cnshawncao)/repo"]
 	path = Module-Nginx-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-nginx
+[submodule "Module-Redis-(cnshawncao)/repo"]
+	path = Module-Redis-(cnshawncao)/repo
+	url = https://github.com/cnshawncao/zabbix-module-redis
