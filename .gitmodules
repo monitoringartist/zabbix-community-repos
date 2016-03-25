@@ -1735,3 +1735,6 @@
 [submodule "Integration-Agent-Framework-(limosek)/repo"]
 	path = Integration-Agent-Framework-(limosek)/repo
 	url = https://github.com/limosek/zaf
+[submodule "Script-Alert-SMS-API-(ptudor)/repo"]
+	path = Script-Alert-SMS-API-(ptudor)/repo
+	url = https://github.com/ptudor/smszender-zabbix
