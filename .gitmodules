@@ -1768,3 +1768,6 @@
 [submodule "Docker-Zabbix-Server-vPoller-(MichaelHoltTech)/repo"]
 	path = Docker-Zabbix-Server-vPoller-(MichaelHoltTech)/repo
 	url = https://github.com/MichaelHoltTech/docker-zabbix3-vpoller
+[submodule "Script-Azure-Servicebus-(andyroyle)/repo"]
+	path = Script-Azure-Servicebus-(andyroyle)/repo
+	url = https://github.com/andyroyle/azure-sb-zabbix
