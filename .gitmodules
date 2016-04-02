@@ -1771,3 +1771,6 @@
 [submodule "Script-Azure-Servicebus-(andyroyle)/repo"]
 	path = Script-Azure-Servicebus-(andyroyle)/repo
 	url = https://github.com/andyroyle/azure-sb-zabbix
+[submodule "Script-MQTT-relay-(fxpester)/repo"]
+	path = Script-MQTT-relay-(fxpester)/repo
+	url = https://github.com/fxpester/mqtt_to_zabbix
