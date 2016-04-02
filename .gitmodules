@@ -1765,3 +1765,6 @@
 [submodule "Script-Dell-HW-Trapper-(PrFalken)/repo"]
 	path = Script-Dell-HW-Trapper-(PrFalken)/repo
 	url = https://github.com/PrFalken/dellhw_trapper
+[submodule "Docker-Zabbix-Server-vPoller-(MichaelHoltTech)/repo"]
+	path = Docker-Zabbix-Server-vPoller-(MichaelHoltTech)/repo
+	url = https://github.com/MichaelHoltTech/docker-zabbix3-vpoller
