@@ -1762,3 +1762,6 @@
 [submodule "Module-Memcached-(cnshawncao)/repo"]
 	path = Module-Memcached-(cnshawncao)/repo
 	url = https://github.com/cnshawncao/zabbix-module-memcached
+[submodule "Script-Dell-HW-Trapper-(PrFalken)/repo"]
+	path = Script-Dell-HW-Trapper-(PrFalken)/repo
+	url = https://github.com/PrFalken/dellhw_trapper
