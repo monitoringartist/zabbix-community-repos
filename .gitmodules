@@ -1774,3 +1774,6 @@
 [submodule "Script-MQTT-relay-(fxpester)/repo"]
 	path = Script-MQTT-relay-(fxpester)/repo
 	url = https://github.com/fxpester/mqtt_to_zabbix
+[submodule "Script-Cachet-(qk4l)/repo"]
+	path = Script-Cachet-(qk4l)/repo
+	url = https://github.com/qk4l/zabbix-cachet
