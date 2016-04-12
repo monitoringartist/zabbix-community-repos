@@ -1789,3 +1789,6 @@
 [submodule "HW-Dell-FS12-TY-(kometchtech)/repo"]
 	path = HW-Dell-FS12-TY-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "HW-HP-ML110G6-(kometchtech)/repo"]
+	path = HW-HP-ML110G6-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
