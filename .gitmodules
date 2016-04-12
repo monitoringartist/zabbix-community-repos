@@ -1777,3 +1777,6 @@
 [submodule "Script-Cachet-(qk4l)/repo"]
 	path = Script-Cachet-(qk4l)/repo
 	url = https://github.com/qk4l/zabbix-cachet
+[submodule "HW-Supermicro-X10SLL-F-(JanKoppe)/repo"]
+	path = HW-Supermicro-X10SLL-F-(JanKoppe)/repo
+	url = https://github.com/JanKoppe/zabbix-supermicro-x10sll-f
