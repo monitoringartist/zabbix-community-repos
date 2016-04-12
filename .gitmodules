@@ -1780,3 +1780,6 @@
 [submodule "HW-Supermicro-X10SLL-F-(JanKoppe)/repo"]
 	path = HW-Supermicro-X10SLL-F-(JanKoppe)/repo
 	url = https://github.com/JanKoppe/zabbix-supermicro-x10sll-f
+[submodule "Integration-Atlassian-Confluence-Graphs-(mesilat)/repo"]
+	path = Integration-Atlassian-Confluence-Graphs-(mesilat)/repo
+	url = https://github.com/mesilat/zabbix-plugin
