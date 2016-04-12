@@ -1792,3 +1792,6 @@
 [submodule "HW-HP-ML110G6-(kometchtech)/repo"]
 	path = HW-HP-ML110G6-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-App-BizTalk-(GPegel)/repo"]
+	path = Template-App-BizTalk-(GPegel)/repo
+	url = https://github.com/GPegel/Zabbix-App-Biztalk
