@@ -1795,3 +1795,6 @@
 [submodule "Template-App-BizTalk-(GPegel)/repo"]
 	path = Template-App-BizTalk-(GPegel)/repo
 	url = https://github.com/GPegel/Zabbix-App-Biztalk
+[submodule "Template-App-OpenVPN-(Grifagor)/repo"]
+	path = Template-App-OpenVPN-(Grifagor)/repo
+	url = https://github.com/Grifagor/zabbix-openvpn
