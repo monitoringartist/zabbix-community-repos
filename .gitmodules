@@ -1798,3 +1798,6 @@
 [submodule "Template-App-OpenVPN-(Grifagor)/repo"]
 	path = Template-App-OpenVPN-(Grifagor)/repo
 	url = https://github.com/Grifagor/zabbix-openvpn
+[submodule "Integration-Python-Network-Weathermap-(Prototype-X)/repo"]
+	path = Integration-Python-Network-Weathermap-(Prototype-X)/repo
+	url = https://github.com/Prototype-X/Zabbix-Network-Weathermap
