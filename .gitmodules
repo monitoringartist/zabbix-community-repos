@@ -1801,3 +1801,6 @@
 [submodule "Integration-Python-Network-Weathermap-(Prototype-X)/repo"]
 	path = Integration-Python-Network-Weathermap-(Prototype-X)/repo
 	url = https://github.com/Prototype-X/Zabbix-Network-Weathermap
+[submodule "Template-App-ZFSSA-(klepek)/repo"]
+	path = Template-App-ZFSSA-(klepek)/repo
+	url = https://github.com/klepek/zfssa-zabbix
