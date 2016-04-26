@@ -1807,3 +1807,6 @@
 [submodule "Template-App-Xen-(unirede)/repo"]
 	path = Template-App-Xen-(unirede)/repo
 	url = https://github.com/unirede/zabbix_xen_module
+[submodule "API-R-(MarcinKosinski)/repo"]
+	path = API-R-(MarcinKosinski)/repo
+	url = https://github.com/MarcinKosinski/RZabbix
