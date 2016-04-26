@@ -1810,3 +1810,6 @@
 [submodule "API-R-(MarcinKosinski)/repo"]
 	path = API-R-(MarcinKosinski)/repo
 	url = https://github.com/MarcinKosinski/RZabbix
+[submodule "Template-App-JVM-Wildfly-(noamik)/repo"]
+	path = Template-App-JVM-Wildfly-(noamik)/repo
+	url = https://github.com/noamik/wildfly-jvm-monitor
