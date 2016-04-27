@@ -1816,3 +1816,6 @@
 [submodule "Script-Alert-Freshdesk-(ghcoelho)/repo"]
 	path = Script-Alert-Freshdesk-(ghcoelho)/repo
 	url = https://github.com/ghcoelho/Zabbix_Freshdesk_Ticket
+[submodule "Template-App-Security-Insights-Yum-(alessssilva)/repo"]
+	path = Template-App-Security-Insights-Yum-(alessssilva)/repo
+	url = https://github.com/alessssilva/zabbix
