@@ -1813,3 +1813,6 @@
 [submodule "Template-App-JVM-Wildfly-(noamik)/repo"]
 	path = Template-App-JVM-Wildfly-(noamik)/repo
 	url = https://github.com/noamik/wildfly-jvm-monitor
+[submodule "Script-Alert-Freshdesk-(ghcoelho)/repo"]
+	path = Script-Alert-Freshdesk-(ghcoelho)/repo
+	url = https://github.com/ghcoelho/Zabbix_Freshdesk_Ticket
