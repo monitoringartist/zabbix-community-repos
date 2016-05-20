@@ -1825,3 +1825,6 @@
 [submodule "Integration-Zabbix-Sender-Ruby-(nownabe)/repo"]
 	path = Integration-Zabbix-Sender-Ruby-(nownabe)/repo
 	url = https://github.com/nownabe/zabbix_sender
+[submodule "Template-HW-Juniper-FWCounters-(sshutdownow)/repo"]
+	path = Template-HW-Juniper-FWCounters-(sshutdownow)/repo
+	url = https://github.com/sshutdownow/zabbix-juniper-FWCounter
