@@ -1831,3 +1831,6 @@
 [submodule "Template-App-Ejabberd-(sshutdownow)/repo"]
 	path = Template-App-Ejabberd-(sshutdownow)/repo
 	url = https://github.com/sshutdownow/zabbix-ejabberd
+[submodule "Community-patches-(zabbix)/repo"]
+	path = Community-patches-(zabbix)/repo
+	url = https://github.com/zabbix/zabbix-patches
