@@ -1834,3 +1834,6 @@
 [submodule "Community-patches-(zabbix)/repo"]
 	path = Community-patches-(zabbix)/repo
 	url = https://github.com/zabbix/zabbix-patches
+[submodule "Template-App-AWS-Cloudwatch-(omni-lchen)/repo"]
+	path = Template-App-AWS-Cloudwatch-(omni-lchen)/repo
+	url = https://github.com/omni-lchen/zabbix-cloudwatch
