@@ -1828,3 +1828,6 @@
 [submodule "Template-HW-Juniper-FWCounters-(sshutdownow)/repo"]
 	path = Template-HW-Juniper-FWCounters-(sshutdownow)/repo
 	url = https://github.com/sshutdownow/zabbix-juniper-FWCounter
+[submodule "Template-App-Ejabberd-(sshutdownow)/repo"]
+	path = Template-App-Ejabberd-(sshutdownow)/repo
+	url = https://github.com/sshutdownow/zabbix-ejabberd
