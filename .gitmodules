@@ -1822,3 +1822,6 @@
 [submodule "Template-App-Zimbra-(viktorovi4)/repo"]
 	path = Template-App-Zimbra-(viktorovi4)/repo
 	url = https://github.com/viktorovi4/zabbix-zimbra-monitoring
+[submodule "Integration-Zabbix-Sender-Ruby-(nownabe)/repo"]
+	path = Integration-Zabbix-Sender-Ruby-(nownabe)/repo
+	url = https://github.com/nownabe/zabbix_sender
