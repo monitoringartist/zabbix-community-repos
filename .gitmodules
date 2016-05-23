@@ -1849,3 +1849,6 @@
 [submodule "Template-HW-Juniper-Switches-(fnxalves)/repo"]
 	path = Template-HW-Juniper-Switches-(fnxalves)/repo
 	url = https://github.com/fnxalves/Zabbix-templates
+[submodule "Template-App-Tivoli-Storage-Manager-TSM-(fnxalves)/repo"]
+	path = Template-App-Tivoli-Storage-Manager-TSM-(fnxalves)/repo
+	url = https://github.com/fnxalves/Zabbix-templates
