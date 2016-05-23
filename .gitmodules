@@ -1843,3 +1843,6 @@
 [submodule "Template-HW-IBM-BladeCenter-(fnxalves)/repo"]
 	path = Template-HW-IBM-BladeCenter-(fnxalves)/repo
 	url = https://github.com/fnxalves/Zabbix-templates
+[submodule "Template-HW-IBM-Storwize-(fnxalves)/repo"]
+	path = Template-HW-IBM-Storwize-(fnxalves)/repo
+	url = https://github.com/fnxalves/Zabbix-templates
