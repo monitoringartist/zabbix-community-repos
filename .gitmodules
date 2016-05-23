@@ -1837,3 +1837,6 @@
 [submodule "Template-App-AWS-Cloudwatch-(omni-lchen)/repo"]
 	path = Template-App-AWS-Cloudwatch-(omni-lchen)/repo
 	url = https://github.com/omni-lchen/zabbix-cloudwatch
+[submodule "Integration-Zabbix-Sender-Nodejs-(shamil)/repo"]
+	path = Integration-Zabbix-Sender-Nodejs-(shamil)/repo
+	url = https://github.com/shamil/node-zabbix-sender
