@@ -1840,3 +1840,6 @@
 [submodule "Integration-Zabbix-Sender-Nodejs-(shamil)/repo"]
 	path = Integration-Zabbix-Sender-Nodejs-(shamil)/repo
 	url = https://github.com/shamil/node-zabbix-sender
+[submodule "Template-HW-IBM-BladeCenter-(fnxalves)/repo"]
+	path = Template-HW-IBM-BladeCenter-(fnxalves)/repo
+	url = https://github.com/fnxalves/Zabbix-templates
