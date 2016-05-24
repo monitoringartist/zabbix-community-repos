@@ -1858,3 +1858,6 @@
 [submodule "Template-Database-MongoDB-(joshkeys)/repo"]
 	path = Template-Database-MongoDB-(joshkeys)/repo
 	url = https://github.com/joshkeys/zabbix2-mongo
+[submodule "Template-Database-MongoDB-(petrushinvs)/repo"]
+	path = Template-Database-MongoDB-(petrushinvs)/repo
+	url = https://github.com/petrushinvs/mongodb-zabbix-templates
