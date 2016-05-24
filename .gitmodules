@@ -1864,3 +1864,6 @@
 [submodule "Template-Database-MongoDB-(m-barthelemy)/repo"]
 	path = Template-Database-MongoDB-(m-barthelemy)/repo
 	url = https://github.com/m-barthelemy/zabbix-mongo
+[submodule "Template-UPS-Powercom-BNT-(rpavlyuk)/repo"]
+	path = Template-UPS-Powercom-BNT-(rpavlyuk)/repo
+	url = https://github.com/rpavlyuk/zabbix-powercom-bnt
