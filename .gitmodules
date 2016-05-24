@@ -1855,3 +1855,6 @@
 [submodule "Template-App-Lisk-(pilldriver)/repo"]
 	path = Template-App-Lisk-(pilldriver)/repo
 	url = https://github.com/pilldriver/lisk-zabbix-template
+[submodule "Template-Database-MongoDB-(joshkeys)/repo"]
+	path = Template-Database-MongoDB-(joshkeys)/repo
+	url = https://github.com/joshkeys/zabbix2-mongo
