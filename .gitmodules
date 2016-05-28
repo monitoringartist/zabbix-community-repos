@@ -1873,3 +1873,6 @@
 [submodule "Module-Adapter-PHP-(ZenProjects)/repo"]
 	path = Module-Adapter-PHP-(ZenProjects)/repo
 	url = https://github.com/ZenProjects/ZBX-PHP
+[submodule "Configuration-Puppet-Zabbix-Module-(voxpupuli)/repo"]
+	path = Configuration-Puppet-Zabbix-Module-(voxpupuli)/repo
+	url = https://github.com/voxpupuli/puppet-zabbix
