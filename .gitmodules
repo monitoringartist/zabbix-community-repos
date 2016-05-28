@@ -1870,3 +1870,6 @@
 [submodule "Integration-Graphout-(shamil)/repo"]
 	path = Integration-Graphout-(shamil)/repo
 	url = https://github.com/shamil/graphout-output-zabbix
+[submodule "Module-Adapter-PHP-(ZenProjects)/repo"]
+	path = Module-Adapter-PHP-(ZenProjects)/repo
+	url = https://github.com/ZenProjects/ZBX-PHP
