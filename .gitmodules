@@ -1867,3 +1867,6 @@
 [submodule "Template-UPS-Powercom-BNT-(rpavlyuk)/repo"]
 	path = Template-UPS-Powercom-BNT-(rpavlyuk)/repo
 	url = https://github.com/rpavlyuk/zabbix-powercom-bnt
+[submodule "Integration-Graphout-(shamil)/repo"]
+	path = Integration-Graphout-(shamil)/repo
+	url = https://github.com/shamil/graphout-output-zabbix
