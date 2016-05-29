@@ -1876,3 +1876,6 @@
 [submodule "Configuration-Puppet-Zabbix-Module-(voxpupuli)/repo"]
 	path = Configuration-Puppet-Zabbix-Module-(voxpupuli)/repo
 	url = https://github.com/voxpupuli/puppet-zabbix
+[submodule "Template-App-systemd-(monitoringartist)/repo"]
+	path = Template-App-systemd-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-systemd-monitoring
