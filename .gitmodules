@@ -1879,3 +1879,6 @@
 [submodule "Template-App-systemd-(monitoringartist)/repo"]
 	path = Template-App-systemd-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-systemd-monitoring
+[submodule "Template-App-Nutanix-(aldevar)/repo"]
+	path = Template-App-Nutanix-(aldevar)/repo
+	url = https://github.com/aldevar/Zabbix_Nutanix_Template
