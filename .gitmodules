@@ -1882,3 +1882,6 @@
 [submodule "Template-App-Nutanix-(aldevar)/repo"]
 	path = Template-App-Nutanix-(aldevar)/repo
 	url = https://github.com/aldevar/Zabbix_Nutanix_Template
+[submodule "Template-App-Redis-(allenta)/repo"]
+	path = Template-App-Redis-(allenta)/repo
+	url = https://github.com/allenta/zabbix-template-for-redis
