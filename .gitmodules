@@ -1888,3 +1888,6 @@
 [submodule "Integration-RSS-Events-(TurtleResearch)/repo"]
 	path = Integration-RSS-Events-(TurtleResearch)/repo
 	url = https://github.com/TurtleResearch/zabbix-rss
+[submodule "Script-Alert-Messagebird-SMS-(Leviter)/repo"]
+	path = Script-Alert-Messagebird-SMS-(Leviter)/repo
+	url = https://github.com/Leviter/zabbix_messagebird
