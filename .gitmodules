@@ -1885,3 +1885,6 @@
 [submodule "Template-App-Redis-(allenta)/repo"]
 	path = Template-App-Redis-(allenta)/repo
 	url = https://github.com/allenta/zabbix-template-for-redis
+[submodule "Integration-RSS-Events-(TurtleResearch)/repo"]
+	path = Integration-RSS-Events-(TurtleResearch)/repo
+	url = https://github.com/TurtleResearch/zabbix-rss
