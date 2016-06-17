@@ -1906,3 +1906,6 @@
 [submodule "Integration-Java-Gateway-for-JMX-JBoss-Weblogic-T3-(seuf)/repo"]
 	path = Integration-Java-Gateway-for-JMX-JBoss-Weblogic-T3-(seuf)/repo
 	url = https://github.com/seuf/zabbix_java
+[submodule "Module-HTTP-Check-Keepalive-(splitice)/repo"]
+	path = Module-HTTP-Check-Keepalive-(splitice)/repo
+	url = https://github.com/splitice/zabbix-http-check-keepalive
