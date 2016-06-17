@@ -1894,3 +1894,6 @@
 [submodule "Script-Alert-WeChat-(zhaochf)/repo"]
 	path = Script-Alert-WeChat-(zhaochf)/repo
 	url = https://github.com/zhaochf/zabbix-alert-script-for-wechat
+[submodule "Script-Alert-SMS-Nexmo-(mhayes14)/repo"]
+	path = Script-Alert-SMS-Nexmo-(mhayes14)/repo
+	url = https://github.com/mhayes14/zabbix-nexmo
