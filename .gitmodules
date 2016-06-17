@@ -1903,3 +1903,6 @@
 [submodule "Template-App-Kafka-(seuf)/repo"]
 	path = Template-App-Kafka-(seuf)/repo
 	url = https://github.com/seuf/zabbix-kafka-template-jmx
+[submodule "Integration-Java-Gateway-for-JMX-JBoss-Weblogic-T3-(seuf)/repo"]
+	path = Integration-Java-Gateway-for-JMX-JBoss-Weblogic-T3-(seuf)/repo
+	url = https://github.com/seuf/zabbix_java
