@@ -1897,3 +1897,6 @@
 [submodule "Script-Alert-SMS-Nexmo-(mhayes14)/repo"]
 	path = Script-Alert-SMS-Nexmo-(mhayes14)/repo
 	url = https://github.com/mhayes14/zabbix-nexmo
+[submodule "Integration-Anomaly-Detection-(ike-dai)/repo"]
+	path = Integration-Anomaly-Detection-(ike-dai)/repo
+	url = https://github.com/ike-dai/zabbix_anomaly
