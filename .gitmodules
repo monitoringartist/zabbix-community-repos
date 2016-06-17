@@ -1900,3 +1900,6 @@
 [submodule "Integration-Anomaly-Detection-(ike-dai)/repo"]
 	path = Integration-Anomaly-Detection-(ike-dai)/repo
 	url = https://github.com/ike-dai/zabbix_anomaly
+[submodule "Template-App-Kafka-(seuf)/repo"]
+	path = Template-App-Kafka-(seuf)/repo
+	url = https://github.com/seuf/zabbix-kafka-template-jmx
