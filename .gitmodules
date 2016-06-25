@@ -1909,3 +1909,6 @@
 [submodule "Module-HTTP-Check-Keepalive-(splitice)/repo"]
 	path = Module-HTTP-Check-Keepalive-(splitice)/repo
 	url = https://github.com/splitice/zabbix-http-check-keepalive
+[submodule "Template-HW-HPE-ProLiant-iLO-(HewlettPackard)/repo"]
+	path = Template-HW-HPE-ProLiant-iLO-(HewlettPackard)/repo
+	url = https://github.com/HewlettPackard/zabbix-plugins-hpeilo
