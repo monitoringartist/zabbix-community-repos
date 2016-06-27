@@ -153,7 +153,7 @@
 	url = https://github.com/Open-Future-Belgium/zabbix
 [submodule "Template-App-ZFS-(matusso)/repo"]
 	path = Template-App-ZFS-(matusso)/repo
-	url = https://github.com/matusso/zfs-zabbix
+	url = https://github.com/matusso/zabbix-modules
 [submodule "Template-Database-Oracle-(ikzelf)/repo"]
 	path = Template-Database-Oracle-(ikzelf)/repo
 	url = https://github.com/ikzelf/zbxora
