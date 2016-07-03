@@ -1912,3 +1912,6 @@
 [submodule "Template-HW-HPE-ProLiant-iLO-(HewlettPackard)/repo"]
 	path = Template-HW-HPE-ProLiant-iLO-(HewlettPackard)/repo
 	url = https://github.com/HewlettPackard/zabbix-plugins-hpeilo
+[submodule "Docker-Zabbix-XXL-(monitoringartist)/repo"]
+	path = Docker-Zabbix-XXL-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-xxl
