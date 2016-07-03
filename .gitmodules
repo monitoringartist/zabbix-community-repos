@@ -1915,3 +1915,6 @@
 [submodule "Docker-Zabbix-XXL-(monitoringartist)/repo"]
 	path = Docker-Zabbix-XXL-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-xxl
+[submodule "Integration-R-graphs-and-analytics-(monitoringartist)/repo"]
+	path = Integration-R-graphs-and-analytics-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/monitoring-analytics
