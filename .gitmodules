@@ -1921,3 +1921,6 @@
 [submodule "Integration-Dashboard-JS-ZabiRepo-(usiusi360)/repo"]
 	path = Integration-Dashboard-JS-ZabiRepo-(usiusi360)/repo
 	url = https://github.com/usiusi360/zabirepo
+[submodule "Integration-Grafana-Zabbix-Dashboards-(monitoringartist)/repo"]
+	path = Integration-Grafana-Zabbix-Dashboards-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/grafana-zabbix-dashboards
