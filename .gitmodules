@@ -1918,3 +1918,6 @@
 [submodule "Integration-R-graphs-and-analytics-(monitoringartist)/repo"]
 	path = Integration-R-graphs-and-analytics-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/monitoring-analytics
+[submodule "Integration-Dashboard-JS-ZabiRepo-(usiusi360)/repo"]
+	path = Integration-Dashboard-JS-ZabiRepo-(usiusi360)/repo
+	url = https://github.com/usiusi360/zabirepo
