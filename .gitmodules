@@ -1924,3 +1924,6 @@
 [submodule "Integration-Grafana-Zabbix-Dashboards-(monitoringartist)/repo"]
 	path = Integration-Grafana-Zabbix-Dashboards-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/grafana-zabbix-dashboards
+[submodule "Script-Alert-SMS-Addpac-(alex-68)/repo"]
+	path = Script-Alert-SMS-Addpac-(alex-68)/repo
+	url = https://github.com/alex-68/zabbix-sms-addpac
