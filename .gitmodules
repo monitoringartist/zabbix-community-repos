@@ -1930,3 +1930,6 @@
 [submodule "Template-App-Beanstalkd-(gongled)/repo"]
 	path = Template-App-Beanstalkd-(gongled)/repo
 	url = https://github.com/gongled/zbx_beanstalkd
+[submodule "Template-App-PowerDNS-(rperepechaev)/repo"]
+	path = Template-App-PowerDNS-(rperepechaev)/repo
+	url = https://github.com/rperepechaev/Zabbix-Templates
