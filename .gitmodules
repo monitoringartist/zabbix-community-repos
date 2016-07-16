@@ -1927,3 +1927,6 @@
 [submodule "Script-Alert-SMS-Addpac-(alex-68)/repo"]
 	path = Script-Alert-SMS-Addpac-(alex-68)/repo
 	url = https://github.com/alex-68/zabbix-sms-addpac
+[submodule "Template-App-Beanstalkd-(gongled)/repo"]
+	path = Template-App-Beanstalkd-(gongled)/repo
+	url = https://github.com/gongled/zbx_beanstalkd
