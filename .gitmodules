@@ -1933,3 +1933,6 @@
 [submodule "Template-App-PowerDNS-(rperepechaev)/repo"]
 	path = Template-App-PowerDNS-(rperepechaev)/repo
 	url = https://github.com/rperepechaev/Zabbix-Templates
+[submodule "Script-Alert-HipChat-(prestonr83)/repo"]
+	path = Script-Alert-HipChat-(prestonr83)/repo
+	url = https://github.com/prestonr83/zbx-hipchat
