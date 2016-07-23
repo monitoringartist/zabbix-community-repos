@@ -1948,3 +1948,6 @@
 [submodule "Template-App-Apache-(rodrigoluissilva)/repo"]
 	path = Template-App-Apache-(rodrigoluissilva)/repo
 	url = https://github.com/rodrigoluissilva/Zabbix-Apache-Status-Template
+[submodule "Template-App-Tomcat-JMX-(rodrigoluissilva)/repo"]
+	path = Template-App-Tomcat-JMX-(rodrigoluissilva)/repo
+	url = https://github.com/rodrigoluissilva/Zabbix-JMX-Tomcat-Extended-Template
