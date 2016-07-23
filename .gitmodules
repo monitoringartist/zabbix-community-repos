@@ -1951,3 +1951,6 @@
 [submodule "Template-App-Tomcat-JMX-(rodrigoluissilva)/repo"]
 	path = Template-App-Tomcat-JMX-(rodrigoluissilva)/repo
 	url = https://github.com/rodrigoluissilva/Zabbix-JMX-Tomcat-Extended-Template
+[submodule "Template-HW-Dell-iDrac-7-8-SNMP-(kleinstuff)/repo"]
+	path = Template-HW-Dell-iDrac-7-8-SNMP-(kleinstuff)/repo
+	url = https://github.com/kleinstuff/zabbixtemplates
