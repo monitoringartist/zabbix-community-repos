@@ -1939,3 +1939,6 @@
 [submodule "Integration-Munin-To-Zabbix-(kunitake)/repo"]
 	path = Integration-Munin-To-Zabbix-(kunitake)/repo
 	url = https://github.com/kunitake/munin2zabbix-sender
+[submodule "Integration-URL-Monitor-(rackerlabs)/repo"]
+	path = Integration-URL-Monitor-(rackerlabs)/repo
+	url = https://github.com/rackerlabs/zabbix_url_monitor
