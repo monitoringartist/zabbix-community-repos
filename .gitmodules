@@ -1942,3 +1942,6 @@
 [submodule "Integration-URL-Monitor-(rackerlabs)/repo"]
 	path = Integration-URL-Monitor-(rackerlabs)/repo
 	url = https://github.com/rackerlabs/zabbix_url_monitor
+[submodule "Template-App-Varnish-High-Availability-Agent-VHA-(allenta)/repo"]
+	path = Template-App-Varnish-High-Availability-Agent-VHA-(allenta)/repo
+	url = https://github.com/allenta/zabbix-template-for-vha-agent
