@@ -1945,3 +1945,6 @@
 [submodule "Template-App-Varnish-High-Availability-Agent-VHA-(allenta)/repo"]
 	path = Template-App-Varnish-High-Availability-Agent-VHA-(allenta)/repo
 	url = https://github.com/allenta/zabbix-template-for-vha-agent
+[submodule "Template-App-Apache-(rodrigoluissilva)/repo"]
+	path = Template-App-Apache-(rodrigoluissilva)/repo
+	url = https://github.com/rodrigoluissilva/Zabbix-Apache-Status-Template
