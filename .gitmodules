@@ -1936,3 +1936,6 @@
 [submodule "Script-Alert-HipChat-(prestonr83)/repo"]
 	path = Script-Alert-HipChat-(prestonr83)/repo
 	url = https://github.com/prestonr83/zbx-hipchat
+[submodule "Integration-Munin-To-Zabbix-(kunitake)/repo"]
+	path = Integration-Munin-To-Zabbix-(kunitake)/repo
+	url = https://github.com/kunitake/munin2zabbix-sender
