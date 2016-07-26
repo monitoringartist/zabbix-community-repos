@@ -1957,3 +1957,6 @@
 [submodule "Template-Application-Monitor-(Enrise)/repo"]
 	path = Template-Application-Monitor-(Enrise)/repo
 	url = https://github.com/Enrise/Zabbix-AppMonitor
+[submodule "Template-HW-Dell-SNMP-OpenManage-(rafaelma)/repo"]
+	path = Template-HW-Dell-SNMP-OpenManage-(rafaelma)/repo
+	url = https://github.com/rafaelma/zabbix-template-snmp-dell-openmanage
