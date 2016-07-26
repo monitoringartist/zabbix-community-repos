@@ -1954,3 +1954,6 @@
 [submodule "Template-HW-Dell-iDrac-7-8-SNMP-(kleinstuff)/repo"]
 	path = Template-HW-Dell-iDrac-7-8-SNMP-(kleinstuff)/repo
 	url = https://github.com/kleinstuff/zabbixtemplates
+[submodule "Template-Application-Monitor-(Enrise)/repo"]
+	path = Template-Application-Monitor-(Enrise)/repo
+	url = https://github.com/Enrise/Zabbix-AppMonitor
