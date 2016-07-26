@@ -1960,3 +1960,6 @@
 [submodule "Template-HW-Dell-SNMP-OpenManage-(rafaelma)/repo"]
 	path = Template-HW-Dell-SNMP-OpenManage-(rafaelma)/repo
 	url = https://github.com/rafaelma/zabbix-template-snmp-dell-openmanage
+[submodule "Template-App-SSL-(a-schild)/repo"]
+	path = Template-App-SSL-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-ssl
