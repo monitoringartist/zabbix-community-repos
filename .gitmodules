@@ -1975,3 +1975,6 @@
 [submodule "Template-App-Bind9-(aGGre55or)/repo"]
 	path = Template-App-Bind9-(aGGre55or)/repo
 	url = https://github.com/aGGre55or/zabbix-app-bind
+[submodule "Script-Alert-Youtrack-(allburov)/repo"]
+	path = Script-Alert-Youtrack-(allburov)/repo
+	url = https://github.com/allburov/zabbix-youtrack-action
