@@ -1963,3 +1963,6 @@
 [submodule "Template-App-SSL-(a-schild)/repo"]
 	path = Template-App-SSL-(a-schild)/repo
 	url = https://github.com/a-schild/zabbix-ssl
+[submodule "Template-App-GLPI-(truly-systems)/repo"]
+	path = Template-App-GLPI-(truly-systems)/repo
+	url = https://github.com/truly-systems/zbxglpi
