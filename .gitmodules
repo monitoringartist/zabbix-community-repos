@@ -1981,3 +1981,6 @@
 [submodule "Template-App-Mroonga-(tetsuwo)/repo"]
 	path = Template-App-Mroonga-(tetsuwo)/repo
 	url = https://github.com/tetsuwo/zabbix-mroonga-template
+[submodule "Template-App-Dell-Compelent-(asosso)/repo"]
+	path = Template-App-Dell-Compelent-(asosso)/repo
+	url = https://github.com/asosso/zbx3-dell-compellent
