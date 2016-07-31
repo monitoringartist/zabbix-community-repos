@@ -1978,3 +1978,6 @@
 [submodule "Script-Alert-Youtrack-(allburov)/repo"]
 	path = Script-Alert-Youtrack-(allburov)/repo
 	url = https://github.com/allburov/zabbix-youtrack-action
+[submodule "Template-App-Mroonga-(tetsuwo)/repo"]
+	path = Template-App-Mroonga-(tetsuwo)/repo
+	url = https://github.com/tetsuwo/zabbix-mroonga-template
