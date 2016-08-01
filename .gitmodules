@@ -1984,3 +1984,6 @@
 [submodule "Template-App-Dell-Compelent-(asosso)/repo"]
 	path = Template-App-Dell-Compelent-(asosso)/repo
 	url = https://github.com/asosso/zbx3-dell-compellent
+[submodule "Template-HW-Cisco-(zhangcandrew)/repo"]
+	path = Template-HW-Cisco-(zhangcandrew)/repo
+	url = https://github.com/zhangcandrew/ZabbixCiscoTemplate
