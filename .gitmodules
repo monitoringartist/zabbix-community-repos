@@ -1987,3 +1987,6 @@
 [submodule "Template-HW-Cisco-(zhangcandrew)/repo"]
 	path = Template-HW-Cisco-(zhangcandrew)/repo
 	url = https://github.com/zhangcandrew/ZabbixCiscoTemplate
+[submodule "Integration-SNMP-MIB-Template-Generator-(cavaliercoder)/repo"]
+	path = Integration-SNMP-MIB-Template-Generator-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/mib2zabbix
