@@ -1990,3 +1990,6 @@
 [submodule "Integration-SNMP-MIB-Template-Generator-(cavaliercoder)/repo"]
 	path = Integration-SNMP-MIB-Template-Generator-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/mib2zabbix
+[submodule "Template-App-HP-Vertica-(thordendal)/repo"]
+	path = Template-App-HP-Vertica-(thordendal)/repo
+	url = https://github.com/thordendal/vertica-zabbix-template
