@@ -1996,3 +1996,6 @@
 [submodule "HW-IBM-IMM2-SNMP-(allburov)/repo"]
 	path = HW-IBM-IMM2-SNMP-(allburov)/repo
 	url = https://github.com/allburov/zabbix-ibm-server-imm2
+[submodule "UPS-APC-RS1500-(jhonespetter)/repo"]
+	path = UPS-APC-RS1500-(jhonespetter)/repo
+	url = https://github.com/jhonespetter/zabbix-apc-ups-rs1500
