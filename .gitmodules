@@ -2008,3 +2008,6 @@
 [submodule "Integration-Analytics-Monda-(limosek)/repo"]
 	path = Integration-Analytics-Monda-(limosek)/repo
 	url = https://github.com/limosek/monda
+[submodule "Template-UPS-APC-RS1500-(jhonespetter)/repo"]
+	path = Template-UPS-APC-RS1500-(jhonespetter)/repo
+	url = https://github.com/jhonespetter/zabbix-apc-ups-rs1500
