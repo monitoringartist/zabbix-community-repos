@@ -1999,3 +1999,6 @@
 [submodule "UPS-APC-RS1500-(jhonespetter)/repo"]
 	path = UPS-APC-RS1500-(jhonespetter)/repo
 	url = https://github.com/jhonespetter/zabbix-apc-ups-rs1500
+[submodule "Integration-MongoDB-collector-(marcanpilami)/repo"]
+	path = Integration-MongoDB-collector-(marcanpilami)/repo
+	url = https://github.com/marcanpilami/mongodb-collector
