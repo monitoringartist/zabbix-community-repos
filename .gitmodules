@@ -2002,3 +2002,6 @@
 [submodule "Integration-MongoDB-collector-(marcanpilami)/repo"]
 	path = Integration-MongoDB-collector-(marcanpilami)/repo
 	url = https://github.com/marcanpilami/mongodb-collector
+[submodule "Template-VM-XenServer-(unirede)/repo"]
+	path = Template-VM-XenServer-(unirede)/repo
+	url = https://github.com/unirede/zabbix_xen_module
