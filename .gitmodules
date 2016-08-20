@@ -2005,3 +2005,6 @@
 [submodule "Template-VM-XenServer-(unirede)/repo"]
 	path = Template-VM-XenServer-(unirede)/repo
 	url = https://github.com/unirede/zabbix_xen_module
+[submodule "Integration-Analytics-Monda-(limosek)/repo"]
+	path = Integration-Analytics-Monda-(limosek)/repo
+	url = https://github.com/limosek/monda
