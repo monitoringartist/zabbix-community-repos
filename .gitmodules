@@ -1993,3 +1993,6 @@
 [submodule "Template-App-HP-Vertica-(thordendal)/repo"]
 	path = Template-App-HP-Vertica-(thordendal)/repo
 	url = https://github.com/thordendal/vertica-zabbix-template
+[submodule "HW-IBM-IMM2-SNMP-(allburov)/repo"]
+	path = HW-IBM-IMM2-SNMP-(allburov)/repo
+	url = https://github.com/allburov/zabbix-ibm-server-imm2
