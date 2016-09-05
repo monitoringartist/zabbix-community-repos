@@ -2020,3 +2020,6 @@
 [submodule "Integration-Pingdom-(um-flint)/repo"]
 	path = Integration-Pingdom-(um-flint)/repo
 	url = https://github.com/um-flint/pingdom-zabbix
+[submodule "Integration-Zabbix-to-Git-(syepes)/repo"]
+	path = Integration-Zabbix-to-Git-(syepes)/repo
+	url = https://github.com/syepes/zbx2git
