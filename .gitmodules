@@ -2017,3 +2017,6 @@
 [submodule "Script-Jool-(onifinger)/repo"]
 	path = Script-Jool-(onifinger)/repo
 	url = https://github.com/onifinger/jool_session_monitor
+[submodule "Integration-Pingdom-(um-flint)/repo"]
+	path = Integration-Pingdom-(um-flint)/repo
+	url = https://github.com/um-flint/pingdom-zabbix
