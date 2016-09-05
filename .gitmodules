@@ -2023,3 +2023,6 @@
 [submodule "Integration-Zabbix-to-Git-(syepes)/repo"]
 	path = Integration-Zabbix-to-Git-(syepes)/repo
 	url = https://github.com/syepes/zbx2git
+[submodule "Template-App-Bacula-(khony)/repo"]
+	path = Template-App-Bacula-(khony)/repo
+	url = https://github.com/khony/zabbix-bacula
