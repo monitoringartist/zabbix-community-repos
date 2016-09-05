@@ -2011,3 +2011,6 @@
 [submodule "Template-UPS-APC-RS1500-(jhonespetter)/repo"]
 	path = Template-UPS-APC-RS1500-(jhonespetter)/repo
 	url = https://github.com/jhonespetter/zabbix-apc-ups-rs1500
+[submodule "Integration-Terraform-Zabbix-Provider-(dainis)/repo"]
+	path = Integration-Terraform-Zabbix-Provider-(dainis)/repo
+	url = https://github.com/dainis/terraform-provider-zabbix
