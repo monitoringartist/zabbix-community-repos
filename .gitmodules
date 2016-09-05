@@ -2014,3 +2014,6 @@
 [submodule "Integration-Terraform-Zabbix-Provider-(dainis)/repo"]
 	path = Integration-Terraform-Zabbix-Provider-(dainis)/repo
 	url = https://github.com/dainis/terraform-provider-zabbix
+[submodule "Script-Jool-(onifinger)/repo"]
+	path = Script-Jool-(onifinger)/repo
+	url = https://github.com/onifinger/jool_session_monitor
