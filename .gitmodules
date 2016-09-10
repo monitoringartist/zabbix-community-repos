@@ -2026,3 +2026,6 @@
 [submodule "Template-App-Bacula-(khony)/repo"]
 	path = Template-App-Bacula-(khony)/repo
 	url = https://github.com/khony/zabbix-bacula
+[submodule "Template-App-Gaerman-(zolech)/repo"]
+	path = Template-App-Gaerman-(zolech)/repo
+	url = https://github.com/zolech/zabbix-gearman-template
