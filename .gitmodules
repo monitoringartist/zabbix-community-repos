@@ -2029,3 +2029,6 @@
 [submodule "Template-App-Gaerman-(zolech)/repo"]
 	path = Template-App-Gaerman-(zolech)/repo
 	url = https://github.com/zolech/zabbix-gearman-template
+[submodule "Script-Avi-Vantage-(avinetworks)/repo"]
+	path = Script-Avi-Vantage-(avinetworks)/repo
+	url = https://github.com/avinetworks/avi-zabbix-integration
