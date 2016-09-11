@@ -2032,3 +2032,6 @@
 [submodule "Script-Avi-Vantage-(avinetworks)/repo"]
 	path = Script-Avi-Vantage-(avinetworks)/repo
 	url = https://github.com/avinetworks/avi-zabbix-integration
+[submodule "Template-App-Palo-Alto-3000-(mrRobit)/repo"]
+	path = Template-App-Palo-Alto-3000-(mrRobit)/repo
+	url = https://github.com/mrRobit/Zabbix_templates
