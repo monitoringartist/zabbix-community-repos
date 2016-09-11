@@ -2035,3 +2035,6 @@
 [submodule "Template-App-Palo-Alto-3000-(mrRobit)/repo"]
 	path = Template-App-Palo-Alto-3000-(mrRobit)/repo
 	url = https://github.com/mrRobit/Zabbix_templates
+[submodule "Template-App-QNAP-(mrRobit)/repo"]
+	path = Template-App-QNAP-(mrRobit)/repo
+	url = https://github.com/mrRobit/Zabbix_templates
