@@ -2041,3 +2041,6 @@
 [submodule "Integration-Dashboard-Dashing-(tolleiv)/repo"]
 	path = Integration-Dashboard-Dashing-(tolleiv)/repo
 	url = https://github.com/tolleiv/dashing-zabbix
+[submodule "Integration-Dashboard-React-(anttiviljami)/repo"]
+	path = Integration-Dashboard-React-(anttiviljami)/repo
+	url = https://github.com/anttiviljami/zabbix-web-monitoring-screen
