@@ -2053,3 +2053,6 @@
 [submodule "Template-App-Nginx-Plus-(CheggEng)/repo"]
 	path = Template-App-Nginx-Plus-(CheggEng)/repo
 	url = https://github.com/CheggEng/zabbix-nginxPlus
+[submodule "Integration-Flukso-(hgruber)/repo"]
+	path = Integration-Flukso-(hgruber)/repo
+	url = https://github.com/hgruber/flukso2zabbix
