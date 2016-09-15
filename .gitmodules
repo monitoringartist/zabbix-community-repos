@@ -2050,3 +2050,6 @@
 [submodule "Template-HW-Juniper-Netscreen-(ZegalPL)/repo"]
 	path = Template-HW-Juniper-Netscreen-(ZegalPL)/repo
 	url = https://github.com/ZegalPL/zbxJuniperNetscreen
+[submodule "Template-App-Nginx-Plus-(CheggEng)/repo"]
+	path = Template-App-Nginx-Plus-(CheggEng)/repo
+	url = https://github.com/CheggEng/zabbix-nginxPlus
