@@ -2056,3 +2056,6 @@
 [submodule "Integration-Flukso-(hgruber)/repo"]
 	path = Integration-Flukso-(hgruber)/repo
 	url = https://github.com/hgruber/flukso2zabbix
+[submodule "Template-App-Consul-(mitriy-myz)/repo"]
+	path = Template-App-Consul-(mitriy-myz)/repo
+	url = https://github.com/dmitriy-myz/zabbix-templates
