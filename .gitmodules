@@ -2059,3 +2059,6 @@
 [submodule "Template-App-Consul-(mitriy-myz)/repo"]
 	path = Template-App-Consul-(mitriy-myz)/repo
 	url = https://github.com/dmitriy-myz/zabbix-templates
+[submodule "API-PHP-Laravel-(becker)/repo"]
+	path = API-PHP-Laravel-(becker)/repo
+	url = https://github.com/becker/laravel-zabbix-api
