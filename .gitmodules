@@ -2068,3 +2068,6 @@
 [submodule "Template-App-Mesos-(zolech)/repo"]
 	path = Template-App-Mesos-(zolech)/repo
 	url = https://github.com/zolech/zabbix-mesos-template
+[submodule "Integration-PostgreSQL-partitioning-(cavaliercoder)/repo"]
+	path = Integration-PostgreSQL-partitioning-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-pgsql-partitioning
