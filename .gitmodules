@@ -2083,3 +2083,6 @@
 [submodule "Template-HW-ECESSA-PowerLink-PL1200-(rokicool)/repo"]
 	path = Template-HW-ECESSA-PowerLink-PL1200-(rokicool)/repo
 	url = https://github.com/rokicool/Zabbix-ECESSA
+[submodule "Module-Adapter-Python-(cavaliercoder)/repo"]
+	path = Module-Adapter-Python-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/libzbxpython
