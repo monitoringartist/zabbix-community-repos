@@ -2065,3 +2065,6 @@
 [submodule "Template-App-KVM-(superbigsea)/repo"]
 	path = Template-App-KVM-(superbigsea)/repo
 	url = https://github.com/superbigsea/zabbix-kvm
+[submodule "Template-App-Mesos-(zolech)/repo"]
+	path = Template-App-Mesos-(zolech)/repo
+	url = https://github.com/zolech/zabbix-mesos-template
