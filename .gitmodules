@@ -2086,3 +2086,6 @@
 [submodule "Module-Adapter-Python-(cavaliercoder)/repo"]
 	path = Module-Adapter-Python-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/libzbxpython
+[submodule "Template-App-Proxmox-VE-ZFS-replication-manager---pve-zsync-(firaxis)/repo"]
+	path = Template-App-Proxmox-VE-ZFS-replication-manager---pve-zsync-(firaxis)/repo
+	url = https://github.com/firaxis/pve-zsync-monitoring
