@@ -2080,3 +2080,6 @@
 [submodule "Template-HW-Geist-SuperGoose-II---Watchdog-1250-(rokicool)/repo"]
 	path = Template-HW-Geist-SuperGoose-II---Watchdog-1250-(rokicool)/repo
 	url = https://github.com/rokicool/Zabbix-Watchdog
+[submodule "Template-HW-ECESSA-PowerLink-PL1200-(rokicool)/repo"]
+	path = Template-HW-ECESSA-PowerLink-PL1200-(rokicool)/repo
+	url = https://github.com/rokicool/Zabbix-ECESSA
