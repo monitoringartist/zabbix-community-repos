@@ -2074,3 +2074,6 @@
 [submodule "Template-HW-APC-NetBotz-355-(d687r02j8g)/repo"]
 	path = Template-HW-APC-NetBotz-355-(d687r02j8g)/repo
 	url = https://github.com/d687r02j8g/Zabbix
+[submodule "Template-App-Environment-Monitor-(d687r02j8g)/repo"]
+	path = Template-App-Environment-Monitor-(d687r02j8g)/repo
+	url = https://github.com/d687r02j8g/Zabbix
