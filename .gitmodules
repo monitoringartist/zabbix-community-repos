@@ -2062,3 +2062,6 @@
 [submodule "API-PHP-Laravel-(becker)/repo"]
 	path = API-PHP-Laravel-(becker)/repo
 	url = https://github.com/becker/laravel-zabbix-api
+[submodule "Template-App-KVM-(superbigsea)/repo"]
+	path = Template-App-KVM-(superbigsea)/repo
+	url = https://github.com/superbigsea/zabbix-kvm
