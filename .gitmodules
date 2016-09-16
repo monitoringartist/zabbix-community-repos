@@ -2071,3 +2071,6 @@
 [submodule "Integration-PostgreSQL-partitioning-(cavaliercoder)/repo"]
 	path = Integration-PostgreSQL-partitioning-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/zabbix-pgsql-partitioning
+[submodule "Template-HW-APC-NetBotz-355-(d687r02j8g)/repo"]
+	path = Template-HW-APC-NetBotz-355-(d687r02j8g)/repo
+	url = https://github.com/d687r02j8g/Zabbix
