@@ -2095,3 +2095,6 @@
 [submodule "Template-App-AWS-Status-(allenta)/repo"]
 	path = Template-App-AWS-Status-(allenta)/repo
 	url = https://github.com/allenta/zabbix-aws-status
+[submodule "Integration-Geckoboard-(MWilkinson)/repo"]
+	path = Integration-Geckoboard-(MWilkinson)/repo
+	url = https://github.com/MWilkinson/PyGeckoZabbix
