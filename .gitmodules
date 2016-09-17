@@ -2092,3 +2092,6 @@
 [submodule "Template-App-PaperCut-(Open-Future-Belgium)/repo"]
 	path = Template-App-PaperCut-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix-papercut
+[submodule "Template-App-AWS-Status-(allenta)/repo"]
+	path = Template-App-AWS-Status-(allenta)/repo
+	url = https://github.com/allenta/zabbix-aws-status
