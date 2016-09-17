@@ -2089,3 +2089,6 @@
 [submodule "Template-App-Proxmox-VE-ZFS-replication-manager---pve-zsync-(firaxis)/repo"]
 	path = Template-App-Proxmox-VE-ZFS-replication-manager---pve-zsync-(firaxis)/repo
 	url = https://github.com/firaxis/pve-zsync-monitoring
+[submodule "Template-App-PaperCut-(Open-Future-Belgium)/repo"]
+	path = Template-App-PaperCut-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix-papercut
