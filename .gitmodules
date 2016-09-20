@@ -2044,3 +2044,6 @@
 [submodule "Integration-Dashboard-React-(anttiviljami)/repo"]
 	path = Integration-Dashboard-React-(anttiviljami)/repo
 	url = https://github.com/anttiviljami/zabbix-web-monitoring-screen
+[submodule "Template-UPS-Cover-(ZegalPL)/repo"]
+	path = Template-UPS-Cover-(ZegalPL)/repo
+	url = https://github.com/ZegalPL/zbxCoverUPS
