@@ -2047,3 +2047,6 @@
 [submodule "Template-UPS-Cover-(ZegalPL)/repo"]
 	path = Template-UPS-Cover-(ZegalPL)/repo
 	url = https://github.com/ZegalPL/zbxCoverUPS
+[submodule "Template-HW-Juniper-Netscreen-(ZegalPL)/repo"]
+	path = Template-HW-Juniper-Netscreen-(ZegalPL)/repo
+	url = https://github.com/ZegalPL/zbxJuniperNetscreen
