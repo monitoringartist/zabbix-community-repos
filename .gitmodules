@@ -2101,3 +2101,6 @@
 [submodule "Template-App-TCP-Stats-(mutz0623)/repo"]
 	path = Template-App-TCP-Stats-(mutz0623)/repo
 	url = https://github.com/mutz0623/zabbix_TCP-state-count-module
+[submodule "Script-Alert-LINE-Notify-(kenzo0107)/repo"]
+	path = Script-Alert-LINE-Notify-(kenzo0107)/repo
+	url = https://github.com/kenzo0107/Zabbix3-LineNotify
