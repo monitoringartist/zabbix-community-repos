@@ -2098,3 +2098,6 @@
 [submodule "Integration-Geckoboard-(MWilkinson)/repo"]
 	path = Integration-Geckoboard-(MWilkinson)/repo
 	url = https://github.com/MWilkinson/PyGeckoZabbix
+[submodule "Template-App-TCP-Stats-(mutz0623)/repo"]
+	path = Template-App-TCP-Stats-(mutz0623)/repo
+	url = https://github.com/mutz0623/zabbix_TCP-state-count-module
