@@ -2107,3 +2107,6 @@
 [submodule "Template-App-Kafka-(helli0n)/repo"]
 	path = Template-App-Kafka-(helli0n)/repo
 	url = https://github.com/helli0n/kafka-monitoring
+[submodule "Template-App-Cloudera-(helli0n)/repo"]
+	path = Template-App-Cloudera-(helli0n)/repo
+	url = https://github.com/helli0n/cloudera
