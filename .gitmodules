@@ -2104,3 +2104,6 @@
 [submodule "Script-Alert-LINE-Notify-(kenzo0107)/repo"]
 	path = Script-Alert-LINE-Notify-(kenzo0107)/repo
 	url = https://github.com/kenzo0107/Zabbix3-LineNotify
+[submodule "Template-App-Kafka-(helli0n)/repo"]
+	path = Template-App-Kafka-(helli0n)/repo
+	url = https://github.com/helli0n/kafka-monitoring
