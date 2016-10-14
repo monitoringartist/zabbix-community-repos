@@ -2140,3 +2140,6 @@
 [submodule "Template-Database-PostgreSQL-(thecamels)/repo"]
 	path = Template-Database-PostgreSQL-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-EMC-PowerPath-(thecamels)/repo"]
+	path = Template-App-EMC-PowerPath-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
