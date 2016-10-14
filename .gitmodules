@@ -2131,3 +2131,6 @@
 [submodule "Template-App-OpenVPN-(thecamels)/repo"]
 	path = Template-App-OpenVPN-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-PHP-(thecamels)/repo"]
+	path = Template-App-PHP-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
