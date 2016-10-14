@@ -2119,3 +2119,6 @@
 [submodule "Integration-Zabbix-Agent-.Net-(marksl)/repo"]
 	path = Integration-Zabbix-Agent-.Net-(marksl)/repo
 	url = https://github.com/marksl/nabbix
+[submodule "Template-App-Fail2ban-(thecamels)/repo"]
+	path = Template-App-Fail2ban-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
