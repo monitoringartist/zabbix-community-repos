@@ -2155,3 +2155,6 @@
 [submodule "Template-App-Squid-(thecamels)/repo"]
 	path = Template-App-Squid-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Unicorn-Rails-(thecamels)/repo"]
+	path = Template-App-Unicorn-Rails-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
