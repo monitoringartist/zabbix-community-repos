@@ -2170,3 +2170,6 @@
 [submodule "Template-OS-CentOS-(thecamels)/repo"]
 	path = Template-OS-CentOS-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-OS-Debian-(thecamels)/repo"]
+	path = Template-OS-Debian-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
