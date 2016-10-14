@@ -2146,3 +2146,6 @@
 [submodule "Template-App-Redis-(thecamels)/repo"]
 	path = Template-App-Redis-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-SPAM-Blacklist-(thecamels)/repo"]
+	path = Template-App-SPAM-Blacklist-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
