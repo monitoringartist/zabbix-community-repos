@@ -2125,3 +2125,6 @@
 [submodule "Template-App-Iptables-(thecamels)/repo"]
 	path = Template-App-Iptables-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Monit-(thecamels)/repo"]
+	path = Template-App-Monit-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
