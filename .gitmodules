@@ -2152,3 +2152,6 @@
 [submodule "Template-App-Solr-(thecamels)/repo"]
 	path = Template-App-Solr-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Squid-(thecamels)/repo"]
+	path = Template-App-Squid-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
