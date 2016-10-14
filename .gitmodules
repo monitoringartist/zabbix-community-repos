@@ -2137,3 +2137,6 @@
 [submodule "Template-App-Percona-XtraBackup-(thecamels)/repo"]
 	path = Template-App-Percona-XtraBackup-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-Database-PostgreSQL-(thecamels)/repo"]
+	path = Template-Database-PostgreSQL-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
