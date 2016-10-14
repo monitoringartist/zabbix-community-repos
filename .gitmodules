@@ -2110,3 +2110,6 @@
 [submodule "Template-App-Cloudera-(helli0n)/repo"]
 	path = Template-App-Cloudera-(helli0n)/repo
 	url = https://github.com/helli0n/cloudera
+[submodule "Template-App-Burp-(ktech-io)/repo"]
+	path = Template-App-Burp-(ktech-io)/repo
+	url = https://github.com/ktech-io/zabbix-burp
