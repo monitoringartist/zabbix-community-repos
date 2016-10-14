@@ -2122,3 +2122,6 @@
 [submodule "Template-App-Fail2ban-(thecamels)/repo"]
 	path = Template-App-Fail2ban-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Iptables-(thecamels)/repo"]
+	path = Template-App-Iptables-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
