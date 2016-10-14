@@ -2134,3 +2134,6 @@
 [submodule "Template-App-PHP-(thecamels)/repo"]
 	path = Template-App-PHP-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Percona-XtraBackup-(thecamels)/repo"]
+	path = Template-App-Percona-XtraBackup-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
