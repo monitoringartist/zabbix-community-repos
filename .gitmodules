@@ -2116,3 +2116,6 @@
 [submodule "Integration-Zabbix-icons-(CCUEC)/repo"]
 	path = Integration-Zabbix-icons-(CCUEC)/repo
 	url = https://github.com/CCUEC/zabbix-icons-v2
+[submodule "Integration-Zabbix-Agent-.Net-(marksl)/repo"]
+	path = Integration-Zabbix-Agent-.Net-(marksl)/repo
+	url = https://github.com/marksl/nabbix
