@@ -2149,3 +2149,6 @@
 [submodule "Template-App-SPAM-Blacklist-(thecamels)/repo"]
 	path = Template-App-SPAM-Blacklist-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-Solr-(thecamels)/repo"]
+	path = Template-App-Solr-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
