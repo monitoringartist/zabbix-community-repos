@@ -2113,3 +2113,6 @@
 [submodule "Template-App-Burp-(ktech-io)/repo"]
 	path = Template-App-Burp-(ktech-io)/repo
 	url = https://github.com/ktech-io/zabbix-burp
+[submodule "Integration-Zabbix-icons-(CCUEC)/repo"]
+	path = Integration-Zabbix-icons-(CCUEC)/repo
+	url = https://github.com/CCUEC/zabbix-icons-v2
