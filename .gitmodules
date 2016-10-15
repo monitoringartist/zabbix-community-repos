@@ -2176,3 +2176,6 @@
 [submodule "Template-App-SELinux-(thecamels)/repo"]
 	path = Template-App-SELinux-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Integration-PresideCMS-(pixl8)/repo"]
+	path = Integration-PresideCMS-(pixl8)/repo
+	url = https://github.com/pixl8/preside-ext-zabbix
