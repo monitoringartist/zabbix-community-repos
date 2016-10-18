@@ -2182,3 +2182,6 @@
 [submodule "Script-Alert-SMS-Twilio-(Rickkwa)/repo"]
 	path = Script-Alert-SMS-Twilio-(Rickkwa)/repo
 	url = https://github.com/Rickkwa/zabbix-twilio
+[submodule "Script-Partitioning-Zabbix-PostgreSQL-(cavaliercoder)/repo"]
+	path = Script-Partitioning-Zabbix-PostgreSQL-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-pgsql-partitioning
