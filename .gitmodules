@@ -2185,3 +2185,6 @@
 [submodule "Script-Partitioning-Zabbix-PostgreSQL-(cavaliercoder)/repo"]
 	path = Script-Partitioning-Zabbix-PostgreSQL-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/zabbix-pgsql-partitioning
+[submodule "Template-App-Speedtest-(pschmitt)/repo"]
+	path = Template-App-Speedtest-(pschmitt)/repo
+	url = https://github.com/pschmitt/zabbix-speedtest
