@@ -2188,3 +2188,6 @@
 [submodule "Template-App-Speedtest-(pschmitt)/repo"]
 	path = Template-App-Speedtest-(pschmitt)/repo
 	url = https://github.com/pschmitt/zabbix-speedtest
+[submodule "Script-Alert-SMS-UniPhonic-(mohtork)/repo"]
+	path = Script-Alert-SMS-UniPhonic-(mohtork)/repo
+	url = https://github.com/mohtork/zabbix-sms
