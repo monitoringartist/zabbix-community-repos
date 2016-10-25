@@ -2191,3 +2191,6 @@
 [submodule "Script-Alert-SMS-UniPhonic-(mohtork)/repo"]
 	path = Script-Alert-SMS-UniPhonic-(mohtork)/repo
 	url = https://github.com/mohtork/zabbix-sms
+[submodule "Template-App-Syslog-(v-zhuravlev)/repo"]
+	path = Template-App-Syslog-(v-zhuravlev)/repo
+	url = https://github.com/v-zhuravlev/zabbix-syslog
