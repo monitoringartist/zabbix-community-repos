@@ -2194,3 +2194,6 @@
 [submodule "Template-App-Syslog-(v-zhuravlev)/repo"]
 	path = Template-App-Syslog-(v-zhuravlev)/repo
 	url = https://github.com/v-zhuravlev/zabbix-syslog
+[submodule "API-Lua-(SamOrlando)/repo"]
+	path = API-Lua-(SamOrlando)/repo
+	url = https://github.com/SamOrlando/zabbixapi-lua
