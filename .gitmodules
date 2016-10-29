@@ -2200,3 +2200,6 @@
 [submodule "API-Javascript-(pawmint)/repo"]
 	path = API-Javascript-(pawmint)/repo
 	url = https://github.com/pawmint/zabbix.js
+[submodule "Template-App-IIS-(rodrigoluissilva)/repo"]
+	path = Template-App-IIS-(rodrigoluissilva)/repo
+	url = https://github.com/rodrigoluissilva/Zabbix-Microsoft-IIS-Template
