@@ -2197,3 +2197,6 @@
 [submodule "API-Lua-(SamOrlando)/repo"]
 	path = API-Lua-(SamOrlando)/repo
 	url = https://github.com/SamOrlando/zabbixapi-lua
+[submodule "API-Javascript-(pawmint)/repo"]
+	path = API-Javascript-(pawmint)/repo
+	url = https://github.com/pawmint/zabbix.js
