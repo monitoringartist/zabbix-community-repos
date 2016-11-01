@@ -2203,3 +2203,6 @@
 [submodule "Template-App-IIS-(rodrigoluissilva)/repo"]
 	path = Template-App-IIS-(rodrigoluissilva)/repo
 	url = https://github.com/rodrigoluissilva/Zabbix-Microsoft-IIS-Template
+[submodule "Module-Performance-Co-Pilot-(performancecopilot)/repo"]
+	path = Module-Performance-Co-Pilot-(performancecopilot)/repo
+	url = https://github.com/performancecopilot/pcp
