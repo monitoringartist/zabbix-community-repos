@@ -2206,3 +2206,6 @@
 [submodule "Module-Performance-Co-Pilot-(performancecopilot)/repo"]
 	path = Module-Performance-Co-Pilot-(performancecopilot)/repo
 	url = https://github.com/performancecopilot/pcp
+[submodule "Template-App-OpenStack-(cloudowski)/repo"]
+	path = Template-App-OpenStack-(cloudowski)/repo
+	url = https://github.com/cloudowski/zabbix-openstack
