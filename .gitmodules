@@ -2209,3 +2209,6 @@
 [submodule "Template-App-OpenStack-(cloudowski)/repo"]
 	path = Template-App-OpenStack-(cloudowski)/repo
 	url = https://github.com/cloudowski/zabbix-openstack
+[submodule "Template-App-Supervisor-(Lelik13a)/repo"]
+	path = Template-App-Supervisor-(Lelik13a)/repo
+	url = https://github.com/Lelik13a/Zabbix-Supervisor-Check
