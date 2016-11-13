@@ -2212,3 +2212,6 @@
 [submodule "Template-App-Supervisor-(Lelik13a)/repo"]
 	path = Template-App-Supervisor-(Lelik13a)/repo
 	url = https://github.com/Lelik13a/Zabbix-Supervisor-Check
+[submodule "Template-HW-Philips-Hue-(pschmitt)/repo"]
+	path = Template-HW-Philips-Hue-(pschmitt)/repo
+	url = https://github.com/pschmitt/zabbix-hue
