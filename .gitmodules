@@ -2215,3 +2215,6 @@
 [submodule "Template-HW-Philips-Hue-(pschmitt)/repo"]
 	path = Template-HW-Philips-Hue-(pschmitt)/repo
 	url = https://github.com/pschmitt/zabbix-hue
+[submodule "Template-App-Nagios-(sewata)/repo"]
+	path = Template-App-Nagios-(sewata)/repo
+	url = https://github.com/sewata/getnagiostats
