@@ -2218,3 +2218,6 @@
 [submodule "Template-App-Nagios-(sewata)/repo"]
 	path = Template-App-Nagios-(sewata)/repo
 	url = https://github.com/sewata/getnagiostats
+[submodule "Module-Adapter-Rust-(dnaeon)/repo"]
+	path = Module-Adapter-Rust-(dnaeon)/repo
+	url = https://github.com/dnaeon/rust-zbx
