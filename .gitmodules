@@ -2221,3 +2221,6 @@
 [submodule "Module-Adapter-Rust-(dnaeon)/repo"]
 	path = Module-Adapter-Rust-(dnaeon)/repo
 	url = https://github.com/dnaeon/rust-zbx
+[submodule "Script-Zabbix-Server-Stress-Test-(vadv)/repo"]
+	path = Script-Zabbix-Server-Stress-Test-(vadv)/repo
+	url = https://github.com/vadv/zabbix-bench
