@@ -2224,3 +2224,6 @@
 [submodule "Script-Zabbix-Server-Stress-Test-(vadv)/repo"]
 	path = Script-Zabbix-Server-Stress-Test-(vadv)/repo
 	url = https://github.com/vadv/zabbix-bench
+[submodule "Template-AWS-(tech-sketch)/repo"]
+	path = Template-AWS-(tech-sketch)/repo
+	url = https://github.com/tech-sketch/zabbix_aws_template
