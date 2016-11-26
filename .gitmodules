@@ -2230,3 +2230,6 @@
 [submodule "Template-App-Etcd-(shamil)/repo"]
 	path = Template-App-Etcd-(shamil)/repo
 	url = https://github.com/shamil/zabbix-etcd
+[submodule "Integration-JBoss-Agent-(marcanpilami)/repo"]
+	path = Integration-JBoss-Agent-(marcanpilami)/repo
+	url = https://github.com/marcanpilami/Zabbix-JBoss-Agent
