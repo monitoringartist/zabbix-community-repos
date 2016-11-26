@@ -2227,3 +2227,6 @@
 [submodule "Template-AWS-(tech-sketch)/repo"]
 	path = Template-AWS-(tech-sketch)/repo
 	url = https://github.com/tech-sketch/zabbix_aws_template
+[submodule "Template-App-Etcd-(shamil)/repo"]
+	path = Template-App-Etcd-(shamil)/repo
+	url = https://github.com/shamil/zabbix-etcd
