@@ -2233,3 +2233,6 @@
 [submodule "Integration-JBoss-Agent-(marcanpilami)/repo"]
 	path = Integration-JBoss-Agent-(marcanpilami)/repo
 	url = https://github.com/marcanpilami/Zabbix-JBoss-Agent
+[submodule "Template-HW-3Ware-RAID-(H-Software)/repo"]
+	path = Template-HW-3Ware-RAID-(H-Software)/repo
+	url = https://github.com/H-Software/Zabbix-II
