@@ -2242,3 +2242,6 @@
 [submodule "Template-App-DNS-SPF-Check-(JasonCormie)/repo"]
 	path = Template-App-DNS-SPF-Check-(JasonCormie)/repo
 	url = https://github.com/JasonCormie/zabbix-spf-dnslimit
+[submodule "Template-HW-HP-Smart-Array-(AlekseyChudov)/repo"]
+	path = Template-HW-HP-Smart-Array-(AlekseyChudov)/repo
+	url = https://github.com/AlekseyChudov/zabbix-templates
