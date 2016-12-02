@@ -2236,3 +2236,6 @@
 [submodule "Template-HW-3Ware-RAID-(H-Software)/repo"]
 	path = Template-HW-3Ware-RAID-(H-Software)/repo
 	url = https://github.com/H-Software/Zabbix-II
+[submodule "Template-App-DNS-Check-(nobodysu)/repo"]
+	path = Template-App-DNS-Check-(nobodysu)/repo
+	url = https://github.com/nobodysu/zabbix-dnscheck
