@@ -2248,3 +2248,6 @@
 [submodule "Template-HW-Mimosa-(tricksol)/repo"]
 	path = Template-HW-Mimosa-(tricksol)/repo
 	url = https://github.com/tricksol/Zabbix-Templates
+[submodule "Template-App-Arcsight-(vincelasal)/repo"]
+	path = Template-App-Arcsight-(vincelasal)/repo
+	url = https://github.com/vincelasal/arcsight_monitoring
