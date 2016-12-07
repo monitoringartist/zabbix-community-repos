@@ -2245,3 +2245,6 @@
 [submodule "Template-HW-HP-Smart-Array-(AlekseyChudov)/repo"]
 	path = Template-HW-HP-Smart-Array-(AlekseyChudov)/repo
 	url = https://github.com/AlekseyChudov/zabbix-templates
+[submodule "Template-HW-Mimosa-(tricksol)/repo"]
+	path = Template-HW-Mimosa-(tricksol)/repo
+	url = https://github.com/tricksol/Zabbix-Templates
