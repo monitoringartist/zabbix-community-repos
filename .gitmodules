@@ -2251,3 +2251,6 @@
 [submodule "Template-App-Arcsight-(vincelasal)/repo"]
 	path = Template-App-Arcsight-(vincelasal)/repo
 	url = https://github.com/vincelasal/arcsight_monitoring
+[submodule "Template-App-IOCage-Jails-(JamesLodge)/repo"]
+	path = Template-App-IOCage-Jails-(JamesLodge)/repo
+	url = https://github.com/JamesLodge/Zabbix
