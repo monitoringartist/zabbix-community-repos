@@ -2254,3 +2254,6 @@
 [submodule "Template-App-IOCage-Jails-(JamesLodge)/repo"]
 	path = Template-App-IOCage-Jails-(JamesLodge)/repo
 	url = https://github.com/JamesLodge/Zabbix
+[submodule "Script-HP-HW-P2000-G3-(samirfor)/repo"]
+	path = Script-HP-HW-P2000-G3-(samirfor)/repo
+	url = https://github.com/samirfor/Zabbix_HP_P2000_G3.git
