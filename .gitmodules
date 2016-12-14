@@ -2257,3 +2257,6 @@
 [submodule "Script-HP-HW-P2000-G3-(samirfor)/repo"]
 	path = Script-HP-HW-P2000-G3-(samirfor)/repo
 	url = https://github.com/samirfor/Zabbix_HP_P2000_G3.git
+[submodule "API-Perl-Mojo-(bollwarm)/repo"]
+	path = API-Perl-Mojo-(bollwarm)/repo
+	url = https://github.com/bollwarm/Mojo-Zabbix
