@@ -2260,3 +2260,6 @@
 [submodule "API-Perl-Mojo-(bollwarm)/repo"]
 	path = API-Perl-Mojo-(bollwarm)/repo
 	url = https://github.com/bollwarm/Mojo-Zabbix
+[submodule "Template-HW-F5-Big-IP-(mxtong)/repo"]
+	path = Template-HW-F5-Big-IP-(mxtong)/repo
+	url = https://github.com/mxtong/zabbix-3.0-BIG-IP-F5
