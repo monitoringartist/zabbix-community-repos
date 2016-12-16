@@ -2263,3 +2263,6 @@
 [submodule "Template-HW-F5-Big-IP-(mxtong)/repo"]
 	path = Template-HW-F5-Big-IP-(mxtong)/repo
 	url = https://github.com/mxtong/zabbix-3.0-BIG-IP-F5
+[submodule "Template-HW-F5-Big-IP-(thecamels)/repo"]
+	path = Template-HW-F5-Big-IP-(thecamels)/repo
+	url = https://github.com/thecamels/zabbix
