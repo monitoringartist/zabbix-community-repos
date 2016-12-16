@@ -2266,3 +2266,6 @@
 [submodule "Template-HW-F5-Big-IP-(thecamels)/repo"]
 	path = Template-HW-F5-Big-IP-(thecamels)/repo
 	url = https://github.com/thecamels/zabbix
+[submodule "Template-App-OpenStack-(YouMingyang)/repo"]
+	path = Template-App-OpenStack-(YouMingyang)/repo
+	url = https://github.com/YouMingyang/zabbix-monitor-openstack
