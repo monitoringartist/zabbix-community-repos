@@ -2272,3 +2272,6 @@
 [submodule "Template-HW-Cambium-PTP-650-Radios-(tricksol)/repo"]
 	path = Template-HW-Cambium-PTP-650-Radios-(tricksol)/repo
 	url = https://github.com/tricksol/Zabbix-Templates
+[submodule "Template-App-Flume-(diarworld)/repo"]
+	path = Template-App-Flume-(diarworld)/repo
+	url = https://github.com/diarworld/zabbix-flume-template
