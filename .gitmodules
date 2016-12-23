@@ -2275,3 +2275,6 @@
 [submodule "Template-App-Flume-(diarworld)/repo"]
 	path = Template-App-Flume-(diarworld)/repo
 	url = https://github.com/diarworld/zabbix-flume-template
+[submodule "Script-Ping-(Gregy)/repo"]
+	path = Script-Ping-(Gregy)/repo
+	url = https://github.com/Gregy/zaping
