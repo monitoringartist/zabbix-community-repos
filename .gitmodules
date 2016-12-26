@@ -2278,3 +2278,6 @@
 [submodule "Script-Ping-(Gregy)/repo"]
 	path = Script-Ping-(Gregy)/repo
 	url = https://github.com/Gregy/zaping
+[submodule "Template-App-Redis-(pavelnemirovsky)/repo"]
+	path = Template-App-Redis-(pavelnemirovsky)/repo
+	url = https://github.com/pavelnemirovsky/zabbix-redis-template
