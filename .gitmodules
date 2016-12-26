@@ -2284,3 +2284,6 @@
 [submodule "Template-App-Memcached-(chenzhe07)/repo"]
 	path = Template-App-Memcached-(chenzhe07)/repo
 	url = https://github.com/chenzhe07/zabbix_memcached
+[submodule "Script-Alert-SMS-Nexmo-(zabbixcn)/repo"]
+	path = Script-Alert-SMS-Nexmo-(zabbixcn)/repo
+	url = https://github.com/zabbixcn/zabbix-nexmo
