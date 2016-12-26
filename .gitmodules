@@ -2281,3 +2281,6 @@
 [submodule "Template-App-Redis-(pavelnemirovsky)/repo"]
 	path = Template-App-Redis-(pavelnemirovsky)/repo
 	url = https://github.com/pavelnemirovsky/zabbix-redis-template
+[submodule "Template-App-Memcached-(chenzhe07)/repo"]
+	path = Template-App-Memcached-(chenzhe07)/repo
+	url = https://github.com/chenzhe07/zabbix_memcached
