@@ -2287,3 +2287,6 @@
 [submodule "Script-Alert-SMS-Nexmo-(zabbixcn)/repo"]
 	path = Script-Alert-SMS-Nexmo-(zabbixcn)/repo
 	url = https://github.com/zabbixcn/zabbix-nexmo
+[submodule "Template-App-Hadoop-(zijiwok)/repo"]
+	path = Template-App-Hadoop-(zijiwok)/repo
+	url = https://github.com/zijiwok/zabbix-templates
