@@ -2293,3 +2293,6 @@
 [submodule "Template-App-RADIUS-(sshutdownow)/repo"]
 	path = Template-App-RADIUS-(sshutdownow)/repo
 	url = https://github.com/sshutdownow/zabbix-app-radius-service
+[submodule "Template-App-Apt-(meron1122)/repo"]
+	path = Template-App-Apt-(meron1122)/repo
+	url = https://github.com/meron1122/zabbix-apt-template
