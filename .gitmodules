@@ -2290,3 +2290,6 @@
 [submodule "Template-App-Hadoop-(zijiwok)/repo"]
 	path = Template-App-Hadoop-(zijiwok)/repo
 	url = https://github.com/zijiwok/zabbix-templates
+[submodule "Template-App-RADIUS-(sshutdownow)/repo"]
+	path = Template-App-RADIUS-(sshutdownow)/repo
+	url = https://github.com/sshutdownow/zabbix-app-radius-service
