@@ -2296,3 +2296,6 @@
 [submodule "Template-App-Apt-(meron1122)/repo"]
 	path = Template-App-Apt-(meron1122)/repo
 	url = https://github.com/meron1122/zabbix-apt-template
+[submodule "Integration-Zabbix-Agent-PHP-(wizardjedi)/repo"]
+	path = Integration-Zabbix-Agent-PHP-(wizardjedi)/repo
+	url = https://github.com/wizardjedi/php-zabbix-agent
