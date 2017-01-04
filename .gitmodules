@@ -2299,3 +2299,6 @@
 [submodule "Integration-Zabbix-Agent-PHP-(wizardjedi)/repo"]
 	path = Integration-Zabbix-Agent-PHP-(wizardjedi)/repo
 	url = https://github.com/wizardjedi/php-zabbix-agent
+[submodule "Integration-AWS-Autoscale-(schnoddelbotz)/repo"]
+	path = Integration-AWS-Autoscale-(schnoddelbotz)/repo
+	url = https://github.com/schnoddelbotz/aws-autoscale-zabbix
