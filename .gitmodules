@@ -2302,3 +2302,6 @@
 [submodule "Integration-AWS-Autoscale-(schnoddelbotz)/repo"]
 	path = Integration-AWS-Autoscale-(schnoddelbotz)/repo
 	url = https://github.com/schnoddelbotz/aws-autoscale-zabbix
+[submodule "Template-App-Nethogs-(farshidzamanirad)/repo"]
+	path = Template-App-Nethogs-(farshidzamanirad)/repo
+	url = https://github.com/farshidzamanirad/nethogs-zabbix
