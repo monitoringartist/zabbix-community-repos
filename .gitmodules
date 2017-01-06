@@ -2314,3 +2314,6 @@
 [submodule "Template-App-Minecraft-(garelp)/repo"]
 	path = Template-App-Minecraft-(garelp)/repo
 	url = https://github.com/garelp/zabbix-minecraft-server
+[submodule "Template-App-hddtemp-(nightspotlight)/repo"]
+	path = Template-App-hddtemp-(nightspotlight)/repo
+	url = https://github.com/nightspotlight/zabbix_template_hddtemp
