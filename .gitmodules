@@ -2305,3 +2305,6 @@
 [submodule "Template-App-Nethogs-(farshidzamanirad)/repo"]
 	path = Template-App-Nethogs-(farshidzamanirad)/repo
 	url = https://github.com/farshidzamanirad/nethogs-zabbix
+[submodule "Template-HW-Adaptec-RAID-(YSmetana)/repo"]
+	path = Template-HW-Adaptec-RAID-(YSmetana)/repo
+	url = https://github.com/YSmetana/raid_arcconf_zabbix_lld
