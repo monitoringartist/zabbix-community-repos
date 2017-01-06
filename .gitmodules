@@ -2311,3 +2311,6 @@
 [submodule "Template-App-Transmission-(garelp)/repo"]
 	path = Template-App-Transmission-(garelp)/repo
 	url = https://github.com/garelp/zabbix-transmission
+[submodule "Template-App-Minecraft-(garelp)/repo"]
+	path = Template-App-Minecraft-(garelp)/repo
+	url = https://github.com/garelp/zabbix-minecraft-server
