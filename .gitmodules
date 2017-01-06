@@ -2308,3 +2308,6 @@
 [submodule "Template-HW-Adaptec-RAID-(YSmetana)/repo"]
 	path = Template-HW-Adaptec-RAID-(YSmetana)/repo
 	url = https://github.com/YSmetana/raid_arcconf_zabbix_lld
+[submodule "Template-App-Transmission-(garelp)/repo"]
+	path = Template-App-Transmission-(garelp)/repo
+	url = https://github.com/garelp/zabbix-transmission
