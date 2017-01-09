@@ -2317,3 +2317,6 @@
 [submodule "Template-App-hddtemp-(nightspotlight)/repo"]
 	path = Template-App-hddtemp-(nightspotlight)/repo
 	url = https://github.com/nightspotlight/zabbix_template_hddtemp
+[submodule "Integration-DB-MySQL-and-Oracle-monitoring-(vagabondan)/repo"]
+	path = Integration-DB-MySQL-and-Oracle-monitoring-(vagabondan)/repo
+	url = https://github.com/vagabondan/db4bix
