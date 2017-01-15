@@ -2332,3 +2332,6 @@
 [submodule "Template-App-Abills-(vitalvas)/repo"]
 	path = Template-App-Abills-(vitalvas)/repo
 	url = https://github.com/vitalvas/zabbix-template-abills
+[submodule "Integration-OpenBaton-(openbaton)/repo"]
+	path = Integration-OpenBaton-(openbaton)/repo
+	url = https://github.com/openbaton/zabbix-plugin
