@@ -2326,3 +2326,6 @@
 [submodule "Script-Alert-SMS-Gammu-(z-afshar)/repo"]
 	path = Script-Alert-SMS-Gammu-(z-afshar)/repo
 	url = https://github.com/z-afshar/zabbix-gammu-smsd
+[submodule "Template-App-PowerMTA-(softvu)/repo"]
+	path = Template-App-PowerMTA-(softvu)/repo
+	url = https://github.com/softvu/zabbix-powermta
