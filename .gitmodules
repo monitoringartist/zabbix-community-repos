@@ -2329,3 +2329,6 @@
 [submodule "Template-App-PowerMTA-(softvu)/repo"]
 	path = Template-App-PowerMTA-(softvu)/repo
 	url = https://github.com/softvu/zabbix-powermta
+[submodule "Template-App-Abills-(vitalvas)/repo"]
+	path = Template-App-Abills-(vitalvas)/repo
+	url = https://github.com/vitalvas/zabbix-template-abills
