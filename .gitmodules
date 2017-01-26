@@ -2335,3 +2335,6 @@
 [submodule "Integration-OpenBaton-(openbaton)/repo"]
 	path = Integration-OpenBaton-(openbaton)/repo
 	url = https://github.com/openbaton/zabbix-plugin
+[submodule "Template-App-Node.js-PM2-(greatcare)/repo"]
+	path = Template-App-Node.js-PM2-(greatcare)/repo
+	url = https://github.com/greatcare/pm2-zabbix
