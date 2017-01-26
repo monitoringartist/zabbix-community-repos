@@ -2338,3 +2338,6 @@
 [submodule "Template-App-Node.js-PM2-(greatcare)/repo"]
 	path = Template-App-Node.js-PM2-(greatcare)/repo
 	url = https://github.com/greatcare/pm2-zabbix
+[submodule "Template-App-Windows-Certificates-(demudrol)/repo"]
+	path = Template-App-Windows-Certificates-(demudrol)/repo
+	url = https://github.com/demudrol/ZabbixWinCert
