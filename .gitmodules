@@ -2347,3 +2347,6 @@
 [submodule "Integration-Appdynamics-(Appdynamics)/repo"]
 	path = Integration-Appdynamics-(Appdynamics)/repo
 	url = https://github.com/Appdynamics/zabbix-monitoring-extension
+[submodule "Template-App-Borg-Backup-(theranger)/repo"]
+	path = Template-App-Borg-Backup-(theranger)/repo
+	url = https://github.com/theranger/zabbix-borg
