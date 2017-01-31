@@ -2344,3 +2344,6 @@
 [submodule "Template-App-Graylog-(mhulscher)/repo"]
 	path = Template-App-Graylog-(mhulscher)/repo
 	url = https://github.com/mhulscher/graylog-zabbix-alert-monitor
+[submodule "Integration-Appdynamics-(Appdynamics)/repo"]
+	path = Integration-Appdynamics-(Appdynamics)/repo
+	url = https://github.com/Appdynamics/zabbix-monitoring-extension
