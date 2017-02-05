@@ -2320,9 +2320,6 @@
 [submodule "Integration-DB-MySQL-and-Oracle-monitoring-(vagabondan)/repo"]
 	path = Integration-DB-MySQL-and-Oracle-monitoring-(vagabondan)/repo
 	url = https://github.com/vagabondan/db4bix
-[submodule "Integration-Avi-Networks-(avinetworks)/repo"]
-	path = Integration-Avi-Networks-(avinetworks)/repo
-	url = https://github.com/avinetworks/avi-zabbix-integration
 [submodule "Script-Alert-SMS-Gammu-(z-afshar)/repo"]
 	path = Script-Alert-SMS-Gammu-(z-afshar)/repo
 	url = https://github.com/z-afshar/zabbix-gammu-smsd
