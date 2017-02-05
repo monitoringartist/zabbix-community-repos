@@ -2350,3 +2350,6 @@
 [submodule "Template-App-Borg-Backup-(theranger)/repo"]
 	path = Template-App-Borg-Backup-(theranger)/repo
 	url = https://github.com/theranger/zabbix-borg
+[submodule "Script-Alert-Jira-(alexander-nesterov)/repo"]
+	path = Script-Alert-Jira-(alexander-nesterov)/repo
+	url = https://github.com/alexander-nesterov/zabbix_jira
