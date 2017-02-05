@@ -1,0 +1,21 @@
+notifications:
+  email:
+    on_success: never
+    on_failure: change
+
+branches:
+   only:
+     - master
+     
+script:
+  - "cd scripts"
+  - "./regenerate-sources.sh"
+  - "python test-sources.py"
+  - 'DATE=`date +"%Y-%m-%d %H:%M:%S"`'
+  - 'git commit -am "Source update $DATE"'
+  - "if [ $? -eq 0 ]; then git push git@github.com:monitoringartist/zabbix-searcher.git gh-pages; fi"
+
+env:
+  global:
+  - ENCRYPTION_LABEL: "469b4b5a68a6"
+  - COMMIT_AUTHOR_EMAIL: "jan.garaj@gmail.com"
