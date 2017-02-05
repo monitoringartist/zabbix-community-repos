@@ -23,7 +23,6 @@ The format for structure should be as follows:
 
 Please do not put any actual code in here. Please use full meaning name for the project name, e.g. "*Template Nginx (user)*", instead of "*Nginx (user)*".
 
-
 Example
 =======
 
