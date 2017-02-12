@@ -2350,3 +2350,6 @@
 [submodule "Script-Alert-Jira-(alexander-nesterov)/repo"]
 	path = Script-Alert-Jira-(alexander-nesterov)/repo
 	url = https://github.com/alexander-nesterov/zabbix_jira
+[submodule "Integration-Graylog-Stream-(mhulscher)/repo"]
+	path = Integration-Graylog-Stream-(mhulscher)/repo
+	url = https://github.com/mhulscher/graylog-zabbix-alert-monitor
