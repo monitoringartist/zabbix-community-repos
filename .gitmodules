@@ -2353,3 +2353,6 @@
 [submodule "Integration-Graylog-Stream-(mhulscher)/repo"]
 	path = Integration-Graylog-Stream-(mhulscher)/repo
 	url = https://github.com/mhulscher/graylog-zabbix-alert-monitor
+[submodule "Script-Alert-Pushsafer-(appzer)/repo"]
+	path = Script-Alert-Pushsafer-(appzer)/repo
+	url = https://github.com/appzer/zabbix-pushsafer
