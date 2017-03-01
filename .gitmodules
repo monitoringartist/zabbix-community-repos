@@ -2359,3 +2359,6 @@
 [submodule "Integration-Zabbix-Sender-Java-(neiromc)/repo"]
 	path = Integration-Zabbix-Sender-Java-(neiromc)/repo
 	url = https://github.com/neiromc/zabbix-server-sender
+[submodule "Template-Database-Couchbase-(KHiis)/repo"]
+	path = Template-Database-Couchbase-(KHiis)/repo
+	url = https://github.com/KHiis/couchdb-zabbix
