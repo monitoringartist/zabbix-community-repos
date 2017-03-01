@@ -2362,3 +2362,6 @@
 [submodule "Template-Database-Couchbase-(KHiis)/repo"]
 	path = Template-Database-Couchbase-(KHiis)/repo
 	url = https://github.com/KHiis/couchdb-zabbix
+[submodule "Template-App-NTP-peers-(mikhiv)/repo"]
+	path = Template-App-NTP-peers-(mikhiv)/repo
+	url = https://github.com/mikhiv/zabbix-untp-peers
