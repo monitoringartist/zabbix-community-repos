@@ -2368,3 +2368,6 @@
 [submodule "Template-Database-CouchDB-(KHiis)/repo"]
 	path = Template-Database-CouchDB-(KHiis)/repo
 	url = https://github.com/KHiis/couchdb-zabbix
+[submodule "Template-Database-CouchBase-(tetreis)/repo"]
+	path = Template-Database-CouchBase-(tetreis)/repo
+	url = https://github.com/tetreis/zabbix-couchbase-template
