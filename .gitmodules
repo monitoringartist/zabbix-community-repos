@@ -2371,3 +2371,6 @@
 [submodule "Template-Database-CouchBase-(tetreis)/repo"]
 	path = Template-Database-CouchBase-(tetreis)/repo
 	url = https://github.com/tetreis/zabbix-couchbase-template
+[submodule "Integration-AWS-OpsWorks-(paulopontesm)/repo"]
+	path = Integration-AWS-OpsWorks-(paulopontesm)/repo
+	url = https://github.com/paulopontesm/zabbix_opsworks
