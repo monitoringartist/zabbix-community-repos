@@ -2383,3 +2383,6 @@
 [submodule "Script-Alert-Jira-(Movile)/repo"]
 	path = Script-Alert-Jira-(Movile)/repo
 	url = https://github.com/Movile/zabbix2jira
+[submodule "Integration-DB-MySQL-and-Oracle-monitoring-(smartmarmot)/repo"]
+	path = Integration-DB-MySQL-and-Oracle-monitoring-(smartmarmot)/repo
+	url = https://github.com/smartmarmot/DBforBIX
