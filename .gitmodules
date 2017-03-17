@@ -2374,3 +2374,6 @@
 [submodule "Integration-AWS-OpsWorks-(paulopontesm)/repo"]
 	path = Integration-AWS-OpsWorks-(paulopontesm)/repo
 	url = https://github.com/paulopontesm/zabbix_opsworks
+[submodule "Template-Database-MSSQL-(khannz)/repo"]
+	path = Template-Database-MSSQL-(khannz)/repo
+	url = https://github.com/khannz/go-zabbix-mssql
