@@ -2380,3 +2380,6 @@
 [submodule "Template-Database-MSSQL-(jjmartres)/repo"]
 	path = Template-Database-MSSQL-(jjmartres)/repo
 	url = https://github.com/jjmartres/Zabbix
+[submodule "Script-Alert-Jira-(Movile)/repo"]
+	path = Script-Alert-Jira-(Movile)/repo
+	url = https://github.com/Movile/zabbix2jira
