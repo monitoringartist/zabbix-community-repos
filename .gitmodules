@@ -2377,3 +2377,6 @@
 [submodule "Template-Database-MSSQL-(khannz)/repo"]
 	path = Template-Database-MSSQL-(khannz)/repo
 	url = https://github.com/khannz/go-zabbix-mssql
+[submodule "Template-Database-MSSQL-(jjmartres)/repo"]
+	path = Template-Database-MSSQL-(jjmartres)/repo
+	url = https://github.com/jjmartres/Zabbix
