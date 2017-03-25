@@ -2386,3 +2386,6 @@
 [submodule "Integration-DB-MySQL-and-Oracle-monitoring-(smartmarmot)/repo"]
 	path = Integration-DB-MySQL-and-Oracle-monitoring-(smartmarmot)/repo
 	url = https://github.com/smartmarmot/DBforBIX
+[submodule "Script-Alert-SendGrid-(mkgin)/repo"]
+	path = Script-Alert-SendGrid-(mkgin)/repo
+	url = https://github.com/mkgin/sendgrid_zabbix_alert
