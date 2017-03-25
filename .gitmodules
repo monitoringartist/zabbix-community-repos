@@ -2389,3 +2389,6 @@
 [submodule "Script-Alert-SendGrid-(mkgin)/repo"]
 	path = Script-Alert-SendGrid-(mkgin)/repo
 	url = https://github.com/mkgin/sendgrid_zabbix_alert
+[submodule "Template-HW-Nvidia-GPU-(RichardKav)/repo"]
+	path = Template-HW-Nvidia-GPU-(RichardKav)/repo
+	url = https://github.com/RichardKav/zabbix-nvidia-smi-integration
