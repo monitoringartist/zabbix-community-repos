@@ -2392,3 +2392,6 @@
 [submodule "Template-HW-Nvidia-GPU-(RichardKav)/repo"]
 	path = Template-HW-Nvidia-GPU-(RichardKav)/repo
 	url = https://github.com/RichardKav/zabbix-nvidia-smi-integration
+[submodule "Template-App-Minecraft-(HimaJyun)/repo"]
+	path = Template-App-Minecraft-(HimaJyun)/repo
+	url = https://github.com/HimaJyun/Zabbigot
