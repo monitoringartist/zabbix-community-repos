@@ -2395,3 +2395,6 @@
 [submodule "Template-App-Minecraft-(HimaJyun)/repo"]
 	path = Template-App-Minecraft-(HimaJyun)/repo
 	url = https://github.com/HimaJyun/Zabbigot
+[submodule "Template-VM-VMware-Host-(ameiji)/repo"]
+	path = Template-VM-VMware-Host-(ameiji)/repo
+	url = https://github.com/ameiji/Zabbix-VMware-Templates
