@@ -2404,3 +2404,6 @@
 [submodule "Module-Adapter-Switft-(m-barthelemy)/repo"]
 	path = Module-Adapter-Switft-(m-barthelemy)/repo
 	url = https://github.com/m-barthelemy/zabbix-swift
+[submodule "API-Javascript-with-Promise-(sumitgoelpw)/repo"]
+	path = API-Javascript-with-Promise-(sumitgoelpw)/repo
+	url = https://github.com/sumitgoelpw/zabbix-promise
