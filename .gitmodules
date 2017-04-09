@@ -2401,3 +2401,6 @@
 [submodule "Template-App-OpenIO-(Mixton)/repo"]
 	path = Template-App-OpenIO-(Mixton)/repo
 	url = https://github.com/Mixton/zabbix-oio
+[submodule "Module-Adapter-Switft-(m-barthelemy)/repo"]
+	path = Module-Adapter-Switft-(m-barthelemy)/repo
+	url = https://github.com/m-barthelemy/zabbix-swift
