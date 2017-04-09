@@ -2398,3 +2398,6 @@
 [submodule "Template-VM-VMware-Host-(ameiji)/repo"]
 	path = Template-VM-VMware-Host-(ameiji)/repo
 	url = https://github.com/ameiji/Zabbix-VMware-Templates
+[submodule "Template-App-OpenIO-(Mixton)/repo"]
+	path = Template-App-OpenIO-(Mixton)/repo
+	url = https://github.com/Mixton/zabbix-oio
