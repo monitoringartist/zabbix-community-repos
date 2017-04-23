@@ -2410,3 +2410,6 @@
 [submodule "Template-App-systemd-(cavaliercoder)/repo"]
 	path = Template-App-systemd-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/zabbix-module-systemd
+[submodule "Template-App-SSL-(cavazquez)/repo"]
+	path = Template-App-SSL-(cavazquez)/repo
+	url = https://github.com/cavazquez/zabbix_template_ssl
