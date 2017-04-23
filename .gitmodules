@@ -2407,3 +2407,6 @@
 [submodule "API-Javascript-with-Promise-(sumitgoelpw)/repo"]
 	path = API-Javascript-with-Promise-(sumitgoelpw)/repo
 	url = https://github.com/sumitgoelpw/zabbix-promise
+[submodule "Template-App-systemd-(cavaliercoder)/repo"]
+	path = Template-App-systemd-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-module-systemd
