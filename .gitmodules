@@ -2413,3 +2413,6 @@
 [submodule "Template-App-SSL-(cavazquez)/repo"]
 	path = Template-App-SSL-(cavazquez)/repo
 	url = https://github.com/cavazquez/zabbix_template_ssl
+[submodule "Template-App-Oracle-VM-(sshutdownow)/repo"]
+	path = Template-App-Oracle-VM-(sshutdownow)/repo
+	url = https://github.com/sshutdownow/zabbix-oracle-vm
