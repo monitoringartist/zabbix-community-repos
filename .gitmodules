@@ -2431,3 +2431,6 @@
 [submodule "Template-HW-DmOS-Datacom-(datacom-teracom)/repo"]
 	path = Template-HW-DmOS-Datacom-(datacom-teracom)/repo
 	url = https://github.com/datacom-teracom/dmos-zabbix-template
+[submodule "Template-App-Windows-Storage-Spaces-(mrgloba)/repo"]
+	path = Template-App-Windows-Storage-Spaces-(mrgloba)/repo
+	url = https://github.com/mrgloba/template_ss
