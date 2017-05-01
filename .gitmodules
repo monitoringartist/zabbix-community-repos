@@ -2428,3 +2428,6 @@
 [submodule "Template-HW-Xiaomi-smarthome-gateway-(icez)/repo"]
 	path = Template-HW-Xiaomi-smarthome-gateway-(icez)/repo
 	url = https://github.com/icez/zabbix-migateway
+[submodule "Template-HW-DmOS-Datacom-(datacom-teracom)/repo"]
+	path = Template-HW-DmOS-Datacom-(datacom-teracom)/repo
+	url = https://github.com/datacom-teracom/dmos-zabbix-template
