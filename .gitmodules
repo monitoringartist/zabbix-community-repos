@@ -2416,3 +2416,6 @@
 [submodule "Template-App-Oracle-VM-(sshutdownow)/repo"]
 	path = Template-App-Oracle-VM-(sshutdownow)/repo
 	url = https://github.com/sshutdownow/zabbix-oracle-vm
+[submodule "Script-Alert-Youtrack-(devopshq)/repo"]
+	path = Script-Alert-Youtrack-(devopshq)/repo
+	url = https://github.com/devopshq/zabbix-youtrack-action
