@@ -2419,3 +2419,6 @@
 [submodule "Script-Alert-Youtrack-(devopshq)/repo"]
 	path = Script-Alert-Youtrack-(devopshq)/repo
 	url = https://github.com/devopshq/zabbix-youtrack-action
+[submodule "Script-Aler-xMatters-(tkouhsari)/repo"]
+	path = Script-Aler-xMatters-(tkouhsari)/repo
+	url = https://github.com/xmatters/xm-labs-zabbix
