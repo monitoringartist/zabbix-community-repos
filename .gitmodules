@@ -2422,3 +2422,6 @@
 [submodule "Script-Aler-xMatters-(tkouhsari)/repo"]
 	path = Script-Aler-xMatters-(tkouhsari)/repo
 	url = https://github.com/xmatters/xm-labs-zabbix
+[submodule "Template-HW-Ubiquiti-AirMax-(hostbyte)/repo"]
+	path = Template-HW-Ubiquiti-AirMax-(hostbyte)/repo
+	url = https://github.com/hostbyte/Template_SNMP_Ubiquiti_AirMax
