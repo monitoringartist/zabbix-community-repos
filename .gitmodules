@@ -2425,3 +2425,6 @@
 [submodule "Template-HW-Ubiquiti-AirMax-(hostbyte)/repo"]
 	path = Template-HW-Ubiquiti-AirMax-(hostbyte)/repo
 	url = https://github.com/hostbyte/Template_SNMP_Ubiquiti_AirMax
+[submodule "Template-HW-Xiaomi-smarthome-gateway-(icez)/repo"]
+	path = Template-HW-Xiaomi-smarthome-gateway-(icez)/repo
+	url = https://github.com/icez/zabbix-migateway
