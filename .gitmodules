@@ -2434,3 +2434,6 @@
 [submodule "Template-App-Windows-Storage-Spaces-(mrgloba)/repo"]
 	path = Template-App-Windows-Storage-Spaces-(mrgloba)/repo
 	url = https://github.com/mrgloba/template_ss
+[submodule "Integration-MySQL-partitioning-(McLeod095)/repo"]
+	path = Integration-MySQL-partitioning-(McLeod095)/repo
+	url = https://github.com/McLeod095/zabbix-mysql-partitionioning
