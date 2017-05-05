@@ -2437,3 +2437,6 @@
 [submodule "Integration-MySQL-partitioning-(McLeod095)/repo"]
 	path = Integration-MySQL-partitioning-(McLeod095)/repo
 	url = https://github.com/McLeod095/zabbix-mysql-partitionioning
+[submodule "Template-App-SSL-(omni-lchen)/repo"]
+	path = Template-App-SSL-(omni-lchen)/repo
+	url = https://github.com/omni-lchen/zabbix-ssl
