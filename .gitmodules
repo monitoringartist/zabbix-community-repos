@@ -2446,3 +2446,6 @@
 [submodule "Template-HW-Ruckus-ZoneDirector-1200-(wisenetman)/repo"]
 	path = Template-HW-Ruckus-ZoneDirector-1200-(wisenetman)/repo
 	url = https://github.com/wisenetman/Zabbix-Templates
+[submodule "Template-Iperf-(subhshetty)/repo"]
+	path = Template-Iperf-(subhshetty)/repo
+	url = https://github.com/subhshetty/iperf-zabbix
