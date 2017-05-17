@@ -2440,3 +2440,6 @@
 [submodule "Template-App-SSL-(omni-lchen)/repo"]
 	path = Template-App-SSL-(omni-lchen)/repo
 	url = https://github.com/omni-lchen/zabbix-ssl
+[submodule "Template-App-Quadrant-Barman-(JanisOrlovs)/repo"]
+	path = Template-App-Quadrant-Barman-(JanisOrlovs)/repo
+	url = https://github.com/JanisOrlovs/zabbix-barman
