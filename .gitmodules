@@ -2443,3 +2443,6 @@
 [submodule "Template-App-Quadrant-Barman-(JanisOrlovs)/repo"]
 	path = Template-App-Quadrant-Barman-(JanisOrlovs)/repo
 	url = https://github.com/JanisOrlovs/zabbix-barman
+[submodule "Template-HW-Ruckus-ZoneDirector-1200-(wisenetman)/repo"]
+	path = Template-HW-Ruckus-ZoneDirector-1200-(wisenetman)/repo
+	url = https://github.com/wisenetman/Zabbix-Templates
