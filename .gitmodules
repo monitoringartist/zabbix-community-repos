@@ -2449,3 +2449,6 @@
 [submodule "Template-Iperf-(subhshetty)/repo"]
 	path = Template-Iperf-(subhshetty)/repo
 	url = https://github.com/subhshetty/iperf-zabbix
+[submodule "Template-App-Socket-Status-(cavaliercoder)/repo"]
+	path = Template-App-Socket-Status-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-module-sockets
