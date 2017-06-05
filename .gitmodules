@@ -2455,3 +2455,6 @@
 [submodule "Template-App-Gluster-(burner1024)/repo"]
 	path = Template-App-Gluster-(burner1024)/repo
 	url = https://github.com/burner1024/zabbix-gluster
+[submodule "Template-Pappercut-(Open-Future-Belgium)/repo"]
+	path = Template-Pappercut-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix-papercut
