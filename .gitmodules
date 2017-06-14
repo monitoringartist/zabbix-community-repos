@@ -2458,3 +2458,6 @@
 [submodule "Template-Pappercut-(Open-Future-Belgium)/repo"]
 	path = Template-Pappercut-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix-papercut
+[submodule "Template-App-Kafka-(yangcvo)/repo"]
+	path = Template-App-Kafka-(yangcvo)/repo
+	url = https://github.com/yangcvo/Zabbix-Monitoring-Kafka
