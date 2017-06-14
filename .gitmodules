@@ -2467,3 +2467,6 @@
 [submodule "Template-App-Beanstalkd-(Mixton)/repo"]
 	path = Template-App-Beanstalkd-(Mixton)/repo
 	url = https://github.com/Mixton/zabbix-beanstalkd
+[submodule "Template-HW-Dell-Equallogic-(asosso)/repo"]
+	path = Template-HW-Dell-Equallogic-(asosso)/repo
+	url = https://github.com/asosso/zbx3-dell-equallogic
