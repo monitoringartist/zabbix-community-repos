@@ -2470,3 +2470,6 @@
 [submodule "Template-HW-Dell-Equallogic-(asosso)/repo"]
 	path = Template-HW-Dell-Equallogic-(asosso)/repo
 	url = https://github.com/asosso/zbx3-dell-equallogic
+[submodule "Template-App-Barman-(Open-Future-Belgium)-/repo"]
+	path = Template-App-Barman-(Open-Future-Belgium)-/repo
+	url = https://github.com/Open-Future-Belgium/zabbix-barman
