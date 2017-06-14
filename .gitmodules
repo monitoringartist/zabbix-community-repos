@@ -2461,3 +2461,6 @@
 [submodule "Template-App-Kafka-(yangcvo)/repo"]
 	path = Template-App-Kafka-(yangcvo)/repo
 	url = https://github.com/yangcvo/Zabbix-Monitoring-Kafka
+[submodule "Template-App-DRBD-(sbuelow)/repo"]
+	path = Template-App-DRBD-(sbuelow)/repo
+	url = https://github.com/sbuelow/zabbix-template-drbd
