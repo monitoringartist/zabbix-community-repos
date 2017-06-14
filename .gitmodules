@@ -2464,3 +2464,6 @@
 [submodule "Template-App-DRBD-(sbuelow)/repo"]
 	path = Template-App-DRBD-(sbuelow)/repo
 	url = https://github.com/sbuelow/zabbix-template-drbd
+[submodule "Template-App-Beanstalkd-(Mixton)/repo"]
+	path = Template-App-Beanstalkd-(Mixton)/repo
+	url = https://github.com/Mixton/zabbix-beanstalkd
