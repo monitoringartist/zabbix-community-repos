@@ -2473,3 +2473,6 @@
 [submodule "Template-App-Barman-(Open-Future-Belgium)-/repo"]
 	path = Template-App-Barman-(Open-Future-Belgium)-/repo
 	url = https://github.com/Open-Future-Belgium/zabbix-barman
+[submodule "Template-HW-Fujitsu-Eternus-(bitfag)/repo"]
+	path = Template-HW-Fujitsu-Eternus-(bitfag)/repo
+	url = https://github.com/bitfag/zabbix-template-fujitsu-eternus
