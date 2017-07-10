@@ -2479,3 +2479,6 @@
 [submodule "Template-App-nfsiostat-(udomsak)/repo"]
 	path = Template-App-nfsiostat-(udomsak)/repo
 	url = https://github.com/udomsak/zbx-nfsiostat-sysstat
+[submodule "Integration-Template-Converter-(cavaliercoder)/repo"]
+	path = Integration-Template-Converter-(cavaliercoder)/repo
+	url = https://github.com/cavaliercoder/zabbix-template-converter
