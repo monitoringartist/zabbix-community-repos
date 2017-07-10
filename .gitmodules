@@ -2476,3 +2476,6 @@
 [submodule "Template-HW-Fujitsu-Eternus-(bitfag)/repo"]
 	path = Template-HW-Fujitsu-Eternus-(bitfag)/repo
 	url = https://github.com/bitfag/zabbix-template-fujitsu-eternus
+[submodule "Template-App-nfsiostat-(udomsak)/repo"]
+	path = Template-App-nfsiostat-(udomsak)/repo
+	url = https://github.com/udomsak/zbx-nfsiostat-sysstat
