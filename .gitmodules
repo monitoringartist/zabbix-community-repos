@@ -2488,3 +2488,6 @@
 [submodule "Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo"]
 	path = Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo
 	url = https://github.com/Open-Future-Belgium/zabbix-Rocket.Chat
+[submodule "Template-HW-HP-MSA-(asand3r)/repo"]
+	path = Template-HW-HP-MSA-(asand3r)/repo
+	url = https://github.com/asand3r/zbx-hpmsa
