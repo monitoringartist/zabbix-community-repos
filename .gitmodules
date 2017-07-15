@@ -2485,3 +2485,6 @@
 [submodule "Module-IPC-(i-ky)/repo"]
 	path = Module-IPC-(i-ky)/repo
 	url = https://github.com/i-ky/zaipcs
+[submodule "Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo"]
+	path = Script-Alert-Rocket-Chat-(Open-Future-Belgium)/repo
+	url = https://github.com/Open-Future-Belgium/zabbix-Rocket.Chat
