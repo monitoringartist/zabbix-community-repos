@@ -2482,3 +2482,6 @@
 [submodule "Integration-Template-Converter-(cavaliercoder)/repo"]
 	path = Integration-Template-Converter-(cavaliercoder)/repo
 	url = https://github.com/cavaliercoder/zabbix-template-converter
+[submodule "Module-IPC-(i-ky)/repo"]
+	path = Module-IPC-(i-ky)/repo
+	url = https://github.com/i-ky/zaipcs
