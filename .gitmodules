@@ -2500,3 +2500,6 @@
 [submodule "Template-HW-Dell-CS24-TY-(kometchtech)/repo"]
 	path = Template-HW-Dell-CS24-TY-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-HP-ML110G6-(kometchtech)/repo"]
+	path = Template-HW-HP-ML110G6-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
