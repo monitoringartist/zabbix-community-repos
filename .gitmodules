@@ -2491,3 +2491,6 @@
 [submodule "Template-HW-HP-MSA-(asand3r)/repo"]
 	path = Template-HW-HP-MSA-(asand3r)/repo
 	url = https://github.com/asand3r/zbx-hpmsa
+[submodule "Template-HW-Asus-ADSL-modem-(mkgin)/repo"]
+	path = Template-HW-Asus-ADSL-modem-(mkgin)/repo
+	url = https://github.com/mkgin/zabbix_TEMPLATE_asuswrt_adsl
