@@ -2503,3 +2503,6 @@
 [submodule "Template-HW-HP-ML110G6-(kometchtech)/repo"]
 	path = Template-HW-HP-ML110G6-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-Supermicro-X10SLL-F-(JanKoppe)/repo"]
+	path = Template-HW-Supermicro-X10SLL-F-(JanKoppe)/repo
+	url = https://github.com/JanKoppe/zabbix-supermicro-x10sll-f
