@@ -2509,3 +2509,6 @@
 [submodule "Template-HW-HW-IBM-IMM2-SNMP-(allburov)/repo"]
 	path = Template-HW-HW-IBM-IMM2-SNMP-(allburov)/repo
 	url = https://github.com/allburov/zabbix-ibm-server-imm2
+[submodule "Template-HW-IBM-IMM2-SNMP-(allburov)/repo"]
+	path = Template-HW-IBM-IMM2-SNMP-(allburov)/repo
+	url = https://github.com/allburov/zabbix-ibm-server-imm2
