@@ -2494,3 +2494,6 @@
 [submodule "Template-HW-Asus-ADSL-modem-(mkgin)/repo"]
 	path = Template-HW-Asus-ADSL-modem-(mkgin)/repo
 	url = https://github.com/mkgin/zabbix_TEMPLATE_asuswrt_adsl
+[submodule "Template-HW-Dell-FS12-TY-(kometchtech)/repo"]
+	path = Template-HW-Dell-FS12-TY-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
