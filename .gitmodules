@@ -2497,3 +2497,6 @@
 [submodule "Template-HW-Dell-FS12-TY-(kometchtech)/repo"]
 	path = Template-HW-Dell-FS12-TY-(kometchtech)/repo
 	url = https://github.com/kometchtech/Zabbix_IPMI
+[submodule "Template-HW-Dell-CS24-TY-(kometchtech)/repo"]
+	path = Template-HW-Dell-CS24-TY-(kometchtech)/repo
+	url = https://github.com/kometchtech/Zabbix_IPMI
