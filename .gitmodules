@@ -2515,3 +2515,6 @@
 [submodule "Template-Database-Galera-(MogiePete)/repo"]
 	path = Template-Database-Galera-(MogiePete)/repo
 	url = https://github.com/MogiePete/zabbix-galera-template
+[submodule "Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo"]
+	path = Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo
+	url = https://github.com/a-schild/zabbix-ipsec
