@@ -2518,3 +2518,6 @@
 [submodule "Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo"]
 	path = Template-App-Openswan-Strongswan-IPSEC-(a-schild)/repo
 	url = https://github.com/a-schild/zabbix-ipsec
+[submodule "Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo"]
+	path = Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo
+	url = https://github.com/ThomasVdBerge/zabbix-docker-terraform
