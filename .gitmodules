@@ -2521,3 +2521,6 @@
 [submodule "Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo"]
 	path = Integration-Terraform-AWS-ECS-(ThomasVdBerge)/repo
 	url = https://github.com/ThomasVdBerge/zabbix-docker-terraform
+[submodule "Template-App-TeamD-(MogiePete)/repo"]
+	path = Template-App-TeamD-(MogiePete)/repo
+	url = https://github.com/MogiePete/zabbix-teamd-template
