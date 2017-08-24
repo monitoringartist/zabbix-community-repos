@@ -2527,3 +2527,6 @@
 [submodule "Template-App-Azure-(Azure-Samples)/repo"]
 	path = Template-App-Azure-(Azure-Samples)/repo
 	url = https://github.com/Azure-Samples/azure-zabbix-templates
+[submodule "Template-App-CommuniGate-(pdacity)/repo"]
+	path = Template-App-CommuniGate-(pdacity)/repo
+	url = https://github.com/pdacity/cgp_snmp_zabbix
