@@ -2524,3 +2524,6 @@
 [submodule "Template-App-TeamD-(MogiePete)/repo"]
 	path = Template-App-TeamD-(MogiePete)/repo
 	url = https://github.com/MogiePete/zabbix-teamd-template
+[submodule "Template-App-Azure-(Azure-Samples)/repo"]
+	path = Template-App-Azure-(Azure-Samples)/repo
+	url = https://github.com/Azure-Samples/azure-zabbix-templates
