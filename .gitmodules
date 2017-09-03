@@ -2530,3 +2530,6 @@
 [submodule "Template-App-CommuniGate-(pdacity)/repo"]
 	path = Template-App-CommuniGate-(pdacity)/repo
 	url = https://github.com/pdacity/cgp_snmp_zabbix
+[submodule "Template-App-OpenShift-(wkulhanek)/repo"]
+	path = Template-App-OpenShift-(wkulhanek)/repo
+	url = https://github.com/wkulhanek/openshift-zabbix
