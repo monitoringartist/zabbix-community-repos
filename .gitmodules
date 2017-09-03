@@ -2533,3 +2533,6 @@
 [submodule "Template-App-OpenShift-(wkulhanek)/repo"]
 	path = Template-App-OpenShift-(wkulhanek)/repo
 	url = https://github.com/wkulhanek/openshift-zabbix
+[submodule "Template-App-Palo-Alto-(anotherbhav)/repo"]
+	path = Template-App-Palo-Alto-(anotherbhav)/repo
+	url = https://github.com/anotherbhav/zabbix-templates
