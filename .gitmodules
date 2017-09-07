@@ -2536,3 +2536,6 @@
 [submodule "Template-App-Palo-Alto-(anotherbhav)/repo"]
 	path = Template-App-Palo-Alto-(anotherbhav)/repo
 	url = https://github.com/anotherbhav/zabbix-templates
+[submodule "Template-App-Apt-(theranger)/repo"]
+	path = Template-App-Apt-(theranger)/repo
+	url = https://github.com/theranger/zabbix-apt
