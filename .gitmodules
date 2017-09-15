@@ -2542,3 +2542,6 @@
 [submodule "Template-App-Device42-(device42)/repo"]
 	path = Template-App-Device42-(device42)/repo
 	url = https://github.com/device42/Device42-zabbix-monitoring-template
+[submodule "Script-Nessus-(Ar0xA)/repo"]
+	path = Script-Nessus-(Ar0xA)/repo
+	url = https://github.com/Ar0xA/Nessus2Zabbix
