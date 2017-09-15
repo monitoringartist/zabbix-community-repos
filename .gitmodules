@@ -2551,3 +2551,6 @@
 [submodule "Template-App-Mercury-power-meter-(v-zhuravlev)/repo"]
 	path = Template-App-Mercury-power-meter-(v-zhuravlev)/repo
 	url = https://github.com/v-zhuravlev/zbx_template_mercury236
+[submodule "Template-OS-Solaris-(kloczek)/repo"]
+	path = Template-OS-Solaris-(kloczek)/repo
+	url = https://github.com/kloczek/zabbix-templates
