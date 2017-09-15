@@ -2548,3 +2548,6 @@
 [submodule "Template-App-Vuls-(usiusi360)/repo"]
 	path = Template-App-Vuls-(usiusi360)/repo
 	url = https://github.com/usiusi360/vuls_autoscan_for_zabbix
+[submodule "Template-App-Mercury-power-meter-(v-zhuravlev)/repo"]
+	path = Template-App-Mercury-power-meter-(v-zhuravlev)/repo
+	url = https://github.com/v-zhuravlev/zbx_template_mercury236
