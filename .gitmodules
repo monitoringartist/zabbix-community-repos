@@ -2545,3 +2545,6 @@
 [submodule "Script-Nessus-(Ar0xA)/repo"]
 	path = Script-Nessus-(Ar0xA)/repo
 	url = https://github.com/Ar0xA/Nessus2Zabbix
+[submodule "Template-App-Vuls-(usiusi360)/repo"]
+	path = Template-App-Vuls-(usiusi360)/repo
+	url = https://github.com/usiusi360/vuls_autoscan_for_zabbix
