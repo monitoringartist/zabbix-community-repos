@@ -2539,3 +2539,6 @@
 [submodule "Template-App-Apt-(theranger)/repo"]
 	path = Template-App-Apt-(theranger)/repo
 	url = https://github.com/theranger/zabbix-apt
+[submodule "Template-App-Device42-(device42)/repo"]
+	path = Template-App-Device42-(device42)/repo
+	url = https://github.com/device42/Device42-zabbix-monitoring-template
