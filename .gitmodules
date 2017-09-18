@@ -2554,3 +2554,6 @@
 [submodule "Template-OS-Solaris-(kloczek)/repo"]
 	path = Template-OS-Solaris-(kloczek)/repo
 	url = https://github.com/kloczek/zabbix-templates
+[submodule "Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo"]
+	path = Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo
+	url = https://github.com/zbx-sadman/KSC
