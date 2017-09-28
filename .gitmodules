@@ -2569,3 +2569,6 @@
 [submodule "Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo"]
 	path = Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo
 	url = https://github.com/stfalcon-studio/zabbix-unifi-video
+[submodule "Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo"]
+	path = Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo
+	url = https://github.com/nugget/zbx-macos-content-cache
