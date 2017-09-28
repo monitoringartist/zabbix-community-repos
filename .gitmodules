@@ -2563,3 +2563,6 @@
 [submodule "Template-HW-QSAN-(pronichev)/repo"]
 	path = Template-HW-QSAN-(pronichev)/repo
 	url = https://github.com/pronichev/QSAN-Zabbix
+[submodule "Template-HW-Samsunsg-SSD-(vargaloid)/repo"]
+	path = Template-HW-Samsunsg-SSD-(vargaloid)/repo
+	url = https://github.com/vargaloid/zabbix_template_samsung.ssd.smart
