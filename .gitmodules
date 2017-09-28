@@ -2578,3 +2578,6 @@
 [submodule "Template-HW-Ruckus-ZoneDirector-(rggassner)/repo"]
 	path = Template-HW-Ruckus-ZoneDirector-(rggassner)/repo
 	url = https://github.com/rggassner/gassnerZabbixTemplates
+[submodule "Template-App-Hadoop-(daququ)/repo"]
+	path = Template-App-Hadoop-(daququ)/repo
+	url = https://github.com/daququ/zabbix_hadoop_monitoring
