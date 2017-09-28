@@ -2566,3 +2566,6 @@
 [submodule "Template-HW-Samsunsg-SSD-(vargaloid)/repo"]
 	path = Template-HW-Samsunsg-SSD-(vargaloid)/repo
 	url = https://github.com/vargaloid/zabbix_template_samsung.ssd.smart
+[submodule "Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo"]
+	path = Template-HW-Ubiquiti-UniFi-NVR-(stfalcon-studio)/repo
+	url = https://github.com/stfalcon-studio/zabbix-unifi-video
