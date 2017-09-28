@@ -2572,3 +2572,6 @@
 [submodule "Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo"]
 	path = Template-SW-macOS-High-Sierra-Content-Cache-(nugget)/repo
 	url = https://github.com/nugget/zbx-macos-content-cache
+[submodule "Template-SW-entropy-monitor-(mkgin)/repo"]
+	path = Template-SW-entropy-monitor-(mkgin)/repo
+	url = https://github.com/mkgin/zabbix_available_entropy
