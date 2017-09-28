@@ -2557,3 +2557,6 @@
 [submodule "Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo"]
 	path = Template-App-Kaspersky-Security-Center-(zbx-sadman)/repo
 	url = https://github.com/zbx-sadman/KSC
+[submodule "Template-Database-Oracle-(alexander-nesterov)/repo"]
+	path = Template-Database-Oracle-(alexander-nesterov)/repo
+	url = https://github.com/alexander-nesterov/zabbix_module_oracle
