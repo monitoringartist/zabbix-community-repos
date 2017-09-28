@@ -2560,3 +2560,6 @@
 [submodule "Template-Database-Oracle-(alexander-nesterov)/repo"]
 	path = Template-Database-Oracle-(alexander-nesterov)/repo
 	url = https://github.com/alexander-nesterov/zabbix_module_oracle
+[submodule "Template-HW-QSAN-(pronichev)/repo"]
+	path = Template-HW-QSAN-(pronichev)/repo
+	url = https://github.com/pronichev/QSAN-Zabbix
