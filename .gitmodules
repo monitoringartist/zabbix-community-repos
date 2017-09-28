@@ -2575,3 +2575,6 @@
 [submodule "Template-SW-entropy-monitor-(mkgin)/repo"]
 	path = Template-SW-entropy-monitor-(mkgin)/repo
 	url = https://github.com/mkgin/zabbix_available_entropy
+[submodule "Template-HW-Ruckus-ZoneDirector-(rggassner)/repo"]
+	path = Template-HW-Ruckus-ZoneDirector-(rggassner)/repo
+	url = https://github.com/rggassner/gassnerZabbixTemplates
