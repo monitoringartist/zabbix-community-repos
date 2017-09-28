@@ -2581,3 +2581,6 @@
 [submodule "Template-App-Hadoop-(daququ)/repo"]
 	path = Template-App-Hadoop-(daququ)/repo
 	url = https://github.com/daququ/zabbix_hadoop_monitoring
+[submodule "Script-SNMP-Trap-Template-Generator-(Diwahars)/repo"]
+	path = Script-SNMP-Trap-Template-Generator-(Diwahars)/repo
+	url = https://github.com/Diwahars/zbx_snmptrap_templates_creation
