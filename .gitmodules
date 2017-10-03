@@ -2584,3 +2584,6 @@
 [submodule "Script-SNMP-Trap-Template-Generator-(Diwahars)/repo"]
 	path = Script-SNMP-Trap-Template-Generator-(Diwahars)/repo
 	url = https://github.com/Diwahars/zbx_snmptrap_templates_creation
+[submodule "Template-HW-Eltex-SMG-2016-(nifigator)/repo"]
+	path = Template-HW-Eltex-SMG-2016-(nifigator)/repo
+	url = https://github.com/nifigator/smg-zabbix-template
