@@ -2587,3 +2587,6 @@
 [submodule "Template-HW-Eltex-SMG-2016-(nifigator)/repo"]
 	path = Template-HW-Eltex-SMG-2016-(nifigator)/repo
 	url = https://github.com/nifigator/smg-zabbix-template
+[submodule "Template-App-Docker-NG-(monitoringartist)/repo"]
+	path = Template-App-Docker-NG-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-docker-monitoring-ng
