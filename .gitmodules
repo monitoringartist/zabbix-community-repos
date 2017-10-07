@@ -2593,3 +2593,6 @@
 [submodule "Template-App-SSH-Sessions-(scysys)/repo"]
 	path = Template-App-SSH-Sessions-(scysys)/repo
 	url = https://github.com/scysys/Zabbix--Monitor-SSH-Sessions
+[submodule "API-Crystal-(DRVTiny)/repo"]
+	path = API-Crystal-(DRVTiny)/repo
+	url = https://github.com/DRVTiny/monitoring_zabipi
