@@ -2590,3 +2590,6 @@
 [submodule "Template-App-Docker-NG-(monitoringartist)/repo"]
 	path = Template-App-Docker-NG-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/zabbix-docker-monitoring-ng
+[submodule "Template-App-SSH-Sessions-(scysys)/repo"]
+	path = Template-App-SSH-Sessions-(scysys)/repo
+	url = https://github.com/scysys/Zabbix--Monitor-SSH-Sessions
