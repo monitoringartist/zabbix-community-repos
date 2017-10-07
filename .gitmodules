@@ -2596,3 +2596,6 @@
 [submodule "API-Crystal-(DRVTiny)/repo"]
 	path = API-Crystal-(DRVTiny)/repo
 	url = https://github.com/DRVTiny/monitoring_zabipi
+[submodule "Challenge-Zabbix-Agent-NVPS-(monitoringartist)/repo"]
+	path = Challenge-Zabbix-Agent-NVPS-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/zabbix-agent-nvps-challenge
