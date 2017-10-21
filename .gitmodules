@@ -2629,3 +2629,6 @@
 [submodule "Template-App-LVM-(radiorabe)/repo"]
 	path = Template-App-LVM-(radiorabe)/repo
 	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-CARP-(radiorabe)/repo"]
+	path = Template-App-CARP-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
