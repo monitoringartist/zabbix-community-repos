@@ -2611,3 +2611,6 @@
 [submodule "Template-App-FFmpeg-Chunks-(igogorevi4)/repo"]
 	path = Template-App-FFmpeg-Chunks-(igogorevi4)/repo
 	url = https://github.com/igogorevi4/Zabbix-Extensions
+[submodule "Template-App-Jenkins-Job-(igogorevi4)/repo"]
+	path = Template-App-Jenkins-Job-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
