@@ -2623,3 +2623,6 @@
 [submodule "Template-UPS-Tripp-Lite-(reperio)/repo"]
 	path = Template-UPS-Tripp-Lite-(reperio)/repo
 	url = https://github.com/reperio/zabbix-snmp-tripp-lite-ups-pdu
+[submodule "Template-App-Kamailio-(reperio)/repo"]
+	path = Template-App-Kamailio-(reperio)/repo
+	url = https://github.com/reperio/zabbix-kazoo-kamailio
