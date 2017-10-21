@@ -2638,3 +2638,6 @@
 [submodule "Template-App-Chrony-(radiorabe)/repo"]
 	path = Template-App-Chrony-(radiorabe)/repo
 	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-NTP-(radiorabe)/repo"]
+	path = Template-App-NTP-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
