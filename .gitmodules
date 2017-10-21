@@ -2626,3 +2626,6 @@
 [submodule "Template-App-Kamailio-(reperio)/repo"]
 	path = Template-App-Kamailio-(reperio)/repo
 	url = https://github.com/reperio/zabbix-kazoo-kamailio
+[submodule "Template-App-LVM-(radiorabe)/repo"]
+	path = Template-App-LVM-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
