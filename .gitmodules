@@ -2602,3 +2602,6 @@
 [submodule "Template-App-Facebook-Insights-(bezarsnba)/repo"]
 	path = Template-App-Facebook-Insights-(bezarsnba)/repo
 	url = https://github.com/bezarsnba/monitoring_insight_facebook_zabbix
+[submodule "Script-Alert-Philips-Hue-(christopwner)/repo"]
+	path = Script-Alert-Philips-Hue-(christopwner)/repo
+	url = https://github.com/christopwner/zabbix-hue-alertscript
