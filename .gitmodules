@@ -2608,3 +2608,6 @@
 [submodule "Template-App-AWS-(tsubauaaa)/repo"]
 	path = Template-App-AWS-(tsubauaaa)/repo
 	url = https://github.com/tsubauaaa/zabbix_aws_integration
+[submodule "Template-App-FFmpeg-Chunks-(igogorevi4)/repo"]
+	path = Template-App-FFmpeg-Chunks-(igogorevi4)/repo
+	url = https://github.com/igogorevi4/Zabbix-Extensions
