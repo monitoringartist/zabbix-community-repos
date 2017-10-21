@@ -2605,3 +2605,6 @@
 [submodule "Script-Alert-Philips-Hue-(christopwner)/repo"]
 	path = Script-Alert-Philips-Hue-(christopwner)/repo
 	url = https://github.com/christopwner/zabbix-hue-alertscript
+[submodule "Template-App-AWS-(tsubauaaa)/repo"]
+	path = Template-App-AWS-(tsubauaaa)/repo
+	url = https://github.com/tsubauaaa/zabbix_aws_integration
