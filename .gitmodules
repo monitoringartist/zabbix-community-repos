@@ -2632,3 +2632,6 @@
 [submodule "Template-App-CARP-(radiorabe)/repo"]
 	path = Template-App-CARP-(radiorabe)/repo
 	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Template-App-MD-RAID-(radiorabe)/repo"]
+	path = Template-App-MD-RAID-(radiorabe)/repo
+	url = https://github.com/radiorabe/rabe-zabbix
