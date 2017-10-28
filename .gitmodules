@@ -2662,3 +2662,6 @@
 [submodule "Template-App-Microsoft-DHCP-Server-Scope-(romainsi)/repo"]
 	path = Template-App-Microsoft-DHCP-Server-Scope-(romainsi)/repo
 	url = https://github.com/romainsi/zabbix-dhcp_scope
+[submodule "Template-App-Windows-Scheduled-Task-(romainsi)/repo"]
+	path = Template-App-Windows-Scheduled-Task-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-scheduledtask
