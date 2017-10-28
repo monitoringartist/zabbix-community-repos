@@ -2644,3 +2644,6 @@
 [submodule "Template-App-IPMI-Threshold-Sensors-(radiorabe)/repo"]
 	path = Template-App-IPMI-Threshold-Sensors-(radiorabe)/repo
 	url = https://github.com/radiorabe/rabe-zabbix
+[submodule "Script-Alert-Asterisk-(mcilley)/repo"]
+	path = Script-Alert-Asterisk-(mcilley)/repo
+	url = https://github.com/mcilley/asterisk-zabbix-phone-escalation
