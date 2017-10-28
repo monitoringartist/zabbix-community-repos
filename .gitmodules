@@ -2653,3 +2653,6 @@
 [submodule "Script-Alert-StackStorm-(StackStorm-Exchange)/repo"]
 	path = Script-Alert-StackStorm-(StackStorm-Exchange)/repo
 	url = https://github.com/StackStorm-Exchange/stackstorm-zabbix
+[submodule "Template-HW-CPU-temperature-(B1T0)/repo"]
+	path = Template-HW-CPU-temperature-(B1T0)/repo
+	url = https://github.com/B1T0/zabbix-basic-cpu-temperature
