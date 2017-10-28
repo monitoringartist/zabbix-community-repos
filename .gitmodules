@@ -2668,3 +2668,6 @@
 [submodule "Template-App-Symantec-Backup-Exec-(romainsi)/repo"]
 	path = Template-App-Symantec-Backup-Exec-(romainsi)/repo
 	url = https://github.com/romainsi/zabbix-BackupExec-jobs
+[submodule "Template-HW-Luxtronik-(doppel0)/repo"]
+	path = Template-HW-Luxtronik-(doppel0)/repo
+	url = https://github.com/doppel0/Luxtronik-2.0
