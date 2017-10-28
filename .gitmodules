@@ -2650,3 +2650,6 @@
 [submodule "Template-HW-Eltex-MES-(Prototype-X)/repo"]
 	path = Template-HW-Eltex-MES-(Prototype-X)/repo
 	url = https://github.com/Prototype-X/Zabbix-Template-for-Eltex-MES-switches
+[submodule "Script-Alert-StackStorm-(StackStorm-Exchange)/repo"]
+	path = Script-Alert-StackStorm-(StackStorm-Exchange)/repo
+	url = https://github.com/StackStorm-Exchange/stackstorm-zabbix
