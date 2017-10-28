@@ -2656,3 +2656,6 @@
 [submodule "Template-HW-CPU-temperature-(B1T0)/repo"]
 	path = Template-HW-CPU-temperature-(B1T0)/repo
 	url = https://github.com/B1T0/zabbix-basic-cpu-temperature
+[submodule "Template-App-VEEAM-(romainsi)/repo"]
+	path = Template-App-VEEAM-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-VEEAM_B-R_jobs_trapper
