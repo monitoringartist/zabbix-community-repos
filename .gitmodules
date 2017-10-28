@@ -2647,3 +2647,6 @@
 [submodule "Script-Alert-Asterisk-(mcilley)/repo"]
 	path = Script-Alert-Asterisk-(mcilley)/repo
 	url = https://github.com/mcilley/asterisk-zabbix-phone-escalation
+[submodule "Template-HW-Eltex-MES-(Prototype-X)/repo"]
+	path = Template-HW-Eltex-MES-(Prototype-X)/repo
+	url = https://github.com/Prototype-X/Zabbix-Template-for-Eltex-MES-switches
