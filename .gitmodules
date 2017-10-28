@@ -2665,3 +2665,6 @@
 [submodule "Template-App-Windows-Scheduled-Task-(romainsi)/repo"]
 	path = Template-App-Windows-Scheduled-Task-(romainsi)/repo
 	url = https://github.com/romainsi/zabbix-scheduledtask
+[submodule "Template-App-Symantec-Backup-Exec-(romainsi)/repo"]
+	path = Template-App-Symantec-Backup-Exec-(romainsi)/repo
+	url = https://github.com/romainsi/zabbix-BackupExec-jobs
