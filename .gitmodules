@@ -2671,3 +2671,6 @@
 [submodule "Template-HW-Luxtronik-(doppel0)/repo"]
 	path = Template-HW-Luxtronik-(doppel0)/repo
 	url = https://github.com/doppel0/Luxtronik-2.0
+[submodule "Template-App-Quest-Rapid-Recovery-(mRiston)/repo"]
+	path = Template-App-Quest-Rapid-Recovery-(mRiston)/repo
+	url = https://github.com/mRiston/zabbix_template_RapidRecoveryCore
