@@ -2677,3 +2677,6 @@
 [submodule "Template-App-Microsoft-Message-Queue-(kyuknis)/repo"]
 	path = Template-App-Microsoft-Message-Queue-(kyuknis)/repo
 	url = https://github.com/kyuknis/Zabbix_MSMQ_Monitor
+[submodule "Template-Database-Cassandra-(m0t0k1ch1)/repo"]
+	path = Template-Database-Cassandra-(m0t0k1ch1)/repo
+	url = https://github.com/m0t0k1ch1/zabbix-cassandra-template
