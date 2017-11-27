@@ -2674,3 +2674,6 @@
 [submodule "Template-App-Quest-Rapid-Recovery-(mRiston)/repo"]
 	path = Template-App-Quest-Rapid-Recovery-(mRiston)/repo
 	url = https://github.com/mRiston/zabbix_template_RapidRecoveryCore
+[submodule "Template-App-Microsoft-Message-Queue-(kyuknis)/repo"]
+	path = Template-App-Microsoft-Message-Queue-(kyuknis)/repo
+	url = https://github.com/kyuknis/Zabbix_MSMQ_Monitor
