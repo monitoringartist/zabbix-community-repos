@@ -2680,3 +2680,6 @@
 [submodule "Template-Database-Cassandra-(m0t0k1ch1)/repo"]
 	path = Template-Database-Cassandra-(m0t0k1ch1)/repo
 	url = https://github.com/m0t0k1ch1/zabbix-cassandra-template
+[submodule "Template-VM-SolusVM-(qwsj)/repo"]
+	path = Template-VM-SolusVM-(qwsj)/repo
+	url = https://github.com/qwsj/solusvm-zabbix
