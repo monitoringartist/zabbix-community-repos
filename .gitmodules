@@ -2686,3 +2686,6 @@
 [submodule "Template-App-OpenNebula-(kvaps)/repo"]
 	path = Template-App-OpenNebula-(kvaps)/repo
 	url = https://github.com/kvaps/opennebula-addon-zabbix
+[submodule "Template-App-SSL-(zarplata)/repo"]
+	path = Template-App-SSL-(zarplata)/repo
+	url = https://github.com/zarplata/zabbix-agent-extension-certchecker
