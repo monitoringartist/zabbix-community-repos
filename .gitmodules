@@ -2692,3 +2692,6 @@
 [submodule "Template-HW-Fujitsu-(kagerman)/repo"]
 	path = Template-HW-Fujitsu-(kagerman)/repo
 	url = https://github.com/kagerman/Fujitsu-Zabbix
+[submodule "Script-Alert-Jira-(OSidorenkov)/repo"]
+	path = Script-Alert-Jira-(OSidorenkov)/repo
+	url = https://github.com/OSidorenkov/zabbix-jira
