@@ -2701,3 +2701,6 @@
 [submodule "Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo"]
 	path = Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo
 	url = https://github.com/bmhkb4/zabbix-pcf-monitoring
+[submodule "Template-App-NFS-iostat-(pdacity)/repo"]
+	path = Template-App-NFS-iostat-(pdacity)/repo
+	url = https://github.com/pdacity/zabbix_nfs_client_iostat
