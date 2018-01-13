@@ -2719,3 +2719,6 @@
 [submodule "Template-App-Supervisor-(gsskk)/repo"]
 	path = Template-App-Supervisor-(gsskk)/repo
 	url = https://github.com/gsskk/zabbix-supervisor
+[submodule "Script-Alert-Pushover-(afareg)/repo"]
+	path = Script-Alert-Pushover-(afareg)/repo
+	url = https://github.com/afareg/zabbix-pushover-alertscript
