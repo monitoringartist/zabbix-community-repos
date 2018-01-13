@@ -2698,3 +2698,6 @@
 [submodule "Integration-Google-Sheet-(monitoringartist)/repo"]
 	path = Integration-Google-Sheet-(monitoringartist)/repo
 	url = https://github.com/monitoringartist/monitoring-for-managers
+[submodule "Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo"]
+	path = Template-App-Pivotal-Cloud-Foundry-(bmhkb4)/repo
+	url = https://github.com/bmhkb4/zabbix-pcf-monitoring
