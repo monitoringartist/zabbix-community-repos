@@ -2704,3 +2704,6 @@
 [submodule "Template-App-NFS-iostat-(pdacity)/repo"]
 	path = Template-App-NFS-iostat-(pdacity)/repo
 	url = https://github.com/pdacity/zabbix_nfs_client_iostat
+[submodule "Template-App-SonicMQ-(digiapulssi)/repo"]
+	path = Template-App-SonicMQ-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-sonicmq-monitoring
