@@ -2707,3 +2707,6 @@
 [submodule "Template-App-SonicMQ-(digiapulssi)/repo"]
 	path = Template-App-SonicMQ-(digiapulssi)/repo
 	url = https://github.com/digiapulssi/zabbix-sonicmq-monitoring
+[submodule "Template-App-OpenNebula-(OpenNebula)/repo"]
+	path = Template-App-OpenNebula-(OpenNebula)/repo
+	url = https://github.com/OpenNebula/addon-zabbix
