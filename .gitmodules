@@ -2695,3 +2695,6 @@
 [submodule "Script-Alert-Jira-(OSidorenkov)/repo"]
 	path = Script-Alert-Jira-(OSidorenkov)/repo
 	url = https://github.com/OSidorenkov/zabbix-jira
+[submodule "Integration-Google-Sheet-(monitoringartist)/repo"]
+	path = Integration-Google-Sheet-(monitoringartist)/repo
+	url = https://github.com/monitoringartist/monitoring-for-managers
