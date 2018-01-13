@@ -2716,3 +2716,6 @@
 [submodule "Template-App-NethServer-Backups-(syntaxerrormmm)/repo"]
 	path = Template-App-NethServer-Backups-(syntaxerrormmm)/repo
 	url = https://github.com/syntaxerrormmm/zbx-nethbackup-check
+[submodule "Template-App-Supervisor-(gsskk)/repo"]
+	path = Template-App-Supervisor-(gsskk)/repo
+	url = https://github.com/gsskk/zabbix-supervisor
