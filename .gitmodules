@@ -2713,3 +2713,6 @@
 [submodule "Template-App-Crypto-Prices-(planethouki)/repo"]
 	path = Template-App-Crypto-Prices-(planethouki)/repo
 	url = https://github.com/planethouki/zabbixCryptoChart
+[submodule "Template-App-NethServer-Backups-(syntaxerrormmm)/repo"]
+	path = Template-App-NethServer-Backups-(syntaxerrormmm)/repo
+	url = https://github.com/syntaxerrormmm/zbx-nethbackup-check
