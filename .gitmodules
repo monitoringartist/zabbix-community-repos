@@ -2722,3 +2722,6 @@
 [submodule "Script-Alert-Pushover-(afareg)/repo"]
 	path = Script-Alert-Pushover-(afareg)/repo
 	url = https://github.com/afareg/zabbix-pushover-alertscript
+[submodule "Script-WinPerfCounter-Template-Generator-(lxndrp)/repo"]
+	path = Script-WinPerfCounter-Template-Generator-(lxndrp)/repo
+	url = https://github.com/lxndrp/pdh2zabbix
