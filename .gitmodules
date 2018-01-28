@@ -2725,3 +2725,6 @@
 [submodule "Script-WinPerfCounter-Template-Generator-(lxndrp)/repo"]
 	path = Script-WinPerfCounter-Template-Generator-(lxndrp)/repo
 	url = https://github.com/lxndrp/pdh2zabbix
+[submodule "Template-App-Forcepoint-(avbor)/repo"]
+	path = Template-App-Forcepoint-(avbor)/repo
+	url = https://github.com/avbor/Forcepoint
