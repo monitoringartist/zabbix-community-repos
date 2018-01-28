@@ -2728,3 +2728,6 @@
 [submodule "Template-App-Forcepoint-(avbor)/repo"]
 	path = Template-App-Forcepoint-(avbor)/repo
 	url = https://github.com/avbor/Forcepoint
+[submodule "Template-App-Rocket-Chat-(tristanlt)/repo"]
+	path = Template-App-Rocket-Chat-(tristanlt)/repo
+	url = https://github.com/tristanlt/zabbix-rocketchat-stats
