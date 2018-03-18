@@ -2731,3 +2731,6 @@
 [submodule "Template-App-Rocket-Chat-(tristanlt)/repo"]
 	path = Template-App-Rocket-Chat-(tristanlt)/repo
 	url = https://github.com/tristanlt/zabbix-rocketchat-stats
+[submodule "API-Julia-(rahulkp220)/repo"]
+	path = API-Julia-(rahulkp220)/repo
+	url = https://github.com/rahulkp220/Zabbix.jl
