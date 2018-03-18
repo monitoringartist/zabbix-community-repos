@@ -2734,3 +2734,6 @@
 [submodule "API-Julia-(rahulkp220)/repo"]
 	path = API-Julia-(rahulkp220)/repo
 	url = https://github.com/rahulkp220/Zabbix.jl
+[submodule "Script-Alert-Discord-(atomy)/repo"]
+	path = Script-Alert-Discord-(atomy)/repo
+	url = https://github.com/atomy/zabbix-discord
