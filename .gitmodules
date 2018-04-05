@@ -2770,3 +2770,6 @@
 [submodule "Template-App-Jenkins-(sergiotocalini)/repo"]
 	path = Template-App-Jenkins-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/jenkix
+[submodule "Template-App-OpenVPN-(sergiotocalini)/repo"]
+	path = Template-App-OpenVPN-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zaovpn
