@@ -2779,3 +2779,6 @@
 [submodule "Template-Database-ArangoDB-(sergiotocalini)/repo"]
 	path = Template-Database-ArangoDB-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/aranix
+[submodule "Template-App-OpenLDAP-(sergiotocalini)/repo"]
+	path = Template-App-OpenLDAP-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zaldap
