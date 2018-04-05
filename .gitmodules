@@ -2743,3 +2743,6 @@
 [submodule "Template-App-E2guardian-(xenadmin)/repo"]
 	path = Template-App-E2guardian-(xenadmin)/repo
 	url = https://github.com/xenadmin/zabbix-templates
+[submodule "Template-App-VMware-Tools-(xenadmin)/repo"]
+	path = Template-App-VMware-Tools-(xenadmin)/repo
+	url = https://github.com/xenadmin/zabbix-templates
