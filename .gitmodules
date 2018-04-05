@@ -2791,3 +2791,6 @@
 [submodule "Template-App-Hyper-V-Replication-(JeferCatarina)/repo"]
 	path = Template-App-Hyper-V-Replication-(JeferCatarina)/repo
 	url = https://github.com/JeferCatarina/zabbix_hyperv_replication
+[submodule "Integration-Cisco-UCS-Adapter-(IGNW)/repo"]
+	path = Integration-Cisco-UCS-Adapter-(IGNW)/repo
+	url = https://github.com/IGNW/zabbix-cisco-ucs-adapter
