@@ -2752,3 +2752,6 @@
 [submodule "Template-Database-Oracle-(sergiotocalini)/repo"]
 	path = Template-Database-Oracle-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zabora
+[submodule "Template-Database-MySQL-(sergiotocalini)/repo"]
+	path = Template-Database-MySQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/mysbix
