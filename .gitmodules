@@ -2746,3 +2746,6 @@
 [submodule "Template-App-VMware-Tools-(xenadmin)/repo"]
 	path = Template-App-VMware-Tools-(xenadmin)/repo
 	url = https://github.com/xenadmin/zabbix-templates
+[submodule "Template-App-Bind-(sergiotocalini)/repo"]
+	path = Template-App-Bind-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/bindix
