@@ -2749,3 +2749,6 @@
 [submodule "Template-App-Bind-(sergiotocalini)/repo"]
 	path = Template-App-Bind-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/bindix
+[submodule "Template-Database-Oracle-(sergiotocalini)/repo"]
+	path = Template-Database-Oracle-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zabora
