@@ -2764,3 +2764,6 @@
 [submodule "Template-App-HAProxy-(sergiotocalini)/repo"]
 	path = Template-App-HAProxy-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/habbixy
+[submodule "Template-App-Elasticsearch-(sergiotocalini)/repo"]
+	path = Template-App-Elasticsearch-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/elasix
