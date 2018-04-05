@@ -2782,3 +2782,6 @@
 [submodule "Template-App-OpenLDAP-(sergiotocalini)/repo"]
 	path = Template-App-OpenLDAP-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zaldap
+[submodule "Script-Alert-SignifAI-(SignifAi)/repo"]
+	path = Script-Alert-SignifAI-(SignifAi)/repo
+	url = https://github.com/SignifAi/notify-signifai-zabbix
