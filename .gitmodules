@@ -2794,3 +2794,6 @@
 [submodule "Integration-Cisco-UCS-Adapter-(IGNW)/repo"]
 	path = Integration-Cisco-UCS-Adapter-(IGNW)/repo
 	url = https://github.com/IGNW/zabbix-cisco-ucs-adapter
+[submodule "Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo"]
+	path = Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo
+	url = https://github.com/13hakta/zbxwmi
