@@ -2773,3 +2773,6 @@
 [submodule "Template-App-OpenVPN-(sergiotocalini)/repo"]
 	path = Template-App-OpenVPN-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zaovpn
+[submodule "Template-App-Logstash-(sergiotocalini)/repo"]
+	path = Template-App-Logstash-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/lostix
