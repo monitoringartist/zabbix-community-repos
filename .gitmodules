@@ -2788,3 +2788,6 @@
 [submodule "Template-App-FreeNAS-11-(monotok)/repo"]
 	path = Template-App-FreeNAS-11-(monotok)/repo
 	url = https://github.com/monotok/zabbix-template-freenas11
+[submodule "Template-App-Hyper-V-Replication-(JeferCatarina)/repo"]
+	path = Template-App-Hyper-V-Replication-(JeferCatarina)/repo
+	url = https://github.com/JeferCatarina/zabbix_hyperv_replication
