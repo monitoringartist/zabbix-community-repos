@@ -2767,3 +2767,6 @@
 [submodule "Template-App-Elasticsearch-(sergiotocalini)/repo"]
 	path = Template-App-Elasticsearch-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/elasix
+[submodule "Template-App-Jenkins-(sergiotocalini)/repo"]
+	path = Template-App-Jenkins-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/jenkix
