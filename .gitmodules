@@ -2737,3 +2737,6 @@
 [submodule "Script-Alert-Discord-(atomy)/repo"]
 	path = Script-Alert-Discord-(atomy)/repo
 	url = https://github.com/atomy/zabbix-discord
+[submodule "Template-App-Gluster-(sergiotocalini)/repo"]
+	path = Template-App-Gluster-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/glusix
