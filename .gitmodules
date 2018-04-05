@@ -2758,3 +2758,6 @@
 [submodule "Template-Database-PostgreSQL-(sergiotocalini)/repo"]
 	path = Template-Database-PostgreSQL-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zapgix
+[submodule "Template-Database-MSSQL-(sergiotocalini)/repo"]
+	path = Template-Database-MSSQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/msqlix
