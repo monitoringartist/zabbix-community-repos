@@ -2755,3 +2755,6 @@
 [submodule "Template-Database-MySQL-(sergiotocalini)/repo"]
 	path = Template-Database-MySQL-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/mysbix
+[submodule "Template-Database-PostgreSQL-(sergiotocalini)/repo"]
+	path = Template-Database-PostgreSQL-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zapgix
