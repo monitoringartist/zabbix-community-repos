@@ -2797,3 +2797,6 @@
 [submodule "Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo"]
 	path = Integration-Windows-Management-Instrumentation---WMI-Connector-(13hakta)/repo
 	url = https://github.com/13hakta/zbxwmi
+[submodule "Script-Item-Value-From-CSV-(saumyajit)/repo"]
+	path = Script-Item-Value-From-CSV-(saumyajit)/repo
+	url = https://github.com/saumyajit/zabbix_item_from_csv
