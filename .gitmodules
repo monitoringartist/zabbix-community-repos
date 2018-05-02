@@ -2806,3 +2806,6 @@
 [submodule "Integration-Zabbix-Sender-Rust-(andreevlex)/repo"]
 	path = Integration-Zabbix-Sender-Rust-(andreevlex)/repo
 	url = https://github.com/andreevlex/zbx-sender-rs
+[submodule "Template-VM-VmWare-oVirt-(hudecof)/repo"]
+	path = Template-VM-VmWare-oVirt-(hudecof)/repo
+	url = https://github.com/hudecof/libzbxovirt
