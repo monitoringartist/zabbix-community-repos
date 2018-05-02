@@ -2809,3 +2809,6 @@
 [submodule "Template-VM-VmWare-oVirt-(hudecof)/repo"]
 	path = Template-VM-VmWare-oVirt-(hudecof)/repo
 	url = https://github.com/hudecof/libzbxovirt
+[submodule "Integration-Firefox-Chrome-Extension-(mchugh19)/repo"]
+	path = Integration-Firefox-Chrome-Extension-(mchugh19)/repo
+	url = https://github.com/mchugh19/zabbix-vue
