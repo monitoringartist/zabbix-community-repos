@@ -2803,3 +2803,6 @@
 [submodule "Integration-Reports-PDF-(kmpm)/repo"]
 	path = Integration-Reports-PDF-(kmpm)/repo
 	url = https://github.com/kmpm/zabbix-dynamic-pdf-report
+[submodule "Integration-Zabbix-Sender-Rust-(andreevlex)/repo"]
+	path = Integration-Zabbix-Sender-Rust-(andreevlex)/repo
+	url = https://github.com/andreevlex/zbx-sender-rs
