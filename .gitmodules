@@ -2845,3 +2845,6 @@
 [submodule "Template-HW-Nvidia-GPU-(derpaherk)/repo"]
 	path = Template-HW-Nvidia-GPU-(derpaherk)/repo
 	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
+[submodule "Template-HW-AMD-GPU-(derpaherk)/repo"]
+	path = Template-HW-AMD-GPU-(derpaherk)/repo
+	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
