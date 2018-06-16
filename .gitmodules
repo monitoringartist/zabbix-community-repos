@@ -2848,3 +2848,6 @@
 [submodule "Template-HW-AMD-GPU-(derpaherk)/repo"]
 	path = Template-HW-AMD-GPU-(derpaherk)/repo
 	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
+[submodule "Template-App-LiteSpeed-(knownhost)/repo"]
+	path = Template-App-LiteSpeed-(knownhost)/repo
+	url = https://github.com/knownhost/zabbix-lsws
