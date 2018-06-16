@@ -2827,3 +2827,6 @@
 [submodule "Template-App-Postal-(appsinet)/repo"]
 	path = Template-App-Postal-(appsinet)/repo
 	url = https://github.com/appsinet/postal-zabbix
+[submodule "Script-Alert-Zulip-(adambirds)/repo"]
+	path = Script-Alert-Zulip-(adambirds)/repo
+	url = https://github.com/adambirds/zabbix-to-zulip-script
