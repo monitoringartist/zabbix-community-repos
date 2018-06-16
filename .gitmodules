@@ -2833,3 +2833,6 @@
 [submodule "Script-Alert-Cisco-Spark-(knightjoel)/repo"]
 	path = Script-Alert-Cisco-Spark-(knightjoel)/repo
 	url = https://github.com/knightjoel/zpark
+[submodule "Template-HW-Antminer-S9-(hwn123)/repo"]
+	path = Template-HW-Antminer-S9-(hwn123)/repo
+	url = https://github.com/hwn123/antminer-monitoring
