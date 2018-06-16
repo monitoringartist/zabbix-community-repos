@@ -2842,3 +2842,6 @@
 [submodule "Script-AWS-(digiapulssi)/repo"]
 	path = Script-AWS-(digiapulssi)/repo
 	url = https://github.com/digiapulssi/zabbix-aws-monitoring
+[submodule "Template-HW-Nvidia-GPU-(derpaherk)/repo"]
+	path = Template-HW-Nvidia-GPU-(derpaherk)/repo
+	url = https://github.com/derpaherk/Zabbix-GPU-Monitoring
