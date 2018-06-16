@@ -2851,3 +2851,6 @@
 [submodule "Template-App-LiteSpeed-(knownhost)/repo"]
 	path = Template-App-LiteSpeed-(knownhost)/repo
 	url = https://github.com/knownhost/zabbix-lsws
+[submodule "Template-App-Whois-(Flawioo)/repo"]
+	path = Template-App-Whois-(Flawioo)/repo
+	url = https://github.com/Flawioo/zabbix-template-whois-isp-name
