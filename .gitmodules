@@ -2818,3 +2818,6 @@
 [submodule "Template-HW-FlashMAX-SSD-(bloodia)/repo"]
 	path = Template-HW-FlashMAX-SSD-(bloodia)/repo
 	url = https://github.com/bloodia/Zabbix-Template-FlashMAX-PCIe-SSD
+[submodule "Template-App-SFTP-(omni-lchen)/repo"]
+	path = Template-App-SFTP-(omni-lchen)/repo
+	url = https://github.com/omni-lchen/zabbix-sftp
