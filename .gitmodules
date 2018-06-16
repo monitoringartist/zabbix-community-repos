@@ -2812,3 +2812,6 @@
 [submodule "Integration-Firefox-Chrome-Extension-(mchugh19)/repo"]
 	path = Integration-Firefox-Chrome-Extension-(mchugh19)/repo
 	url = https://github.com/mchugh19/zabbix-vue
+[submodule "Template-HW-Nvidia-GPU-(plambe)/repo"]
+	path = Template-HW-Nvidia-GPU-(plambe)/repo
+	url = https://github.com/plambe/zabbix-nvidia-smi-multi-gpu
