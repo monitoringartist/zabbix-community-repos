@@ -2839,3 +2839,6 @@
 [submodule "Template-HW-Sonicwall-Email-Security-(keentonsas)/repo"]
 	path = Template-HW-Sonicwall-Email-Security-(keentonsas)/repo
 	url = https://github.com/keentonsas/zabbix-template-sonicwall-email-security
+[submodule "Script-AWS-(digiapulssi)/repo"]
+	path = Script-AWS-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-aws-monitoring
