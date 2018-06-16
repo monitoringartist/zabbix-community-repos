@@ -2824,3 +2824,6 @@
 [submodule "Template-App-Marathon-(omni-lchen)/repo"]
 	path = Template-App-Marathon-(omni-lchen)/repo
 	url = https://github.com/omni-lchen/zabbix-marathon
+[submodule "Template-App-Postal-(appsinet)/repo"]
+	path = Template-App-Postal-(appsinet)/repo
+	url = https://github.com/appsinet/postal-zabbix
