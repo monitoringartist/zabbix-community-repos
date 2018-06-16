@@ -2830,3 +2830,6 @@
 [submodule "Script-Alert-Zulip-(adambirds)/repo"]
 	path = Script-Alert-Zulip-(adambirds)/repo
 	url = https://github.com/adambirds/zabbix-to-zulip-script
+[submodule "Script-Alert-Cisco-Spark-(knightjoel)/repo"]
+	path = Script-Alert-Cisco-Spark-(knightjoel)/repo
+	url = https://github.com/knightjoel/zpark
