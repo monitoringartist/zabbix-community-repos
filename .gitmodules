@@ -2836,3 +2836,6 @@
 [submodule "Template-HW-Antminer-S9-(hwn123)/repo"]
 	path = Template-HW-Antminer-S9-(hwn123)/repo
 	url = https://github.com/hwn123/antminer-monitoring
+[submodule "Template-HW-Sonicwall-Email-Security-(keentonsas)/repo"]
+	path = Template-HW-Sonicwall-Email-Security-(keentonsas)/repo
+	url = https://github.com/keentonsas/zabbix-template-sonicwall-email-security
