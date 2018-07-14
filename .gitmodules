@@ -2857,3 +2857,6 @@
 [submodule "Template-App-Miner-Claymore-(ph223)/repo"]
 	path = Template-App-Miner-Claymore-(ph223)/repo
 	url = https://github.com/ph223/zabbix_claymore_miner
+[submodule "Template-App-IBM-Integration-Bus-(digiapulssi)/repo"]
+	path = Template-App-IBM-Integration-Bus-(digiapulssi)/repo
+	url = https://github.com/digiapulssi/zabbix-iib-monitoring
