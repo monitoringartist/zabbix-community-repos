@@ -2854,3 +2854,6 @@
 [submodule "Template-App-Whois-(Flawioo)/repo"]
 	path = Template-App-Whois-(Flawioo)/repo
 	url = https://github.com/Flawioo/zabbix-template-whois-isp-name
+[submodule "Template-App-Miner-Claymore-(ph223)/repo"]
+	path = Template-App-Miner-Claymore-(ph223)/repo
+	url = https://github.com/ph223/zabbix_claymore_miner
