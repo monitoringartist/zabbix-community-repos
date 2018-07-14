@@ -2860,3 +2860,6 @@
 [submodule "Template-App-IBM-Integration-Bus-(digiapulssi)/repo"]
 	path = Template-App-IBM-Integration-Bus-(digiapulssi)/repo
 	url = https://github.com/digiapulssi/zabbix-iib-monitoring
+[submodule "Template-App-Blockchain-(limosek)/repo"]
+	path = Template-App-Blockchain-(limosek)/repo
+	url = https://github.com/limosek/cryptonote-zabbix
