@@ -2869,3 +2869,6 @@
 [submodule "Integration-InfluxDB-(old-dmitry)/repo"]
 	path = Integration-InfluxDB-(old-dmitry)/repo
 	url = https://github.com/old-dmitry/zbx2influx
+[submodule "Script-Alert-Matrix-(lordievader)/repo"]
+	path = Script-Alert-Matrix-(lordievader)/repo
+	url = https://github.com/lordievader/matrix-zabbix-bot
