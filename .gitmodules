@@ -2863,3 +2863,6 @@
 [submodule "Template-App-Blockchain-(limosek)/repo"]
 	path = Template-App-Blockchain-(limosek)/repo
 	url = https://github.com/limosek/cryptonote-zabbix
+[submodule "Template-App-Flume-(weldpua2008)/repo"]
+	path = Template-App-Flume-(weldpua2008)/repo
+	url = https://github.com/weldpua2008/zabbix-flume-template
