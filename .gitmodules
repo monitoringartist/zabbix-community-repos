@@ -2866,3 +2866,6 @@
 [submodule "Template-App-Flume-(weldpua2008)/repo"]
 	path = Template-App-Flume-(weldpua2008)/repo
 	url = https://github.com/weldpua2008/zabbix-flume-template
+[submodule "Integration-InfluxDB-(old-dmitry)/repo"]
+	path = Integration-InfluxDB-(old-dmitry)/repo
+	url = https://github.com/old-dmitry/zbx2influx
