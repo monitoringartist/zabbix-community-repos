@@ -2875,6 +2875,9 @@
 [submodule "Template-HW-Adaptec-RAID-(GOID1989)/repo"]
 	path = Template-HW-Adaptec-RAID-(GOID1989)/repo
 	url = https://github.com/GOID1989/zbx-adaptec-raid
+[submodule "Template-HW-Marvell-RAID-(GOID1989)/repo"]
+	path = Template-HW-Marvell-RAID-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-marvell-raid
 [submodule "Template-HW-WD-MyCloud-EX4-(GOID1989)/repo"]
 	path = Template-HW-WD-MyCloud-EX4-(GOID1989)/repo
 	url = https://github.com/GOID1989/zbx-wdmycloudex4
