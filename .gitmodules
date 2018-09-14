@@ -2875,3 +2875,6 @@
 [submodule "Template-HW-Adaptec-RAID-(GOID1989)/repo"]
 	path = Template-HW-Adaptec-RAID-(GOID1989)/repo
 	url = https://github.com/GOID1989/zbx-adaptec-raid
+[submodule "Template-App-Zimbra-(GOID1989)/repo"]
+	path = Template-App-Zimbra-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-zimbra-stats
