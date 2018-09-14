@@ -2878,3 +2878,6 @@
 [submodule "Template-HW-WD-MyCloud-EX4-(GOID1989)/repo"]
 	path = Template-HW-WD-MyCloud-EX4-(GOID1989)/repo
 	url = https://github.com/GOID1989/zbx-wdmycloudex4
+[submodule "Template-App-Symantec-BE-(GOID1989)/repo"]
+	path = Template-App-Symantec-BE-(GOID1989)/repo
+	url = https://github.com/GOID1989/zbx-symantec-be
