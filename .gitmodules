@@ -2896,3 +2896,6 @@
 [submodule "Template-AWS-Zaia-(youyo)/repo"]
 	path = Template-AWS-Zaia-(youyo)/repo
 	url = https://github.com/youyo/zaia
+[submodule "Template-App-Nextcloud-(doppel0)/repo"]
+	path = Template-App-Nextcloud-(doppel0)/repo
+	url = https://github.com/doppel0/zabbix-nextcloud-api
