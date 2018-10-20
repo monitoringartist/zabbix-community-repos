@@ -2893,3 +2893,6 @@
 [submodule "Module-InfluxDB-(i-ky)/repo"]
 	path = Module-InfluxDB-(i-ky)/repo
 	url = https://github.com/i-ky/effluence
+[submodule "Template-AWS-Zaia-(youyo)/repo"]
+	path = Template-AWS-Zaia-(youyo)/repo
+	url = https://github.com/youyo/zaia
