@@ -2890,3 +2890,6 @@
 [submodule "Module-InfluxDB-(LMacPhail)/repo"]
 	path = Module-InfluxDB-(LMacPhail)/repo
 	url = https://github.com/LMacPhail/zabbix-history-influxdb
+[submodule "Module-InfluxDB-(i-ky)/repo"]
+	path = Module-InfluxDB-(i-ky)/repo
+	url = https://github.com/i-ky/effluence
