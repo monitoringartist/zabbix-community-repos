@@ -2887,3 +2887,6 @@
 [submodule "Template-App-Symantec-BE-(GOID1989)/repo"]
 	path = Template-App-Symantec-BE-(GOID1989)/repo
 	url = https://github.com/GOID1989/zbx-symantec-be
+[submodule "Module-InfluxDB-(LMacPhail)/repo"]
+	path = Module-InfluxDB-(LMacPhail)/repo
+	url = https://github.com/LMacPhail/zabbix-history-influxdb
