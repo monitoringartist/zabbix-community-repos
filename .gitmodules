@@ -2980,3 +2980,6 @@
 [submodule "Template-App-Gunicorn-(sergiotocalini)/repo"]
 	path = Template-App-Gunicorn-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/gunbix
+[submodule "Template-App-Splunk-(sergiotocalini)/repo"]
+	path = Template-App-Splunk-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/spluix
