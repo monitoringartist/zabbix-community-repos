@@ -2959,3 +2959,6 @@
 [submodule "Template-App-Tarsnap-(mschuett)/repo"]
 	path = Template-App-Tarsnap-(mschuett)/repo
 	url = https://github.com/mschuett/tarsnap-zabbix-check
+[submodule "Template-App-OTRS-(Iakim)/repo"]
+	path = Template-App-OTRS-(Iakim)/repo
+	url = https://github.com/Iakim/Zabbix-OTRS
