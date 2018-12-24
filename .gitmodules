@@ -2911,3 +2911,6 @@
 [submodule "Script-AWS-EC2-Deregistration-Lambda-(phnahes)/repo"]
 	path = Script-AWS-EC2-Deregistration-Lambda-(phnahes)/repo
 	url = https://github.com/phnahes/zabbix-deregister-lambda-on-ec2-terminate
+[submodule "Template-App-Glassfish-JDBC-(alexander-nesterov)/repo"]
+	path = Template-App-Glassfish-JDBC-(alexander-nesterov)/repo
+	url = https://github.com/alexander-nesterov/zabbix_module_glassfish_jdbc_ping
