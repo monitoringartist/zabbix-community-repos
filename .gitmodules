@@ -2908,3 +2908,6 @@
 [submodule "Template-Database-Aerospike-(aerospike)/repo"]
 	path = Template-Database-Aerospike-(aerospike)/repo
 	url = https://github.com/aerospike/aerospike-zabbix
+[submodule "Script-AWS-EC2-Deregistration-Lambda-(phnahes)/repo"]
+	path = Script-AWS-EC2-Deregistration-Lambda-(phnahes)/repo
+	url = https://github.com/phnahes/zabbix-deregister-lambda-on-ec2-terminate
