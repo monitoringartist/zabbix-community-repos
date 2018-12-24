@@ -2983,3 +2983,6 @@
 [submodule "Template-App-Splunk-(sergiotocalini)/repo"]
 	path = Template-App-Splunk-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/spluix
+[submodule "Template-App-Dovecot-(sergiotocalini)/repo"]
+	path = Template-App-Dovecot-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/doveix
