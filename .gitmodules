@@ -2956,3 +2956,6 @@
 [submodule "Integration-Helm-Chart-(ragingpastry)/repo"]
 	path = Integration-Helm-Chart-(ragingpastry)/repo
 	url = https://github.com/ragingpastry/zabbix-helm
+[submodule "Template-App-Tarsnap-(mschuett)/repo"]
+	path = Template-App-Tarsnap-(mschuett)/repo
+	url = https://github.com/mschuett/tarsnap-zabbix-check
