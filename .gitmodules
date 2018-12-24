@@ -2929,3 +2929,6 @@
 [submodule "Template-App-Mcrouter-(gustavoantao)/repo"]
 	path = Template-App-Mcrouter-(gustavoantao)/repo
 	url = https://github.com/gustavoantao/zabbix-mcrouter-template
+[submodule "Integration-Zabbix-Sender-Go-(akomic)/repo"]
+	path = Integration-Zabbix-Sender-Go-(akomic)/repo
+	url = https://github.com/akomic/go-zabbix-proto
