@@ -2923,3 +2923,6 @@
 [submodule "Template-App-Hyper-V-Cluster-Shared-Volume-(JeferCatarina)/repo"]
 	path = Template-App-Hyper-V-Cluster-Shared-Volume-(JeferCatarina)/repo
 	url = https://github.com/JeferCatarina/zabbix_hyperv_clustersharedvolume
+[submodule "Template-App-Fail2ban-(hermanekt)/repo"]
+	path = Template-App-Fail2ban-(hermanekt)/repo
+	url = https://github.com/hermanekt/zabbix-fail2ban-discovery-
