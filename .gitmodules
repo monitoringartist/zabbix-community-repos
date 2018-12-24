@@ -2992,3 +2992,6 @@
 [submodule "Template-App-Seafile-(sergiotocalini)/repo"]
 	path = Template-App-Seafile-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/seabix
+[submodule "Template-App-Redis-(sergiotocalini)/repo"]
+	path = Template-App-Redis-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zedisx
