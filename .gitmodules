@@ -2941,3 +2941,6 @@
 [submodule "Template-App-VulnersCom-(vulnersCom)/repo"]
 	path = Template-App-VulnersCom-(vulnersCom)/repo
 	url = https://github.com/vulnersCom/zabbix-threat-control
+[submodule "Template-App-AWS-ECS-(Pahanda)/repo"]
+	path = Template-App-AWS-ECS-(Pahanda)/repo
+	url = https://github.com/Pahanda/zabbix-templates-ecs
