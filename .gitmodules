@@ -2962,3 +2962,6 @@
 [submodule "Template-App-OTRS-(Iakim)/repo"]
 	path = Template-App-OTRS-(Iakim)/repo
 	url = https://github.com/Iakim/Zabbix-OTRS
+[submodule "Integration-Zabbix-Sender-Delphi-(DelphiForBroadcasting)/repo"]
+	path = Integration-Zabbix-Sender-Delphi-(DelphiForBroadcasting)/repo
+	url = https://github.com/DelphiForBroadcasting/ZabbixSender-Delphi
