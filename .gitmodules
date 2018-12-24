@@ -2899,3 +2899,6 @@
 [submodule "Template-App-Nextcloud-(doppel0)/repo"]
 	path = Template-App-Nextcloud-(doppel0)/repo
 	url = https://github.com/doppel0/zabbix-nextcloud-api
+[submodule "Template-HW-Dell-OpenManage-Server-Administrator-tools---OMSA-(ronivay)/repo"]
+	path = Template-HW-Dell-OpenManage-Server-Administrator-tools---OMSA-(ronivay)/repo
+	url = https://github.com/ronivay/zabbix-dell-omsa
