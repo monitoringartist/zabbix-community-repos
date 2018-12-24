@@ -2947,3 +2947,6 @@
 [submodule "Template-App-NFS-(bloodia)/repo"]
 	path = Template-App-NFS-(bloodia)/repo
 	url = https://github.com/bloodia/Zabbix-Template-NFS-Client-Service
+[submodule "Template-App-GlusterFS-(bloodia)/repo"]
+	path = Template-App-GlusterFS-(bloodia)/repo
+	url = https://github.com/bloodia/Zabbix-Template-GlusterFS-Client-Service
