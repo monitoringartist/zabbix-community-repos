@@ -2950,3 +2950,6 @@
 [submodule "Template-App-GlusterFS-(bloodia)/repo"]
 	path = Template-App-GlusterFS-(bloodia)/repo
 	url = https://github.com/bloodia/Zabbix-Template-GlusterFS-Client-Service
+[submodule "Template-App-VFS-(bloodia)/repo"]
+	path = Template-App-VFS-(bloodia)/repo
+	url = https://github.com/bloodia/Zabbix-LLD-VFS
