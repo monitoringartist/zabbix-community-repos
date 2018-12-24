@@ -2917,3 +2917,6 @@
 [submodule "Template-App-Burp-(ronivay)/repo"]
 	path = Template-App-Burp-(ronivay)/repo
 	url = https://github.com/ronivay/burp-zabbix
+[submodule "Template-App-Unbound-(jeftedelima)/repo"]
+	path = Template-App-Unbound-(jeftedelima)/repo
+	url = https://github.com/jeftedelima/Unbound-DNS
