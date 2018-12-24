@@ -2965,3 +2965,6 @@
 [submodule "Integration-Zabbix-Sender-Delphi-(DelphiForBroadcasting)/repo"]
 	path = Integration-Zabbix-Sender-Delphi-(DelphiForBroadcasting)/repo
 	url = https://github.com/DelphiForBroadcasting/ZabbixSender-Delphi
+[submodule "Template-App-Altaro-(rozniak)/repo"]
+	path = Template-App-Altaro-(rozniak)/repo
+	url = https://github.com/rozniak/Zabbix-AltaroReporting
