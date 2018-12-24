@@ -2938,3 +2938,6 @@
 [submodule "Template-App-OpenLDAP-(MrCirca)/repo"]
 	path = Template-App-OpenLDAP-(MrCirca)/repo
 	url = https://github.com/MrCirca/OpenLDAP-Cluster-Zabbix
+[submodule "Template-App-VulnersCom-(vulnersCom)/repo"]
+	path = Template-App-VulnersCom-(vulnersCom)/repo
+	url = https://github.com/vulnersCom/zabbix-threat-control
