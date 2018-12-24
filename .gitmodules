@@ -2986,3 +2986,6 @@
 [submodule "Template-App-Dovecot-(sergiotocalini)/repo"]
 	path = Template-App-Dovecot-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/doveix
+[submodule "Template-App-KVM-(sergiotocalini)/repo"]
+	path = Template-App-KVM-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/virbix
