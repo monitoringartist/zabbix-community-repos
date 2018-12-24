@@ -2932,3 +2932,6 @@
 [submodule "Integration-Zabbix-Sender-Go-(akomic)/repo"]
 	path = Integration-Zabbix-Sender-Go-(akomic)/repo
 	url = https://github.com/akomic/go-zabbix-proto
+[submodule "Integration-Zabbix-Sender-C-sharp-(yanngg33)/repo"]
+	path = Integration-Zabbix-Sender-C-sharp-(yanngg33)/repo
+	url = https://github.com/yanngg33/Zabbix_Sender
