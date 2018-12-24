@@ -2926,3 +2926,6 @@
 [submodule "Template-App-Fail2ban-(hermanekt)/repo"]
 	path = Template-App-Fail2ban-(hermanekt)/repo
 	url = https://github.com/hermanekt/zabbix-fail2ban-discovery-
+[submodule "Template-App-Mcrouter-(gustavoantao)/repo"]
+	path = Template-App-Mcrouter-(gustavoantao)/repo
+	url = https://github.com/gustavoantao/zabbix-mcrouter-template
