@@ -2953,3 +2953,6 @@
 [submodule "Template-App-VFS-(bloodia)/repo"]
 	path = Template-App-VFS-(bloodia)/repo
 	url = https://github.com/bloodia/Zabbix-LLD-VFS
+[submodule "Integration-Helm-Chart-(ragingpastry)/repo"]
+	path = Integration-Helm-Chart-(ragingpastry)/repo
+	url = https://github.com/ragingpastry/zabbix-helm
