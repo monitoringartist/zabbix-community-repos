@@ -2902,3 +2902,6 @@
 [submodule "Template-HW-Dell-OpenManage-Server-Administrator-tools---OMSA-(ronivay)/repo"]
 	path = Template-HW-Dell-OpenManage-Server-Administrator-tools---OMSA-(ronivay)/repo
 	url = https://github.com/ronivay/zabbix-dell-omsa
+[submodule "Integration-POST-Gateway-(alexei-matveev)/repo"]
+	path = Integration-POST-Gateway-(alexei-matveev)/repo
+	url = https://github.com/alexei-matveev/zabbix-gateway
