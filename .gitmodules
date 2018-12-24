@@ -2920,3 +2920,6 @@
 [submodule "Template-App-Unbound-(jeftedelima)/repo"]
 	path = Template-App-Unbound-(jeftedelima)/repo
 	url = https://github.com/jeftedelima/Unbound-DNS
+[submodule "Template-App-Hyper-V-Cluster-Shared-Volume-(JeferCatarina)/repo"]
+	path = Template-App-Hyper-V-Cluster-Shared-Volume-(JeferCatarina)/repo
+	url = https://github.com/JeferCatarina/zabbix_hyperv_clustersharedvolume
