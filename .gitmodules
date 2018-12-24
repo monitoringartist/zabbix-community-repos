@@ -2974,3 +2974,6 @@
 [submodule "Template-App-Keepalived-(sergiotocalini)/repo"]
 	path = Template-App-Keepalived-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/keepax
+[submodule "Template-App-Ipsec-(sergiotocalini)/repo"]
+	path = Template-App-Ipsec-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/zipsec
