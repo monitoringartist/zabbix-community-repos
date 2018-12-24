@@ -2977,3 +2977,6 @@
 [submodule "Template-App-Ipsec-(sergiotocalini)/repo"]
 	path = Template-App-Ipsec-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zipsec
+[submodule "Template-App-Gunicorn-(sergiotocalini)/repo"]
+	path = Template-App-Gunicorn-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/gunbix
