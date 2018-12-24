@@ -2905,3 +2905,6 @@
 [submodule "Integration-POST-Gateway-(alexei-matveev)/repo"]
 	path = Integration-POST-Gateway-(alexei-matveev)/repo
 	url = https://github.com/alexei-matveev/zabbix-gateway
+[submodule "Template-Database-Aerospike-(aerospike)/repo"]
+	path = Template-Database-Aerospike-(aerospike)/repo
+	url = https://github.com/aerospike/aerospike-zabbix
