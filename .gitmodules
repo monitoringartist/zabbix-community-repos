@@ -2944,3 +2944,6 @@
 [submodule "Template-App-AWS-ECS-(Pahanda)/repo"]
 	path = Template-App-AWS-ECS-(Pahanda)/repo
 	url = https://github.com/Pahanda/zabbix-templates-ecs
+[submodule "Template-App-NFS-(bloodia)/repo"]
+	path = Template-App-NFS-(bloodia)/repo
+	url = https://github.com/bloodia/Zabbix-Template-NFS-Client-Service
