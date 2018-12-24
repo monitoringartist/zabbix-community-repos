@@ -2935,3 +2935,6 @@
 [submodule "Integration-Zabbix-Sender-C-sharp-(yanngg33)/repo"]
 	path = Integration-Zabbix-Sender-C-sharp-(yanngg33)/repo
 	url = https://github.com/yanngg33/Zabbix_Sender
+[submodule "Template-App-OpenLDAP-(MrCirca)/repo"]
+	path = Template-App-OpenLDAP-(MrCirca)/repo
+	url = https://github.com/MrCirca/OpenLDAP-Cluster-Zabbix
