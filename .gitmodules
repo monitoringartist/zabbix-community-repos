@@ -2971,3 +2971,6 @@
 [submodule "Template-App-Graylog-(bezarsnba)/repo"]
 	path = Template-App-Graylog-(bezarsnba)/repo
 	url = https://github.com/bezarsnba/zabbix-graylog-monitoring
+[submodule "Template-App-Keepalived-(sergiotocalini)/repo"]
+	path = Template-App-Keepalived-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/keepax
