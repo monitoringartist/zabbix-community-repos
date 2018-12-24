@@ -2989,3 +2989,6 @@
 [submodule "Template-App-KVM-(sergiotocalini)/repo"]
 	path = Template-App-KVM-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/virbix
+[submodule "Template-App-Seafile-(sergiotocalini)/repo"]
+	path = Template-App-Seafile-(sergiotocalini)/repo
+	url = https://github.com/sergiotocalini/seabix
