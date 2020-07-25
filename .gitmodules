@@ -2995,3 +2995,6 @@
 [submodule "Template-App-Redis-(sergiotocalini)/repo"]
 	path = Template-App-Redis-(sergiotocalini)/repo
 	url = https://github.com/sergiotocalini/zedisx
+[submodule "Template-App-HyperCX-OpenNebula-(Virtalus)/repo"]
+	path = Template-App-HyperCX-OpenNebula-(Virtalus)/repo
+	url = https://gitlab.com/virtalus/hypercx-beat-orchestrator
