@@ -2998,3 +2998,6 @@
 [submodule "Template-App-HyperCX-OpenNebula-(Virtalus)/repo"]
 	path = Template-App-HyperCX-OpenNebula-(Virtalus)/repo
 	url = https://gitlab.com/virtalus/hypercx-beat-orchestrator
+[submodule "Template-OS-Linux-Bcache-(blind_oracle)/repo"]
+	path = Template-OS-Linux-Bcache-(blind_oracle)/repo
+	url = https://github.com/blind-oracle/zabbix-bcache
