@@ -3010,3 +3010,6 @@
 [submodule "Template-APP-CensysIO-API/repo"]
 	path = Template-APP-CensysIO-API/repo
 	url = https://github.com/Relkci/Zabbix_Censys.io-API-Status
+[submodule "Template-APP-WPScan-API-(relkci)/repo"]
+	path = Template-APP-WPScan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
