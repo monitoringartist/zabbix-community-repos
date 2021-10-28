@@ -3025,3 +3025,6 @@
 [submodule "Template-APP-FullContact-API-(relkci)/repo"]
 	path = Template-APP-FullContact-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_FullContact_API
+[submodule "Template-APP-VNStat-Bandwidth-(relkci)/repo"]
+	path = Template-APP-VNStat-Bandwidth-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Bandwidth-vnstat
