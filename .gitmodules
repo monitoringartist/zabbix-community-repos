@@ -3013,3 +3013,6 @@
 [submodule "Template-APP-WPScan-API-(relkci)/repo"]
 	path = Template-APP-WPScan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
+[submodule "Template-APP-Shodan-API-(relkci)/repo"]
+	path = Template-APP-Shodan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
