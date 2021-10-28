@@ -3025,3 +3025,6 @@
 [submodule "Template-App-VNStat-Bandwidth-(relkci)/repo"]
 	path = Template-App-VNStat-Bandwidth-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Bandwidth-vnstat
+[submodule "Template-App-VirusTotal-API-(relkci)/repo"]
+	path = Template-App-VirusTotal-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
