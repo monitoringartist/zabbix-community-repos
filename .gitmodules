@@ -3016,3 +3016,6 @@
 [submodule "Template-APP-Shodan-API-(relkci)/repo"]
 	path = Template-APP-Shodan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
+[submodule "Template-APP-VirusTotal-API-(relkci)/repo"]
+	path = Template-APP-VirusTotal-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
