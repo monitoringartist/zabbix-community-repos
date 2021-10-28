@@ -3022,3 +3022,6 @@
 [submodule "Template-App-Shodan-API-(relkci)/repo"]
 	path = Template-App-Shodan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
+[submodule "Template-App-VNStat-Bandwidth-(relkci)/repo"]
+	path = Template-App-VNStat-Bandwidth-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Bandwidth-vnstat
