@@ -3007,3 +3007,6 @@
 [submodule "Template-App-Sendgrid-API/repo"]
 	path = Template-App-Sendgrid-API/repo
 	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
+[submodule "Template-APP-CensysIO-API/repo"]
+	path = Template-APP-CensysIO-API/repo
+	url = https://github.com/Relkci/Zabbix_Censys.io-API-Status
