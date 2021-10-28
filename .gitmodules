@@ -3016,3 +3016,6 @@
 [submodule "Template-App-NessusProfessional-API-(relkci)/repo"]
 	path = Template-App-NessusProfessional-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring
+[submodule "Template-App-Sendgrid-API-(relkci)/repo"]
+	path = Template-App-Sendgrid-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
