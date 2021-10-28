@@ -3007,24 +3007,27 @@
 [submodule "Template-App-Sendgrid-API-(relkci)/repo"]
 	path = Template-App-Sendgrid-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
-[submodule "Template-APP-CensysIO-API-(relkci)/repo"]
-	path = Template-APP-CensysIO-API-(relkci)/repo
+[submodule "Template-App-CensysIO-API-(relkci)/repo"]
+	path = Template-App-CensysIO-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Censys.io-API-Status
-[submodule "Template-APP-WPScan-API-(relkci)/repo"]
-	path = Template-APP-WPScan-API-(relkci)/repo
+[submodule "Template-App--WPScan-API-(relkci)/repo"]
+	path = Template-App-WPScan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
-[submodule "Template-APP-Shodan-API-(relkci)/repo"]
-	path = Template-APP-Shodan-API-(relkci)/repo
+[submodule "Template-App-Shodan-API-(relkci)/repo"]
+	path = Template-App-Shodan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
-[submodule "Template-APP-VirusTotal-API-(relkci)/repo"]
-	path = Template-APP-VirusTotal-API-(relkci)/repo
+[submodule "Template-App-VirusTotal-API-(relkci)/repo"]
+	path = Template-App-VirusTotal-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
-[submodule "Template-APP-IPStack-Geolocation-API-(relkci)/repo"]
-	path = Template-APP-IPStack-Geolocation-API-(relkci)/repo
+[submodule "Template-App-IPStack-Geolocation-API-(relkci)/repo"]
+	path = Template-App-IPStack-Geolocation-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_GeoLocation-IPStack
-[submodule "Template-APP-FullContact-API-(relkci)/repo"]
-	path = Template-APP-FullContact-API-(relkci)/repo
+[submodule "Template-App-FullContact-API-(relkci)/repo"]
+	path = Template-App-FullContact-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_FullContact_API
-[submodule "Template-APP-VNStat-Bandwidth-(relkci)/repo"]
-	path = Template-APP-VNStat-Bandwidth-(relkci)/repo
+[submodule "Template-App-VNStat-Bandwidth-(relkci)/repo"]
+	path = Template-App-VNStat-Bandwidth-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Bandwidth-vnstat
+[submodule "Template-App-NessusProfessional-API-(relkci)/repo"]
+	path = Template-App-NessusProfessional-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring
