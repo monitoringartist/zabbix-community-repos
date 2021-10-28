@@ -3004,11 +3004,11 @@
 [submodule "Template-App-Cloudflared-Tunnel-(relkci)/repo"]
 	path = Template-App-Cloudflared-Tunnel-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Cloudflared
-[submodule "Template-App-Sendgrid-API/repo"]
-	path = Template-App-Sendgrid-API/repo
+[submodule "Template-App-Sendgrid-API-(relkci)/repo"]
+	path = Template-App-Sendgrid-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
-[submodule "Template-APP-CensysIO-API/repo"]
-	path = Template-APP-CensysIO-API/repo
+[submodule "Template-APP-CensysIO-API-(relkci)/repo"]
+	path = Template-APP-CensysIO-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Censys.io-API-Status
 [submodule "Template-APP-WPScan-API-(relkci)/repo"]
 	path = Template-APP-WPScan-API-(relkci)/repo
