@@ -1,1 +1,1 @@
-[Link - Template-App-Sendgrid-API](https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
+[Link - Template-App-Sendgrid-API-(relkci)](https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
