@@ -3019,3 +3019,6 @@
 [submodule "Template-App-Sendgrid-API-(relkci)/repo"]
 	path = Template-App-Sendgrid-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
+[submodule "Template-App-Shodan-API-(relkci)/repo"]
+	path = Template-App-Shodan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
