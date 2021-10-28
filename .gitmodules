@@ -3022,3 +3022,6 @@
 [submodule "Template-APP-IPStack-Geolocation-API-(relkci)/repo"]
 	path = Template-APP-IPStack-Geolocation-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_GeoLocation-IPStack
+[submodule "Template-APP-FullContact-API-(relkci)/repo"]
+	path = Template-APP-FullContact-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_FullContact_API
