@@ -3001,3 +3001,33 @@
 [submodule "Template-OS-Linux-Bcache-(blind_oracle)/repo"]
 	path = Template-OS-Linux-Bcache-(blind_oracle)/repo
 	url = https://github.com/blind-oracle/zabbix-bcache
+[submodule "Template-App-Censys-API-(relkci)/repo"]
+	path = Template-App-Censys-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Censys.io-API-Status
+[submodule "Template-App-Cloudflared-Tunnel-(relkci)/repo"]
+	path = Template-App-Cloudflared-Tunnel-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Cloudflared
+[submodule "Template-App-FullContact-API-(relkci)/repo"]
+	path = Template-App-FullContact-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_FullContact_API
+[submodule "Template-App-IPStack-Geolocation-API-(relkci)/repo"]
+	path = Template-App-IPStack-Geolocation-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_GeoLocation-IPStack
+[submodule "Template-App-NessusProfessional-API-(relkci)/repo"]
+	path = Template-App-NessusProfessional-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring
+[submodule "Template-App-Sendgrid-API-(relkci)/repo"]
+	path = Template-App-Sendgrid-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Sendgrid_Api_Provider
+[submodule "Template-App-Shodan-API-(relkci)/repo"]
+	path = Template-App-Shodan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Shodan-APIStatus
+[submodule "Template-App-VNStat-Bandwidth-(relkci)/repo"]
+	path = Template-App-VNStat-Bandwidth-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Bandwidth-vnstat
+[submodule "Template-App-VirusTotal-API-(relkci)/repo"]
+	path = Template-App-VirusTotal-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
+[submodule "Template-App-WPScan-API-(relkci)/repo"]
+	path = Template-App-WPScan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
