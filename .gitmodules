@@ -3019,3 +3019,6 @@
 [submodule "Template-APP-VirusTotal-API-(relkci)/repo"]
 	path = Template-APP-VirusTotal-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
+[submodule "Template-APP-IPStack-Geolocation-API-(relkci)/repo"]
+	path = Template-APP-IPStack-Geolocation-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_GeoLocation-IPStack
