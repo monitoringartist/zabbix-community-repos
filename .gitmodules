@@ -3013,3 +3013,6 @@
 [submodule "Template-App-IPStack-Geolocation-API-(relkci)/repo"]
 	path = Template-App-IPStack-Geolocation-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_GeoLocation-IPStack
+[submodule "Template-App-NessusProfessional-API-(relkci)/repo"]
+	path = Template-App-NessusProfessional-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Nessus-Professional_Monitoring
