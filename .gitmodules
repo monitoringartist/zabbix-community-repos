@@ -3001,3 +3001,6 @@
 [submodule "Template-OS-Linux-Bcache-(blind_oracle)/repo"]
 	path = Template-OS-Linux-Bcache-(blind_oracle)/repo
 	url = https://github.com/blind-oracle/zabbix-bcache
+[submodule "Template-App-Cloudflared-Tunnel-(relkci)/repo"]
+	path = Template-App-Cloudflared-Tunnel-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_Cloudflared
