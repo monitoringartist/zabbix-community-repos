@@ -3028,3 +3028,6 @@
 [submodule "Template-App-VirusTotal-API-(relkci)/repo"]
 	path = Template-App-VirusTotal-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_VirusTotalAPIStatus
+[submodule "Template-App-WPScan-API-(relkci)/repo"]
+	path = Template-App-WPScan-API-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
