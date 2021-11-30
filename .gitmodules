@@ -3031,3 +3031,9 @@
 [submodule "Template-App-WPScan-API-(relkci)/repo"]
 	path = Template-App-WPScan-API-(relkci)/repo
 	url = https://github.com/Relkci/Zabbix_WPScanAPIStatus
+[submodule "Template-App-MailChimp-Marketing-(relkci)/repo"]
+	path = Template-App-MailChimp-Marketing-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_MailChimpStats
+[submodule "Template-App-SecurityScorecard-(relkci)/repo"]
+	path = Template-App-SecurityScorecard-(relkci)/repo
+	url = https://github.com/Relkci/Zabbix_SecurityScorecard
